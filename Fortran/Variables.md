@@ -1,3 +1,0 @@
-sakib
-is
-my name

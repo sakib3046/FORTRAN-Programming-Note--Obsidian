@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"4f40a494bdaeb363","type":"text","text":"# 1.[[Introduction & History]]\n","x":-222,"y":-560,"width":445,"height":50,"color":"4"},
+		{"id":"2540d6f34c6b86c0","type":"text","text":"# 3.[[Input & Output]]","x":-173,"y":-380,"width":348,"height":50,"color":"2"},
+		{"id":"3cb6e5dfbcd2bf0e","type":"text","text":"# 5.[[Data Types]]\n","x":-149,"y":-190,"width":300,"height":60,"color":"2"},
+		{"id":"f4614ef5b00882b1","type":"text","text":"# 2.[[How FORTRAN works]]\n","x":-219,"y":-470,"width":440,"height":50,"color":"4"},
+		{"id":"311e7310f7b2f070","type":"text","text":"# 4.[[Variables]]\n","x":-179,"y":-290,"width":360,"height":60,"color":"2"},
+		{"id":"6425e6c15e09fd52","type":"text","text":"# 6.[[Operators]]","x":-124,"y":-90,"width":250,"height":60,"color":"2"},
+		{"id":"3304282fb09e36c4","type":"text","text":"# 7.[[Control Flow]]","x":-161,"y":10,"width":324,"height":58,"color":"2"},
+		{"id":"cefd069cf381023d","type":"text","text":"# 7.1.[[Conditional statements]]","x":-520,"y":160,"width":493,"height":50,"color":"3"},
+		{"id":"71a50e3a0cd80a24","type":"text","text":"# 7.2.[[Iteration (Looping)]]","x":40,"y":160,"width":424,"height":50,"color":"3"},
+		{"id":"6941364103b60d37","type":"file","file":"Fortran/Assets/Fortran.png","x":-39,"y":-680,"width":80,"height":80}
+	],
+	"edges":[
+		{"id":"bd1143b0f341ccdf","fromNode":"4f40a494bdaeb363","fromSide":"bottom","toNode":"f4614ef5b00882b1","toSide":"top","color":"4"},
+		{"id":"43e1088c27e36186","fromNode":"6941364103b60d37","fromSide":"bottom","toNode":"4f40a494bdaeb363","toSide":"top","color":"6"},
+		{"id":"ca7ac30234b65071","fromNode":"f4614ef5b00882b1","fromSide":"bottom","toNode":"2540d6f34c6b86c0","toSide":"top","color":"4"},
+		{"id":"1b45bdf0bf958e68","fromNode":"2540d6f34c6b86c0","fromSide":"bottom","toNode":"311e7310f7b2f070","toSide":"top","color":"2"},
+		{"id":"c4945b334dd19e27","fromNode":"311e7310f7b2f070","fromSide":"bottom","toNode":"3cb6e5dfbcd2bf0e","toSide":"top","color":"2"},
+		{"id":"d200adbdc58872a4","fromNode":"3304282fb09e36c4","fromSide":"bottom","toNode":"cefd069cf381023d","toSide":"top","color":"2"},
+		{"id":"c66da037cec5474d","fromNode":"3304282fb09e36c4","fromSide":"bottom","toNode":"71a50e3a0cd80a24","toSide":"top","color":"2"},
+		{"id":"2e8ff37d1a14ecab","fromNode":"3cb6e5dfbcd2bf0e","fromSide":"bottom","toNode":"6425e6c15e09fd52","toSide":"top","color":"2"},
+		{"id":"8d23e89ec2f628b6","fromNode":"6425e6c15e09fd52","fromSide":"bottom","toNode":"3304282fb09e36c4","toSide":"top","color":"2"}
+	]
+}

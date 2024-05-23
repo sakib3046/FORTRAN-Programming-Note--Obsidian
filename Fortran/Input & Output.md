@@ -42,3 +42,29 @@
 ৪. ত্রুটি পরিচালনা:
 
 আউটপুট অপারেশনের সময় সম্ভাব্য ত্রুটিগুলি পরিচালনা করা খুবই জরুরি। ফাইলের আই/ও ত্রুটি বা অবৈধ ফর্ম্যাট স্পেসিফায়ারের মতো ত্রুটিগুলি পরীক্ষা করার জন্য ফোরট্রান বিশেষ সুবিধা দেয়। এই ত্রুটিগুলিকে সনাক্ত এবং সঠিকভাবে পরিচালনা করতে আপনি ERRNO এবং IOSTAT এর মতো স্টেটমেন্টগুলি ব্যবহার করতে পারেন।
+
+```
+program formatted_output_example
+  integer :: age = 25
+  real :: pi = 3.1415926535, temperature = 22.5
+  character(len=10) :: name = "Fortran"
+
+  ! Print name with left justification and a field width of 15 characters
+  print *, 'Name:', A15:name
+
+  ! Print pi with 8 characters total, including 2 decimal places
+  print *, 'Pi (8 characters):', F8.2:pi
+
+  ! Print temperature with a sign, right justification, and 1 decimal place
+  print *, 'Temperature:', F9.1:temperature
+
+  ! Print a formatted string with escape sequences for newline and tab
+  print *, 'Hello, this is a\nformatted string with a tab: \tright here!'
+
+end program
+```
+
+
+content_copy
+
+**Explanation:**

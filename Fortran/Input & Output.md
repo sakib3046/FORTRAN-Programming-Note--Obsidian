@@ -1,74 +1,39 @@
-he Fortran output system allows you to display data and messages to the user or write them to external files. Here's a breakdown of the key concepts:
+ফোরট্রান আউটপুট সিস্টেমটি আপনাকে ডেটা এবং মেসেজগুলি ব্যবহারকারীকে দেখাতে বা বাইরের ফাইলে লিখতে দেয়। এখানে মূল ধারণাগুলির বিশ্লেষণ দেওয়া হল:
 
-**1. Unformatted vs. Formatted Output:**
+**১. অফর্ম্যাটেড বনাম ফর্ম্যাটেড আউটপুট:**
 
-- **Unformatted Output (WRITE statements):**
-    - Used for simple data printing without specific formatting.
-    - You specify the variables or expressions to be written, separated by commas.
-    - Example: `WRITE(*,*) x, y, z` (prints variables x, y, and z)
-- **Formatted Output (PRINT statements):**
-    - Offers more control over how data is displayed.
-    - Uses a format specifier to define the layout of the output.
-    - Example: `PRINT *, 'Result:', F10.2` (prints "Result:" followed by a floating-point number with 2 decimal places)
+- **অফর্ম্যাটেড আউটপুট (WRITE স্টেটমেন্ট):**
+    - নির্দিষ্ট ফর্ম্যাটিং ছাড়াই সহজ ডেটা প্রিন্ট করার জন্য ব্যবহৃত হয়।
+    - আপনি কমা দ্বারা পৃথককৃত লেখার জন্য ভেরিয়েবল বা এক্সপ্রেশনগুলি নির্দিষ্ট করুন।
+    - উদাহরণ: `WRITE(*,*) x, y, z` (এটি ভেরিয়েবল x, y, এবং z প্রিন্ট করে)
+- **ফর্ম্যাটেড আউটপুট (PRINT স্টেটমেন্ট):**
+    - ডেটা কীভাবে প্রদর্শিত হবে সে সম্পর্কে আরও নিয়ন্ত্রণ দেয়।
+    - আউটপুটের লেআউট সংজ্ঞায়িত করতে ফর্ম্যাট স্পেসিফায়ার ব্যবহার করে।
+    - উদাহরণ: `PRINT *, 'Result:', F10.2` (এটি "Result:" এর পরে 2 দশমিক স্থানের সাথে একটি ফ্লোটিং-পয়েন্ট সংখ্যা প্রিন্ট করে)
 
-**2. Format Specifiers:**
+**২. ফর্ম্যাট স্পেসিফায়ার:**
 
-- Format specifiers control how data is displayed in formatted output (PRINT statements).
-- They define:
-    - Data type (integer, real, character, etc.)
-    - Field width (minimum number of characters to display)
-    - Precision (number of decimal places for floating-point numbers)
-    - Other formatting options like justification (left, right, or center)
-- Common format specifiers:
-    - `I` - Integer
-    - `F` - Floating-point
-    - `E` - Scientific notation
-    - `A` - Character string
+- ফর্ম্যাট স্পেসিফায়ারগুলি নির্ধারণ করে যে ফর্ম্যাটেড আউটপুটে (PRINT স্টেটমেন্ট) ডেটা কীভাবে প্রদর্শিত হবে।
+- এরা সংজ্ঞায়িত করে:
+    - ডেটা টাইপ (পূর্ণসংখ্যা, রিয়েল, ক্যারেক্টার, ইত্যাদি)
+    - ফিল্ডের প্রস্থ (প্রদর্শনের জন্য সর্বনিম্ন অক্ষরের সংখ্যা)
+    - নিখুততা (ফ্লোটিং-পয়েন্ট সংখ্যার জন্য দশমিক স্থানের সংখ্যা)
+    - জাস্টিফিকেশন (বাম, ডান বা কেন্দ্র) এর মতো অন্যান্য ফর্ম্যাটিং অপশন
+- সাধারণ ফর্ম্যাট স্পেসিফায়ার:
+    - `I` - পূর্ণসংখ্যা
+    - `F` - ফ্লোটিং-পয়েন্ট
+    - `E` - বৈজ্ঞানিক সংকেত
+    - `A` - ক্যারেক্টার স্ট্রিং
 
-**3. Output Unit Control:**
+**৩. আউটপুট ইউনিট নিয়ন্ত্রণ:**
 
-- By default, unformatted output (`WRITE`) goes to the console.
-- Formatted output (`PRINT`) can be directed to different output units:
-    - `*` - Console (default)
-    - Unit number (associated with an external file opened with `OPEN` statement)
-- This allows you to write output to specific files for further processing or analysis.
+- ডিফল্টরূপে, অফর্ম্যাটেড আউটপুট (`WRITE`) কনসোলে যায়।
+- ফর্ম্যাটেড আউটপুট (`PRINT`) বিভিন্ন আউটপুট ইউনিটে নির্দেশ দেওয়া যেতে পারে:
+    - `*` - কনসোল (ডিফল্ট)
+    - ইউনিট নম্বর (`OPEN` স্টেটমেন্ট দিয়ে খোলা একটি বাইরের ফাইলের সাথে সংযুক্ত)
+- এটি আপনাকে আরও প্রক্রিয়াকরণ বা বিশ্লেষণের জন্য নির্দিষ্ট ফাইলে আউটপুট লিখতে দেয়।
 
-**4. Error Handling:**
+**৪. ত্রুটি পরিচালনা:**
 
-- It's essential to handle potential errors during output operations.
-- Fortran provides features to check for errors like file I/O errors or invalid format specifiers.
-- You can use statements like `ERRNO` and `IOSTAT` to detect and handle errors gracefully.
-
-**Here's an example illustrating both unformatted and formatted output:**
-
-Fortran
-
-```
-program output_example
-  integer :: age = 25
-  real :: pi = 3.14159
-  character(len=10) :: name = "Fortran"
-
-  ! Unformatted output
-  write(*,*) "Name:", name, " Age:", age
-
-  ! Formatted output
-  print *, "Pi with 4 decimals:", F10.4
-  print *, 'Formatted string: ', A
-
-end program
-```
-
-Use code [with caution.](/faq#coding)
-
-content_copy
-
-This code will print something like:
-
-```
-Name: Fortran  Age: 25
-Pi with 4 decimals:    3.1416
-Formatted string: Fortran
-```
-
-**In summary, the Fortran output system provides flexibility for displaying data in various ways, allowing you to tailor the output to your specific needs.**
+- আউটপুট অপারেশনের সময় সম্ভাব্য ত্রুটিগুলি পরিচালনা করা জরুরি।
+- ফাইল আই/ও ত্রুটি বা অবৈধ ফর্ম্যাট স্পেসি

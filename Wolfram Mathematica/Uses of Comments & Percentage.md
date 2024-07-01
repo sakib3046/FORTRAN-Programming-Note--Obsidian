@@ -1,3 +1,7 @@
+ User Interface of Wolfram Mathematica
+![[Pasted image 20240702014705.png]]
+---
+
 ## Comments
 ম্যাথমেটিকাতে কমেন্ট যোগ করার দুটি প্রধান উপায় রয়েছে:
 

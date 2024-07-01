@@ -16,7 +16,8 @@ Mathematica has a powerful collection of **symbolic functions** (Built in Functi
 
 ---
 Example:
-````
+
+```
 N[]
 Sqrt[]
 Prime[]

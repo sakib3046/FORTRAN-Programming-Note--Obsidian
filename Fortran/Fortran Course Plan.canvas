@@ -4,7 +4,7 @@
 		{"id":"2540d6f34c6b86c0","type":"text","text":"# 3.[[Input & Output]]","x":-173,"y":-380,"width":348,"height":50,"color":"2"},
 		{"id":"3cb6e5dfbcd2bf0e","type":"text","text":"# 5.[[Data Types]]\n","x":-149,"y":-190,"width":300,"height":60,"color":"2"},
 		{"id":"f4614ef5b00882b1","type":"text","text":"# 2.[[How FORTRAN works]]\n","x":-219,"y":-470,"width":440,"height":50,"color":"4"},
-		{"id":"311e7310f7b2f070","type":"text","text":"# 4.[[Variables]]\n","x":-179,"y":-290,"width":360,"height":60,"color":"2"},
+		{"id":"311e7310f7b2f070","type":"text","text":"# 4.[[Fortran/Variables]]\n","x":-179,"y":-290,"width":360,"height":60,"color":"2"},
 		{"id":"6425e6c15e09fd52","type":"text","text":"# 6.[[Operators]]","x":-124,"y":-90,"width":250,"height":60,"color":"2"},
 		{"id":"6941364103b60d37","type":"file","file":"Fortran/Assets/Fortran.png","x":-39,"y":-680,"width":80,"height":80},
 		{"id":"3304282fb09e36c4","type":"text","text":"# 7.[[Control Flow]]","x":-161,"y":420,"width":324,"height":58,"color":"2"},

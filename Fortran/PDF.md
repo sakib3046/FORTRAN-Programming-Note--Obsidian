@@ -689,29 +689,29 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 			]
 		},
 		{
-			"id": "7kQApSTn80LhKZduPIBgZ",
 			"type": "freedraw",
-			"x": -255.71164604279235,
-			"y": -4998.185537375702,
-			"width": 10.973318062805845,
-			"height": 13.283490286554297,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 14,
+			"versionNonce": 788092061,
+			"index": "b0C",
+			"isDeleted": false,
+			"id": "7kQApSTn80LhKZduPIBgZ",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -255.71164604279235,
+			"y": -4998.185537375702,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 10.973318062805845,
+			"height": 13.283490286554297,
+			"seed": 1143076893,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0C",
 			"roundness": null,
-			"seed": 1143076893,
-			"version": 14,
-			"versionNonce": 788092061,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437007385,
 			"link": null,
 			"locked": false,
@@ -765,37 +765,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-11.550861118742432
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				10.973318062805845,
-				-11.550861118742432
-			]
+			"pressures": []
 		},
 		{
-			"id": "d6EJEb6i0cXGI6L1Q0MBq",
 			"type": "freedraw",
-			"x": -244.7383279799865,
-			"y": -5005.116054046947,
-			"width": 21.94663612561166,
-			"height": 19.058920845925968,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 1495604211,
+			"index": "b0D",
+			"isDeleted": false,
+			"id": "d6EJEb6i0cXGI6L1Q0MBq",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -244.7383279799865,
+			"y": -5005.116054046947,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 21.94663612561166,
+			"height": 19.058920845925968,
+			"seed": 228794707,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0D",
 			"roundness": null,
-			"seed": 228794707,
-			"version": 11,
-			"versionNonce": 1495604211,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437007786,
 			"link": null,
 			"locked": false,
@@ -837,37 +834,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-16.171205566240133
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				21.94663612561166,
-				-16.171205566240133
-			]
+			"pressures": []
 		},
 		{
-			"id": "ZyHUuCMYUIDjzveycdoLv",
 			"type": "freedraw",
-			"x": 3.6051860729876353,
-			"y": -5002.805881823198,
-			"width": 36.96275557997757,
-			"height": 21.36909306967391,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 47,
+			"versionNonce": 1526849021,
+			"index": "b0E",
+			"isDeleted": false,
+			"id": "ZyHUuCMYUIDjzveycdoLv",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 3.6051860729876353,
+			"y": -5002.805881823198,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 36.96275557997757,
+			"height": 21.36909306967391,
+			"seed": 179958045,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0E",
 			"roundness": null,
-			"seed": 179958045,
-			"version": 47,
-			"versionNonce": 1526849021,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437055876,
 			"link": null,
 			"locked": false,
@@ -1053,37 +1047,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-9.240688894994491
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-2.310172223748623,
-				-9.240688894994491
-			]
+			"pressures": []
 		},
 		{
-			"id": "IuQO7277g6CFO8AqiHUSY",
 			"type": "freedraw",
-			"x": -43.175801457921466,
-			"y": -5008.003769326633,
-			"width": 106.84546534837256,
-			"height": 8.663145839057506,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 19,
+			"versionNonce": 709823891,
+			"index": "b0F",
+			"isDeleted": false,
+			"id": "IuQO7277g6CFO8AqiHUSY",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -43.175801457921466,
+			"y": -5008.003769326633,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 106.84546534837256,
+			"height": 8.663145839057506,
+			"seed": 2021247475,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0F",
 			"roundness": null,
-			"seed": 2021247475,
-			"version": 19,
-			"versionNonce": 709823891,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437057089,
 			"link": null,
 			"locked": false,
@@ -1157,37 +1148,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					8.663145839057506
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-106.84546534837256,
-				8.663145839057506
-			]
+			"pressures": []
 		},
 		{
-			"id": "QPxeVoUq5Vxq43PynFGWF",
 			"type": "freedraw",
-			"x": -144.82337930285968,
-			"y": -5004.53851099101,
-			"width": 17.903834734051657,
-			"height": 9.818231950931477,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 24,
+			"versionNonce": 242926013,
+			"index": "b0G",
+			"isDeleted": false,
+			"id": "QPxeVoUq5Vxq43PynFGWF",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -144.82337930285968,
+			"y": -5004.53851099101,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 17.903834734051657,
+			"height": 9.818231950931477,
+			"seed": 147545469,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0G",
 			"roundness": null,
-			"seed": 147545469,
-			"version": 24,
-			"versionNonce": 242926013,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437058058,
 			"link": null,
 			"locked": false,
@@ -1281,37 +1269,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					9.240688894994491
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-1.1550861118743114,
-				9.240688894994491
-			]
+			"pressures": []
 		},
 		{
-			"id": "454_1RwaZf5CjA_zKQ1z5",
 			"type": "freedraw",
-			"x": -282.85616967183836,
-			"y": -4980.859245697587,
-			"width": 9.240688894994378,
-			"height": 8.085602783119612,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 18,
+			"versionNonce": 1648145459,
+			"index": "b0H",
+			"isDeleted": false,
+			"id": "454_1RwaZf5CjA_zKQ1z5",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -282.85616967183836,
+			"y": -4980.859245697587,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 9.240688894994378,
+			"height": 8.085602783119612,
+			"seed": 51444275,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0H",
 			"roundness": null,
-			"seed": 51444275,
-			"version": 18,
-			"versionNonce": 1648145459,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437060324,
 			"link": null,
 			"locked": false,
@@ -1381,37 +1366,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					1.1550861118739704
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				9.240688894994378,
-				1.1550861118739704
-			]
+			"pressures": []
 		},
 		{
-			"id": "nOtBRVWCfu5RFa27I4Ngq",
 			"type": "freedraw",
-			"x": -181.78613488283725,
-			"y": -4956.02489429229,
-			"width": 16.748748622177317,
-			"height": 9.818231950931477,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 19,
+			"versionNonce": 560744253,
+			"index": "b0I",
+			"isDeleted": false,
+			"id": "nOtBRVWCfu5RFa27I4Ngq",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -181.78613488283725,
+			"y": -4956.02489429229,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 16.748748622177317,
+			"height": 9.818231950931477,
+			"seed": 1319077085,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0I",
 			"roundness": null,
-			"seed": 1319077085,
-			"version": 19,
-			"versionNonce": 560744253,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437068972,
 			"link": null,
 			"locked": false,
@@ -1485,37 +1467,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-5.775430559370761
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				16.748748622177317,
-				-5.775430559370761
-			]
+			"pressures": []
 		},
 		{
-			"id": "NWKaxkx5I0PKMOv60RZKo",
 			"type": "freedraw",
-			"x": -167.92510154034568,
-			"y": -4960.645238739787,
-			"width": 9.240688894994406,
-			"height": 5.775430559371671,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 15,
+			"versionNonce": 524986835,
+			"index": "b0J",
+			"isDeleted": false,
+			"id": "NWKaxkx5I0PKMOv60RZKo",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -167.92510154034568,
+			"y": -4960.645238739787,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 9.240688894994406,
+			"height": 5.775430559371671,
+			"seed": 653147315,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0J",
 			"roundness": null,
-			"seed": 653147315,
-			"version": 15,
-			"versionNonce": 524986835,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437069465,
 			"link": null,
 			"locked": false,
@@ -1573,37 +1552,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					2.3101722237488502
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				9.240688894994406,
-				2.3101722237488502
-			]
+			"pressures": []
 		},
 		{
-			"id": "G1x9hczAP835lU4ij7rRv",
 			"type": "freedraw",
-			"x": 591.5440170170056,
-			"y": -4900.003217866385,
-			"width": 110.88826673993253,
-			"height": 51.97887503434322,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 55,
+			"versionNonce": 682473757,
+			"index": "b0K",
+			"isDeleted": false,
+			"id": "G1x9hczAP835lU4ij7rRv",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 591.5440170170056,
+			"y": -4900.003217866385,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 110.88826673993253,
+			"height": 51.97887503434322,
+			"seed": 1993846077,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0K",
 			"roundness": null,
-			"seed": 1993846077,
-			"version": 55,
-			"versionNonce": 682473757,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437161338,
 			"link": null,
 			"locked": false,
@@ -1821,37 +1797,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					9.818231950931477
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-4.620344447497132,
-				9.818231950931477
-			]
+			"pressures": []
 		},
 		{
-			"id": "gej6QtsF9Q1bSptV4KwFZ",
 			"type": "freedraw",
-			"x": 585.7685864576341,
-			"y": -4946.7842053972945,
-			"width": 35.8076694681032,
-			"height": 45.62590141903456,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 21,
+			"versionNonce": 1750580147,
+			"index": "b0L",
+			"isDeleted": false,
+			"id": "gej6QtsF9Q1bSptV4KwFZ",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 585.7685864576341,
+			"y": -4946.7842053972945,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 35.8076694681032,
+			"height": 45.62590141903456,
+			"seed": 1680135379,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0L",
 			"roundness": null,
-			"seed": 1680135379,
-			"version": 21,
-			"versionNonce": 1750580147,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437162091,
 			"link": null,
 			"locked": false,
@@ -1933,37 +1906,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					42.16064308341265
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				32.91995418841748,
-				42.16064308341265
-			]
+			"pressures": []
 		},
 		{
-			"id": "Wk9BTOlMrCOHc8ECBRefg",
 			"type": "freedraw",
-			"x": 598.4745336882513,
-			"y": -4905.778648425757,
-			"width": 25.411894461234624,
-			"height": 13.861033342491282,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 16,
+			"versionNonce": 90377885,
+			"index": "b0M",
+			"isDeleted": false,
+			"id": "Wk9BTOlMrCOHc8ECBRefg",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 598.4745336882513,
+			"y": -4905.778648425757,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 25.411894461234624,
+			"height": 13.861033342491282,
+			"seed": 1736484189,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0M",
 			"roundness": null,
-			"seed": 1736484189,
-			"version": 16,
-			"versionNonce": 90377885,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437162642,
 			"link": null,
 			"locked": false,
@@ -2025,37 +1995,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-8.663145839056597
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				25.411894461234624,
-				-8.663145839056597
-			]
+			"pressures": []
 		},
 		{
-			"id": "CwQD_lPVg13e2IsLz03BB",
 			"type": "freedraw",
-			"x": 623.8864281494859,
-			"y": -4870.548522013591,
-			"width": 23.6792652934231,
-			"height": 13.283490286554297,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 40,
+			"versionNonce": 1838309651,
+			"index": "b0N",
+			"isDeleted": false,
+			"id": "CwQD_lPVg13e2IsLz03BB",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 623.8864281494859,
+			"y": -4870.548522013591,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 23.6792652934231,
+			"height": 13.283490286554297,
+			"seed": 763184979,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0N",
 			"roundness": null,
-			"seed": 763184979,
-			"version": 40,
-			"versionNonce": 1838309651,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437168145,
 			"link": null,
 			"locked": false,
@@ -2213,37 +2180,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-1.7326291678109556
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				23.6792652934231,
-				-1.7326291678109556
-			]
+			"pressures": []
 		},
 		{
-			"id": "jAIocg8HQio1Mz0IYYZla",
 			"type": "freedraw",
-			"x": 655.6512962260292,
-			"y": -4868.815892845779,
-			"width": 53.711504202154856,
-			"height": 25.411894461234624,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 21,
+			"versionNonce": 991927581,
+			"index": "b0O",
+			"isDeleted": false,
+			"id": "jAIocg8HQio1Mz0IYYZla",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 655.6512962260292,
+			"y": -4868.815892845779,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 53.711504202154856,
+			"height": 25.411894461234624,
+			"seed": 2022732285,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0O",
 			"roundness": null,
-			"seed": 2022732285,
-			"version": 21,
-			"versionNonce": 991927581,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437168762,
 			"link": null,
 			"locked": false,
@@ -2325,37 +2289,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					16.748748622177118
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				46.78098753090899,
-				16.748748622177118
-			]
+			"pressures": []
 		},
 		{
-			"id": "YbyEUmWPjvV-iTtBgGJkl",
 			"type": "freedraw",
-			"x": 699.5445684772525,
-			"y": -4854.3773164473505,
-			"width": 13.86103334249151,
-			"height": 32.342411132480265,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 16,
+			"versionNonce": 1990308755,
+			"index": "b0P",
+			"isDeleted": false,
+			"id": "YbyEUmWPjvV-iTtBgGJkl",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 699.5445684772525,
+			"y": -4854.3773164473505,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 13.86103334249151,
+			"height": 32.342411132480265,
+			"seed": 1527230675,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0P",
 			"roundness": null,
-			"seed": 1527230675,
-			"version": 16,
-			"versionNonce": 1990308755,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437169418,
 			"link": null,
 			"locked": false,
@@ -2417,37 +2378,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					32.342411132480265
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-0.5775430559370989,
-				32.342411132480265
-			]
+			"pressures": []
 		},
 		{
-			"id": "rpbng92mY7zUQE1D9T-5h",
 			"type": "freedraw",
-			"x": 787.9086560356363,
-			"y": -4895.382873418888,
-			"width": 14.438576398428722,
-			"height": 41.58310002747476,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 15,
+			"versionNonce": 1744477277,
+			"index": "b0Q",
+			"isDeleted": false,
+			"id": "rpbng92mY7zUQE1D9T-5h",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 787.9086560356363,
+			"y": -4895.382873418888,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 14.438576398428722,
+			"height": 41.58310002747476,
+			"seed": 2121717629,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0Q",
 			"roundness": null,
-			"seed": 2121717629,
-			"version": 15,
-			"versionNonce": 1744477277,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437171588,
 			"link": null,
 			"locked": false,
@@ -2505,37 +2463,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					34.07504030029213
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				10.39577500686869,
-				34.07504030029213
-			]
+			"pressures": []
 		},
 		{
-			"id": "pyF1Jtt5HB42vTgVSWxWR",
 			"type": "freedraw",
-			"x": 778.6679671406418,
-			"y": -4895.382873418888,
-			"width": 118.39632646711561,
-			"height": 62.37465004121168,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 39,
+			"versionNonce": 1501971891,
+			"index": "b0R",
+			"isDeleted": false,
+			"id": "pyF1Jtt5HB42vTgVSWxWR",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 778.6679671406418,
+			"y": -4895.382873418888,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 118.39632646711561,
+			"height": 62.37465004121168,
+			"seed": 1887350163,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0R",
 			"roundness": null,
-			"seed": 1887350163,
-			"version": 39,
-			"versionNonce": 1501971891,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437173099,
 			"link": null,
 			"locked": false,
@@ -2689,37 +2644,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					41.58310002747476
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				25.411894461234624,
-				41.58310002747476
-			]
+			"pressures": []
 		},
 		{
-			"id": "zrUXePwZrFr1wSTUz7fqG",
 			"type": "freedraw",
-			"x": 720.3361184909899,
-			"y": -4923.104940103871,
-			"width": 28.299609740920346,
-			"height": 1.732629167811865,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 18,
+			"versionNonce": 569647453,
+			"index": "b0S",
+			"isDeleted": false,
+			"id": "zrUXePwZrFr1wSTUz7fqG",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 720.3361184909899,
+			"y": -4923.104940103871,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 28.299609740920346,
+			"height": 1.732629167811865,
+			"seed": 1585773405,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0S",
 			"roundness": null,
-			"seed": 1585773405,
-			"version": 18,
-			"versionNonce": 569647453,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437177418,
 			"link": null,
 			"locked": false,
@@ -2789,37 +2741,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-1.732629167811865
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				25.41189446123451,
-				-1.732629167811865
-			]
+			"pressures": []
 		},
 		{
-			"id": "iv3Zgl1DSsDxL-nLCDOB9",
 			"type": "freedraw",
-			"x": 738.8174962809786,
-			"y": -4932.923172054802,
-			"width": 13.861033342491623,
-			"height": 21.946636125611803,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 20,
+			"versionNonce": 1332890067,
+			"index": "b0T",
+			"isDeleted": false,
+			"id": "iv3Zgl1DSsDxL-nLCDOB9",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 738.8174962809786,
+			"y": -4932.923172054802,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 13.861033342491623,
+			"height": 21.946636125611803,
+			"seed": 1454020755,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0T",
 			"roundness": null,
-			"seed": 1454020755,
-			"version": 20,
-			"versionNonce": 1332890067,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437178005,
 			"link": null,
 			"locked": false,
@@ -2897,37 +2846,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					20.791550013736924
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				10.39577500686869,
-				20.791550013736924
-			]
+			"pressures": []
 		},
 		{
-			"id": "yG5yf8ewm5v6han5rhQbS",
 			"type": "freedraw",
-			"x": 768.2721921337732,
-			"y": -4930.6129998310535,
-			"width": 11.550861118743114,
-			"height": 23.101722237485774,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 13,
+			"versionNonce": 1051618653,
+			"index": "b0U",
+			"isDeleted": false,
+			"id": "yG5yf8ewm5v6han5rhQbS",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 768.2721921337732,
+			"y": -4930.6129998310535,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 11.550861118743114,
+			"height": 23.101722237485774,
+			"seed": 321785149,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0U",
 			"roundness": null,
-			"seed": 321785149,
-			"version": 13,
-			"versionNonce": 1051618653,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437180173,
 			"link": null,
 			"locked": false,
@@ -2977,37 +2923,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					17.326291678114103
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				11.550861118743114,
-				17.326291678114103
-			]
+			"pressures": []
 		},
 		{
-			"id": "6X4OnCQmJnMVTsFcF4c0F",
 			"type": "freedraw",
-			"x": 783.2883115881391,
-			"y": -4931.768085942928,
-			"width": 9.240688894994378,
-			"height": 7.508059727182626,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 22,
+			"versionNonce": 2099389715,
+			"index": "b0V",
+			"isDeleted": false,
+			"id": "6X4OnCQmJnMVTsFcF4c0F",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 783.2883115881391,
+			"y": -4931.768085942928,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 9.240688894994378,
+			"height": 7.508059727182626,
+			"seed": 1180470419,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0V",
 			"roundness": null,
-			"seed": 1180470419,
-			"version": 22,
-			"versionNonce": 2099389715,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437180843,
 			"link": null,
 			"locked": false,
@@ -3093,37 +3036,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					6.352973615308656
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				4.042801391560033,
-				6.352973615308656
-			]
+			"pressures": []
 		},
 		{
-			"id": "PH5rIv5tj5A0JarIDL_2y",
 			"type": "freedraw",
-			"x": 812.1654643849965,
-			"y": -4923.104940103871,
-			"width": 15.593662510303034,
-			"height": 9.818231950931477,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 16,
+			"versionNonce": 837304125,
+			"index": "b0W",
+			"isDeleted": false,
+			"id": "PH5rIv5tj5A0JarIDL_2y",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 812.1654643849965,
+			"y": -4923.104940103871,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 15.593662510303034,
+			"height": 9.818231950931477,
+			"seed": 144666109,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0W",
 			"roundness": null,
-			"seed": 144666109,
-			"version": 16,
-			"versionNonce": 837304125,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437182403,
 			"link": null,
 			"locked": false,
@@ -3185,37 +3125,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					9.240688894994491
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				15.016119454365935,
-				9.240688894994491
-			]
+			"pressures": []
 		},
 		{
-			"id": "yMCC7LrOxmDjAtrlxB2Vb",
 			"type": "freedraw",
-			"x": 815.6307227206195,
-			"y": -4912.131622041065,
-			"width": 24.83435140529741,
-			"height": 5.775430559370761,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 15,
+			"versionNonce": 727462355,
+			"index": "b0X",
+			"isDeleted": false,
+			"id": "yMCC7LrOxmDjAtrlxB2Vb",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 815.6307227206195,
+			"y": -4912.131622041065,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 24.83435140529741,
+			"height": 5.775430559370761,
+			"seed": 1629275315,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0X",
 			"roundness": null,
-			"seed": 1629275315,
-			"version": 15,
-			"versionNonce": 727462355,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437182842,
 			"link": null,
 			"locked": false,
@@ -3273,37 +3210,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-2.3101722237479407
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				24.83435140529741,
-				-2.3101722237479407
-			]
+			"pressures": []
 		},
 		{
-			"id": "Y5d0mW48NtkOvhbx4NH-P",
 			"type": "freedraw",
-			"x": 865.2994255312143,
-			"y": -4860.152747006721,
-			"width": 56.02167642590348,
-			"height": 12.128404174679417,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 16,
+			"versionNonce": 1941882493,
+			"index": "b0Y",
+			"isDeleted": false,
+			"id": "Y5d0mW48NtkOvhbx4NH-P",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 865.2994255312143,
+			"y": -4860.152747006721,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 56.02167642590348,
+			"height": 12.128404174679417,
+			"seed": 342074685,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0Y",
 			"roundness": null,
-			"seed": 342074685,
-			"version": 16,
-			"versionNonce": 1941882493,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437183979,
 			"link": null,
 			"locked": false,
@@ -3365,37 +3299,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					8.663145839056597
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				51.978875034343446,
-				8.663145839056597
-			]
+			"pressures": []
 		},
 		{
-			"id": "g-LmoIKwSgejlKdMhrZRS",
 			"type": "freedraw",
-			"x": 908.6151547265005,
-			"y": -4856.687488671098,
-			"width": 8.085602783120066,
-			"height": 12.705947230617312,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 15,
+			"versionNonce": 252407443,
+			"index": "b0Z",
+			"isDeleted": false,
+			"id": "g-LmoIKwSgejlKdMhrZRS",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 908.6151547265005,
+			"y": -4856.687488671098,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 8.085602783120066,
+			"height": 12.705947230617312,
+			"seed": 538294643,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0Z",
 			"roundness": null,
-			"seed": 538294643,
-			"version": 15,
-			"versionNonce": 252407443,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437184349,
 			"link": null,
 			"locked": false,
@@ -3453,37 +3384,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					12.128404174679417
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				2.8877152796857217,
-				12.128404174679417
-			]
+			"pressures": []
 		},
 		{
-			"id": "OfWwO-AiCs3tiQYt2HKcP",
 			"type": "freedraw",
-			"x": 941.5351089149179,
-			"y": -4865.928177566093,
-			"width": 23.6792652934231,
-			"height": 30.6097819646684,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 22,
+			"versionNonce": 1470426109,
+			"index": "b0a",
+			"isDeleted": false,
+			"id": "OfWwO-AiCs3tiQYt2HKcP",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 941.5351089149179,
+			"y": -4865.928177566093,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 23.6792652934231,
+			"height": 30.6097819646684,
+			"seed": 883141757,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0a",
 			"roundness": null,
-			"seed": 883141757,
-			"version": 22,
-			"versionNonce": 1470426109,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437186839,
 			"link": null,
 			"locked": false,
@@ -3569,37 +3497,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					30.032238908731415
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				22.52417918154879,
-				30.032238908731415
-			]
+			"pressures": []
 		},
 		{
-			"id": "ExJn5emmZjwWzPDNaW4IY",
 			"type": "freedraw",
-			"x": 817.940894944368,
-			"y": -4891.9176150832645,
-			"width": 28.299609740920346,
-			"height": 21.36909306967482,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 14,
+			"versionNonce": 1449748339,
+			"index": "b0b",
+			"isDeleted": false,
+			"id": "ExJn5emmZjwWzPDNaW4IY",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 817.940894944368,
+			"y": -4891.9176150832645,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 28.299609740920346,
+			"height": 21.36909306967482,
+			"seed": 1986812915,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0b",
 			"roundness": null,
-			"seed": 1986812915,
-			"version": 14,
-			"versionNonce": 1449748339,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437189610,
 			"link": null,
 			"locked": false,
@@ -3653,37 +3578,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-10.395775006869371
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				25.411894461234624,
-				-10.395775006869371
-			]
+			"pressures": []
 		},
 		{
-			"id": "2VTUTeaE1i419LMBdYi54",
 			"type": "freedraw",
-			"x": 831.2243852309225,
-			"y": -4893.650244251076,
-			"width": 11.550861118742887,
-			"height": 9.240688894994491,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 12,
+			"versionNonce": 1068997981,
+			"index": "b0c",
+			"isDeleted": false,
+			"id": "2VTUTeaE1i419LMBdYi54",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 831.2243852309225,
+			"y": -4893.650244251076,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 11.550861118742887,
+			"height": 9.240688894994491,
+			"seed": 815304093,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0c",
 			"roundness": null,
-			"seed": 815304093,
-			"version": 12,
-			"versionNonce": 1068997981,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437190042,
 			"link": null,
 			"locked": false,
@@ -3729,37 +3651,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					3.4652583356228206
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				11.550861118742887,
-				3.4652583356228206
-			]
+			"pressures": []
 		},
 		{
-			"id": "y8hmEBJIkxTikRFKDaO_A",
 			"type": "freedraw",
-			"x": 746.9030990640987,
-			"y": -4677.649141330583,
-			"width": 13.861033342491623,
-			"height": 19.636463901862953,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 26,
+			"versionNonce": 100623549,
+			"index": "b0m",
+			"isDeleted": false,
+			"id": "y8hmEBJIkxTikRFKDaO_A",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 746.9030990640987,
+			"y": -4677.649141330583,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 13.861033342491623,
+			"height": 19.636463901862953,
+			"seed": 894979005,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0m",
 			"roundness": null,
-			"seed": 894979005,
-			"version": 26,
-			"versionNonce": 100623549,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437210058,
 			"link": null,
 			"locked": false,
@@ -3861,37 +3780,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					17.903834734051998
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				1.732629167811524,
-				17.903834734051998
-			]
+			"pressures": []
 		},
 		{
-			"id": "lRaCeQboNSFonyEQZxFUw",
 			"type": "freedraw",
-			"x": 764.8069337981503,
-			"y": -4673.028796883085,
-			"width": 26.566980573108935,
-			"height": 26.566980573108594,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 37,
+			"versionNonce": 733291539,
+			"index": "b0n",
+			"isDeleted": false,
+			"id": "lRaCeQboNSFonyEQZxFUw",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 764.8069337981503,
+			"y": -4673.028796883085,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 26.566980573108935,
+			"height": 26.566980573108594,
+			"seed": 452093747,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0n",
 			"roundness": null,
-			"seed": 452093747,
-			"version": 37,
-			"versionNonce": 733291539,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437210890,
 			"link": null,
 			"locked": false,
@@ -4037,37 +3953,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-4.042801391559806
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-1.7326291678114103,
-				-4.042801391559806
-			]
+			"pressures": []
 		},
 		{
-			"id": "N5b5GrotaEzMiqsBdnlbM",
 			"type": "freedraw",
-			"x": 774.0476226931447,
-			"y": -4681.691942722143,
-			"width": 21.369093069674477,
-			"height": 9.240688894994491,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 14,
+			"versionNonce": 967428989,
+			"index": "b0o",
+			"isDeleted": false,
+			"id": "N5b5GrotaEzMiqsBdnlbM",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 774.0476226931447,
+			"y": -4681.691942722143,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 21.369093069674477,
+			"height": 9.240688894994491,
+			"seed": 2093596413,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0o",
 			"roundness": null,
-			"seed": 2093596413,
-			"version": 14,
-			"versionNonce": 967428989,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437211382,
 			"link": null,
 			"locked": false,
@@ -4121,37 +4034,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					8.085602783120521
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				21.369093069674477,
-				8.085602783120521
-			]
+			"pressures": []
 		},
 		{
-			"id": "LmCMeW0_PvzRWzWsjI0nO",
 			"type": "freedraw",
-			"x": 787.3311129796991,
-			"y": -4697.863148288383,
-			"width": 34.65258335622889,
-			"height": 32.342411132480265,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 48,
+			"versionNonce": 143704883,
+			"index": "b0p",
+			"isDeleted": false,
+			"id": "LmCMeW0_PvzRWzWsjI0nO",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 787.3311129796991,
+			"y": -4697.863148288383,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 34.65258335622889,
+			"height": 32.342411132480265,
+			"seed": 190325875,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0p",
 			"roundness": null,
-			"seed": 190325875,
-			"version": 48,
-			"versionNonce": 143704883,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437212690,
 			"link": null,
 			"locked": false,
@@ -4341,37 +4251,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					16.171205566240133
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				32.91995418841748,
-				16.171205566240133
-			]
+			"pressures": []
 		},
 		{
-			"id": "K8dfynCCvryfbgjrchfqd",
 			"type": "freedraw",
-			"x": 816.7858088324938,
-			"y": -4708.258923295251,
-			"width": 9.240688894994378,
-			"height": 3.4652583356228206,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 294279389,
+			"index": "b0q",
+			"isDeleted": false,
+			"id": "K8dfynCCvryfbgjrchfqd",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 816.7858088324938,
+			"y": -4708.258923295251,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 9.240688894994378,
+			"height": 3.4652583356228206,
+			"seed": 1994638813,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0q",
 			"roundness": null,
-			"seed": 1994638813,
-			"version": 10,
-			"versionNonce": 294279389,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437213306,
 			"link": null,
 			"locked": false,
@@ -4409,37 +4316,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-3.4652583356228206
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				9.240688894994378,
-				-3.4652583356228206
-			]
+			"pressures": []
 		},
 		{
-			"id": "9D8XBv6CCLzroyf2yYNro",
 			"type": "freedraw",
-			"x": 817.3633518884309,
-			"y": -4709.414009407126,
-			"width": 15.016119454365821,
-			"height": 20.214006957800848,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 24,
+			"versionNonce": 919132371,
+			"index": "b0r",
+			"isDeleted": false,
+			"id": "9D8XBv6CCLzroyf2yYNro",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 817.3633518884309,
+			"y": -4709.414009407126,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 15.016119454365821,
+			"height": 20.214006957800848,
+			"seed": 2197779,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0r",
 			"roundness": null,
-			"seed": 2197779,
-			"version": 24,
-			"versionNonce": 919132371,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437214215,
 			"link": null,
 			"locked": false,
@@ -4533,37 +4437,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					19.636463901863863
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				13.861033342491623,
-				19.636463901863863
-			]
+			"pressures": []
 		},
 		{
-			"id": "SQtBkZENs5j5-w_2mrNNr",
 			"type": "freedraw",
-			"x": 838.1549019021683,
-			"y": -4722.697499693681,
-			"width": 30.60978196466897,
-			"height": 31.187325020606295,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 19,
+			"versionNonce": 139306141,
+			"index": "b0s",
+			"isDeleted": false,
+			"id": "SQtBkZENs5j5-w_2mrNNr",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 838.1549019021683,
+			"y": -4722.697499693681,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 30.60978196466897,
+			"height": 31.187325020606295,
+			"seed": 2032651837,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0s",
 			"roundness": null,
-			"seed": 2032651837,
-			"version": 19,
-			"versionNonce": 139306141,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437215987,
 			"link": null,
 			"locked": false,
@@ -4637,37 +4538,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					27.14452362904649
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				27.144523629046034,
-				27.14452362904649
-			]
+			"pressures": []
 		},
 		{
-			"id": "D17BaY_s7hfgjvKf2bYrV",
 			"type": "freedraw",
-			"x": 893.5990352721346,
-			"y": -4748.109394154915,
-			"width": 30.609781964668855,
-			"height": 25.98943751717161,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 20,
+			"versionNonce": 1119670931,
+			"index": "b0t",
+			"isDeleted": false,
+			"id": "D17BaY_s7hfgjvKf2bYrV",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 893.5990352721346,
+			"y": -4748.109394154915,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 30.609781964668855,
+			"height": 25.98943751717161,
+			"seed": 535155027,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0t",
 			"roundness": null,
-			"seed": 535155027,
-			"version": 20,
-			"versionNonce": 1119670931,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437217218,
 			"link": null,
 			"locked": false,
@@ -4745,37 +4643,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					25.98943751717161
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				30.609781964668855,
-				25.98943751717161
-			]
+			"pressures": []
 		},
 		{
-			"id": "ANbj5wAHb1SmKYDI_JmzJ",
 			"type": "freedraw",
-			"x": 824.2938685596766,
-			"y": -4729.628016364926,
-			"width": 36.385212524040526,
-			"height": 6.3529736153077465,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 22,
+			"versionNonce": 220874749,
+			"index": "b0u",
+			"isDeleted": false,
+			"id": "ANbj5wAHb1SmKYDI_JmzJ",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 824.2938685596766,
+			"y": -4729.628016364926,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 36.385212524040526,
+			"height": 6.3529736153077465,
+			"seed": 1022298237,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0u",
 			"roundness": null,
-			"seed": 1022298237,
-			"version": 22,
-			"versionNonce": 220874749,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437219474,
 			"link": null,
 			"locked": false,
@@ -4861,37 +4756,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					1.1550861118739704
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				36.385212524040526,
-				1.1550861118739704
-			]
+			"pressures": []
 		},
 		{
-			"id": "jOZ57VvNEzE9xR6w-pnF_",
 			"type": "freedraw",
-			"x": 848.550676909037,
-			"y": -4722.119956637744,
-			"width": 21.369093069674477,
-			"height": 12.705947230616403,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 17,
+			"versionNonce": 461601875,
+			"index": "b0v",
+			"isDeleted": false,
+			"id": "jOZ57VvNEzE9xR6w-pnF_",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 848.550676909037,
+			"y": -4722.119956637744,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 21.369093069674477,
+			"height": 12.705947230616403,
+			"seed": 1678655475,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0v",
 			"roundness": null,
-			"seed": 1678655475,
-			"version": 17,
-			"versionNonce": 461601875,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437220117,
 			"link": null,
 			"locked": false,
@@ -4957,37 +4849,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-12.128404174679417
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				20.21400695780028,
-				-12.128404174679417
-			]
+			"pressures": []
 		},
 		{
-			"id": "H3hjkjDKsvhJWn8vENslc",
 			"type": "freedraw",
-			"x": 748.6357282319102,
-			"y": -4619.894835736868,
-			"width": 185.39132095582477,
-			"height": 68.72762365652034,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 15,
+			"versionNonce": 2097942429,
+			"index": "b0w",
+			"isDeleted": false,
+			"id": "H3hjkjDKsvhJWn8vENslc",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 748.6357282319102,
+			"y": -4619.894835736868,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 185.39132095582477,
+			"height": 68.72762365652034,
+			"seed": 18649789,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0w",
 			"roundness": null,
-			"seed": 18649789,
-			"version": 15,
-			"versionNonce": 2097942429,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437220946,
 			"link": null,
 			"locked": false,
@@ -5045,37 +4934,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-68.15008060058335
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				185.39132095582477,
-				-68.15008060058335
-			]
+			"pressures": []
 		},
 		{
-			"id": "lyP5iJiA0p3yILSjbREJn",
 			"type": "freedraw",
-			"x": -266.9855982797958,
-			"y": -4826.882101843409,
-			"width": 10.89363848230039,
-			"height": 7.86762779277251,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 15,
+			"versionNonce": 1235468147,
+			"index": "b0x",
+			"isDeleted": false,
+			"id": "lyP5iJiA0p3yILSjbREJn",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -266.9855982797958,
+			"y": -4826.882101843409,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 10.89363848230039,
+			"height": 7.86762779277251,
+			"seed": 341243475,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0x",
 			"roundness": null,
-			"seed": 341243475,
-			"version": 15,
-			"versionNonce": 1235468147,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437341429,
 			"link": null,
 			"locked": false,
@@ -5133,37 +5019,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-3.0260106895275385
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				10.89363848230039,
-				-3.0260106895275385
-			]
+			"pressures": []
 		},
 		{
-			"id": "VvsfBjOZwjhYPTxPhGSTE",
 			"type": "freedraw",
-			"x": -6.143476842492817,
-			"y": -4808.726037706242,
-			"width": 30.86530903318436,
-			"height": 0.6052021379055077,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 21,
+			"versionNonce": 275104957,
+			"index": "b0y",
+			"isDeleted": false,
+			"id": "VvsfBjOZwjhYPTxPhGSTE",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -6.143476842492817,
+			"y": -4808.726037706242,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 30.86530903318436,
+			"height": 0.6052021379055077,
+			"seed": 1705686429,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0y",
 			"roundness": null,
-			"seed": 1705686429,
-			"version": 21,
-			"versionNonce": 275104957,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437415106,
 			"link": null,
 			"locked": false,
@@ -5245,37 +5128,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					0.6052021379055077
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				30.86530903318436,
-				0.6052021379055077
-			]
+			"pressures": []
 		},
 		{
-			"id": "T9HOh8uW7PHXwBbPzVFfr",
 			"type": "freedraw",
-			"x": -12.80070035945414,
-			"y": -4804.4896227409035,
-			"width": 38.12773468805125,
-			"height": 1.815606413716523,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 29,
+			"versionNonce": 1632323347,
+			"index": "b0z",
+			"isDeleted": false,
+			"id": "T9HOh8uW7PHXwBbPzVFfr",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -12.80070035945414,
+			"y": -4804.4896227409035,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 38.12773468805125,
+			"height": 1.815606413716523,
+			"seed": 28182323,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b0z",
 			"roundness": null,
-			"seed": 28182323,
-			"version": 29,
-			"versionNonce": 1632323347,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437419849,
 			"link": null,
 			"locked": false,
@@ -5389,37 +5269,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-1.815606413716523
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				38.12773468805125,
-				-1.815606413716523
-			]
+			"pressures": []
 		},
 		{
-			"id": "Ih656HcUpAIzjtTsNIOTs",
 			"type": "freedraw",
-			"x": -251.85554483215637,
-			"y": -4582.985640267464,
-			"width": 78.07107578981922,
-			"height": 16.945659861356035,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 55,
+			"versionNonce": 995098589,
+			"index": "b10",
+			"isDeleted": false,
+			"id": "Ih656HcUpAIzjtTsNIOTs",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -251.85554483215637,
+			"y": -4582.985640267464,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 78.07107578981922,
+			"height": 16.945659861356035,
+			"seed": 497134589,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b10",
 			"roundness": null,
-			"seed": 497134589,
-			"version": 55,
-			"versionNonce": 995098589,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437663703,
 			"link": null,
 			"locked": false,
@@ -5637,37 +5514,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					1.2104042758110154
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				78.07107578981922,
-				1.2104042758110154
-			]
+			"pressures": []
 		},
 		{
-			"id": "7nmD6yrFf-ptUq0ymRf8M",
 			"type": "freedraw",
-			"x": -208.28099090295495,
-			"y": -4577.538821026314,
-			"width": 35.10172399852337,
-			"height": 27.839298343656992,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 44,
+			"versionNonce": 1953348179,
+			"index": "b11",
+			"isDeleted": false,
+			"id": "7nmD6yrFf-ptUq0ymRf8M",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -208.28099090295495,
+			"y": -4577.538821026314,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 35.10172399852337,
+			"height": 27.839298343656992,
+			"seed": 633123347,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b11",
 			"roundness": null,
-			"seed": 633123347,
-			"version": 44,
-			"versionNonce": 1953348179,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437678195,
 			"link": null,
 			"locked": false,
@@ -5841,37 +5715,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					0
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-4.236414965339009,
-				0
-			]
+			"pressures": []
 		},
 		{
-			"id": "3SqBJ0FAFwFZUWkhMCaEb",
 			"type": "freedraw",
-			"x": -159.86481987050894,
-			"y": -4563.619171854485,
-			"width": 26.02369192993973,
-			"height": 14.524851309734004,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 13,
+			"versionNonce": 187237597,
+			"index": "b12",
+			"isDeleted": false,
+			"id": "3SqBJ0FAFwFZUWkhMCaEb",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -159.86481987050894,
+			"y": -4563.619171854485,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 26.02369192993973,
+			"height": 14.524851309734004,
+			"seed": 1629025469,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b12",
 			"roundness": null,
-			"seed": 1629025469,
-			"version": 13,
-			"versionNonce": 187237597,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437758610,
 			"link": null,
 			"locked": false,
@@ -5921,37 +5792,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-12.70924489601748
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				26.02369192993973,
-				-12.70924489601748
-			]
+			"pressures": []
 		},
 		{
-			"id": "PKPH1r4euw7jqMRNaDWmK",
 			"type": "freedraw",
-			"x": 70.11199253360962,
-			"y": -4567.855586819824,
-			"width": 26.023691929939787,
-			"height": 11.498840620205556,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 14,
+			"versionNonce": 1327069331,
+			"index": "b13",
+			"isDeleted": false,
+			"id": "PKPH1r4euw7jqMRNaDWmK",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 70.11199253360962,
+			"y": -4567.855586819824,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 26.023691929939787,
+			"height": 11.498840620205556,
+			"seed": 380706067,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b13",
 			"roundness": null,
-			"seed": 380706067,
-			"version": 14,
-			"versionNonce": 1327069331,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437760389,
 			"link": null,
 			"locked": false,
@@ -6005,37 +5873,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-7.86762779277251
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				26.023691929939787,
-				-7.86762779277251
-			]
+			"pressures": []
 		},
 		{
-			"id": "dYcA4zfnRLRYywl-CA3yi",
 			"type": "freedraw",
-			"x": 81.61083315381563,
-			"y": -4562.408767578674,
-			"width": 22.997681240411794,
-			"height": 19.366468412978975,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 14,
+			"versionNonce": 1362579197,
+			"index": "b14",
+			"isDeleted": false,
+			"id": "dYcA4zfnRLRYywl-CA3yi",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 81.61083315381563,
+			"y": -4562.408767578674,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 22.997681240411794,
+			"height": 19.366468412978975,
+			"seed": 762348157,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b14",
 			"roundness": null,
-			"seed": 762348157,
-			"version": 14,
-			"versionNonce": 1362579197,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437760819,
 			"link": null,
 			"locked": false,
@@ -6089,37 +5954,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-7.86762779277251
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				22.997681240411794,
-				-7.86762779277251
-			]
+			"pressures": []
 		},
 		{
-			"id": "zPA1UrOV-csYjGPdq5z46",
 			"type": "freedraw",
-			"x": 88.2680566707769,
-			"y": -4546.068309855224,
-			"width": 31.470511171089925,
-			"height": 15.130053447639511,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 15,
+			"versionNonce": 2073071123,
+			"index": "b15",
+			"isDeleted": false,
+			"id": "zPA1UrOV-csYjGPdq5z46",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 88.2680566707769,
+			"y": -4546.068309855224,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 31.470511171089925,
+			"height": 15.130053447639511,
+			"seed": 1563691251,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b15",
 			"roundness": null,
-			"seed": 1563691251,
-			"version": 15,
-			"versionNonce": 2073071123,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437761398,
 			"link": null,
 			"locked": false,
@@ -6177,37 +6039,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-10.893638482300048
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				31.470511171089925,
-				-10.893638482300048
-			]
+			"pressures": []
 		},
 		{
-			"id": "wW4-6pVVgl5ldKRXRd7xM",
 			"type": "freedraw",
-			"x": 117.92296142815007,
-			"y": -4555.751544061713,
-			"width": 18.7612662750729,
-			"height": 15.73525558554502,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 15,
+			"versionNonce": 2020542941,
+			"index": "b16",
+			"isDeleted": false,
+			"id": "wW4-6pVVgl5ldKRXRd7xM",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 117.92296142815007,
+			"y": -4555.751544061713,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 18.7612662750729,
+			"height": 15.73525558554502,
+			"seed": 196818173,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b16",
 			"roundness": null,
-			"seed": 196818173,
-			"version": 15,
-			"versionNonce": 2020542941,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437761845,
 			"link": null,
 			"locked": false,
@@ -6265,37 +6124,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-3.0260106895275385
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				18.7612662750729,
-				-3.0260106895275385
-			]
+			"pressures": []
 		},
 		{
-			"id": "EIduAu75pwsBVR8pTFzfM",
 			"type": "freedraw",
-			"x": -251.2503426942508,
-			"y": -4527.307043580152,
-			"width": 12.104042758111518,
-			"height": 87.14910785840311,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 35,
+			"versionNonce": 1939440051,
+			"index": "b17",
+			"isDeleted": false,
+			"id": "EIduAu75pwsBVR8pTFzfM",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -251.2503426942508,
+			"y": -4527.307043580152,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 12.104042758111518,
+			"height": 87.14910785840311,
+			"seed": 254314515,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b17",
 			"roundness": null,
-			"seed": 254314515,
-			"version": 35,
-			"versionNonce": 1939440051,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437765886,
 			"link": null,
 			"locked": false,
@@ -6433,37 +6289,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					87.14910785840311
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				12.104042758111518,
-				87.14910785840311
-			]
+			"pressures": []
 		},
 		{
-			"id": "z65P5d0CF-Chiv7hpYukJ",
 			"type": "freedraw",
-			"x": -48.50762649588307,
-			"y": -4531.5434585454905,
-			"width": 22.392479102506286,
-			"height": 36.3121282743341,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 18,
+			"versionNonce": 1070212445,
+			"index": "b18",
+			"isDeleted": false,
+			"id": "z65P5d0CF-Chiv7hpYukJ",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -48.50762649588307,
+			"y": -4531.5434585454905,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 22.392479102506286,
+			"height": 36.3121282743341,
+			"seed": 2061696861,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b18",
 			"roundness": null,
-			"seed": 2061696861,
-			"version": 18,
-			"versionNonce": 1070212445,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724437777192,
 			"link": null,
 			"locked": false,
@@ -6533,37 +6386,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					34.49652186061758
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				22.392479102506286,
-				34.49652186061758
-			]
+			"pressures": []
 		},
 		{
-			"id": "DDfp_OibIjHd288xl2r5A",
 			"type": "freedraw",
-			"x": -250.64514055634515,
-			"y": -4392.34696682721,
-			"width": 33.28611758480665,
-			"height": 23.60288337831662,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 17,
+			"versionNonce": 1638753523,
+			"index": "b19",
+			"isDeleted": false,
+			"id": "DDfp_OibIjHd288xl2r5A",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -250.64514055634515,
+			"y": -4392.34696682721,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 33.28611758480665,
+			"height": 23.60288337831662,
+			"seed": 692016275,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b19",
 			"roundness": null,
-			"seed": 692016275,
-			"version": 17,
-			"versionNonce": 1638753523,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438101153,
 			"link": null,
 			"locked": false,
@@ -6629,37 +6479,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-13.314447033922079
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				33.28611758480665,
-				-13.314447033922079
-			]
+			"pressures": []
 		},
 		{
-			"id": "esxWA1ZTASIexh6PDYdTW",
 			"type": "freedraw",
-			"x": -217.3590229715385,
-			"y": -4403.845807447416,
-			"width": 40.548543239673535,
-			"height": 7.86762779277251,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 13,
+			"versionNonce": 383173693,
+			"index": "b1A",
+			"isDeleted": false,
+			"id": "esxWA1ZTASIexh6PDYdTW",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -217.3590229715385,
+			"y": -4403.845807447416,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 40.548543239673535,
+			"height": 7.86762779277251,
+			"seed": 1061541917,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1A",
 			"roundness": null,
-			"seed": 1061541917,
-			"version": 13,
-			"versionNonce": 383173693,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438101690,
 			"link": null,
 			"locked": false,
@@ -6709,37 +6556,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-7.262425654867002
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				40.548543239673535,
-				-7.262425654867002
-			]
+			"pressures": []
 		},
 		{
-			"id": "IQWMHerm9OoH5-LR7dqyi",
 			"type": "freedraw",
-			"x": 9.591778743052203,
-			"y": -4382.0585304828155,
-			"width": 22.392479102506286,
-			"height": 1.8156064137174326,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 338984531,
+			"index": "b1B",
+			"isDeleted": false,
+			"id": "IQWMHerm9OoH5-LR7dqyi",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 9.591778743052203,
+			"y": -4382.0585304828155,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 22.392479102506286,
+			"height": 1.8156064137174326,
+			"seed": 516140979,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1B",
 			"roundness": null,
-			"seed": 516140979,
-			"version": 11,
-			"versionNonce": 338984531,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438107721,
 			"link": null,
 			"locked": false,
@@ -6781,37 +6625,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					1.8156064137174326
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				22.392479102506286,
-				1.8156064137174326
-			]
+			"pressures": []
 		},
 		{
-			"id": "LbuNCkF-Oe2CdLk8T3dwu",
 			"type": "freedraw",
-			"x": -149.6831323598292,
-			"y": -3034.13148923652,
-			"width": 22.509940534894213,
-			"height": 12.579084416558544,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 1807033373,
+			"index": "b1C",
+			"isDeleted": false,
+			"id": "LbuNCkF-Oe2CdLk8T3dwu",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -149.6831323598292,
+			"y": -3034.13148923652,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 22.509940534894213,
+			"height": 12.579084416558544,
+			"seed": 616624317,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1C",
 			"roundness": null,
-			"seed": 616624317,
-			"version": 11,
-			"versionNonce": 1807033373,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438184557,
 			"link": null,
 			"locked": false,
@@ -6853,37 +6694,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-11.254970267446879
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				19.19965516211562,
-				-11.254970267446879
-			]
+			"pressures": []
 		},
 		{
-			"id": "QjSbIQcK-WAPgVLASJRel",
 			"type": "freedraw",
-			"x": -139.75227624149352,
-			"y": -3044.062345354855,
-			"width": 14.565255640225644,
-			"height": 10.592913192891501,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 15,
+			"versionNonce": 845943539,
+			"index": "b1D",
+			"isDeleted": false,
+			"id": "QjSbIQcK-WAPgVLASJRel",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -139.75227624149352,
+			"y": -3044.062345354855,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 14.565255640225644,
+			"height": 10.592913192891501,
+			"seed": 1048377811,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1D",
 			"roundness": null,
-			"seed": 1048377811,
-			"version": 15,
-			"versionNonce": 845943539,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438185025,
 			"link": null,
 			"locked": false,
@@ -6941,37 +6779,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-0.6620570745558325
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				14.565255640225644,
-				-0.6620570745558325
-			]
+			"pressures": []
 		},
 		{
-			"id": "jx0rsGw-MD-5z1eff10Zq",
 			"type": "freedraw",
-			"x": -284.7427755691943,
-			"y": -3020.2282906708497,
-			"width": 8.606741969224288,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 411417789,
+			"index": "b1E",
+			"isDeleted": false,
+			"id": "jx0rsGw-MD-5z1eff10Zq",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -284.7427755691943,
+			"y": -3020.2282906708497,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 8.606741969224288,
+			"height": 0,
+			"seed": 358271517,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1E",
 			"roundness": null,
-			"seed": 358271517,
-			"version": 9,
-			"versionNonce": 411417789,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438192041,
 			"link": null,
 			"locked": false,
@@ -7005,37 +6840,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					0
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				8.606741969224288,
-				0
-			]
+			"pressures": []
 		},
 		{
-			"id": "o2qZ0yJzqXf3a08oM8QF_",
 			"type": "freedraw",
-			"x": -215.8888398154003,
-			"y": -3004.3389208815124,
-			"width": 27.806397131339878,
-			"height": 1.324114149111665,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 24,
+			"versionNonce": 2092730099,
+			"index": "b1F",
+			"isDeleted": false,
+			"id": "o2qZ0yJzqXf3a08oM8QF_",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -215.8888398154003,
+			"y": -3004.3389208815124,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 27.806397131339878,
+			"height": 1.324114149111665,
+			"seed": 217616179,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1F",
 			"roundness": null,
-			"seed": 217616179,
-			"version": 24,
-			"versionNonce": 2092730099,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438194201,
 			"link": null,
 			"locked": false,
@@ -7129,37 +6961,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-1.324114149111665
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				27.806397131339878,
-				-1.324114149111665
-			]
+			"pressures": []
 		},
 		{
-			"id": "xHm9FdnA0EdO9sYn_To-x",
 			"type": "freedraw",
-			"x": -191.39272805683902,
-			"y": -3003.676863806957,
-			"width": 76.79862064846253,
-			"height": 32.44079665322988,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 110,
+			"versionNonce": 1296729875,
+			"index": "b1H",
+			"isDeleted": false,
+			"id": "xHm9FdnA0EdO9sYn_To-x",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -191.39272805683902,
+			"y": -3003.676863806957,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 76.79862064846253,
+			"height": 32.44079665322988,
+			"seed": 880938899,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1H",
 			"roundness": null,
-			"seed": 880938899,
-			"version": 110,
-			"versionNonce": 1296729875,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438268710,
 			"link": null,
 			"locked": false,
@@ -7597,37 +7426,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-1.3241141491112103
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-29.792568355006978,
-				-1.3241141491112103
-			]
+			"pressures": []
 		},
 		{
-			"id": "tqSiCkJ5E3ymeoytpbwUG",
 			"type": "freedraw",
-			"x": -213.24061151717746,
-			"y": -3056.6414297714136,
-			"width": 21.847883460338437,
-			"height": 14.565255640225587,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 14,
+			"versionNonce": 595785853,
+			"index": "b1I",
+			"isDeleted": false,
+			"id": "tqSiCkJ5E3ymeoytpbwUG",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -213.24061151717746,
+			"y": -3056.6414297714136,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 21.847883460338437,
+			"height": 14.565255640225587,
+			"seed": 866020349,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1I",
 			"roundness": null,
-			"seed": 866020349,
-			"version": 14,
-			"versionNonce": 595785853,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438284285,
 			"link": null,
 			"locked": false,
@@ -7681,37 +7507,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-12.579084416558544
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				21.847883460338437,
-				-12.579084416558544
-			]
+			"pressures": []
 		},
 		{
-			"id": "iPxcdBezRgNot7tOdtzdn",
 			"type": "freedraw",
-			"x": -198.0132988023961,
-			"y": -3058.627600995081,
-			"width": 10.592913192891388,
-			"height": 7.944684894668626,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 1774190099,
+			"index": "b1J",
+			"isDeleted": false,
+			"id": "iPxcdBezRgNot7tOdtzdn",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -198.0132988023961,
+			"y": -3058.627600995081,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 10.592913192891388,
+			"height": 7.944684894668626,
+			"seed": 255321971,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1J",
 			"roundness": null,
-			"seed": 255321971,
-			"version": 11,
-			"versionNonce": 1774190099,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438284765,
 			"link": null,
 			"locked": false,
@@ -7753,37 +7576,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-5.958513671001128
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				10.592913192891388,
-				-5.958513671001128
-			]
+			"pressures": []
 		},
 		{
-			"id": "RgAyqvQ_zOhOqos7kmPdJ",
 			"type": "freedraw",
-			"x": -245.01935109585162,
-			"y": -3036.7797175347423,
-			"width": 39.061367398786956,
-			"height": 3.310285372778253,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 17,
+			"versionNonce": 1697744541,
+			"index": "b1K",
+			"isDeleted": false,
+			"id": "RgAyqvQ_zOhOqos7kmPdJ",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -245.01935109585162,
+			"y": -3036.7797175347423,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 39.061367398786956,
+			"height": 3.310285372778253,
+			"seed": 269010173,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1K",
 			"roundness": null,
-			"seed": 269010173,
-			"version": 17,
-			"versionNonce": 1697744541,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438286357,
 			"link": null,
 			"locked": false,
@@ -7849,37 +7669,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					3.310285372778253
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				39.061367398786956,
-				3.310285372778253
-			]
+			"pressures": []
 		},
 		{
-			"id": "7tfwDXz2-VKf9S38wTSXX",
 			"type": "freedraw",
-			"x": -170.86895874561196,
-			"y": -3012.283605776181,
-			"width": 12.579084416558544,
-			"height": 11.917027342002712,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 975080531,
+			"index": "b1L",
+			"isDeleted": false,
+			"id": "7tfwDXz2-VKf9S38wTSXX",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -170.86895874561196,
+			"y": -3012.283605776181,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 12.579084416558544,
+			"height": 11.917027342002712,
+			"seed": 236015443,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1L",
 			"roundness": null,
-			"seed": 236015443,
-			"version": 10,
-			"versionNonce": 975080531,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438287502,
 			"link": null,
 			"locked": false,
@@ -7917,37 +7734,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-10.592913192891501
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				12.579084416558544,
-				-10.592913192891501
-			]
+			"pressures": []
 		},
 		{
-			"id": "dj6MwMoFKChE0OvT_vLam",
 			"type": "freedraw",
-			"x": -173.51718704383478,
-			"y": -3012.945662850737,
-			"width": 12.579084416558487,
-			"height": 7.944684894668626,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 13,
+			"versionNonce": 1969312477,
+			"index": "b1M",
+			"isDeleted": false,
+			"id": "dj6MwMoFKChE0OvT_vLam",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -173.51718704383478,
+			"y": -3012.945662850737,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 12.579084416558487,
+			"height": 7.944684894668626,
+			"seed": 406618813,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1M",
 			"roundness": null,
-			"seed": 406618813,
-			"version": 13,
-			"versionNonce": 1969312477,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438287989,
 			"link": null,
 			"locked": false,
@@ -7997,37 +7811,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					0
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				12.579084416558487,
-				0
-			]
+			"pressures": []
 		},
 		{
-			"id": "F_y54YMa7VV04nHxwx7JA",
 			"type": "freedraw",
-			"x": -291.3633463147514,
-			"y": -3945.7840808997335,
-			"width": 37.075196175119856,
-			"height": 17.875541013004295,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 15,
+			"versionNonce": 769065011,
+			"index": "b1N",
+			"isDeleted": false,
+			"id": "F_y54YMa7VV04nHxwx7JA",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -291.3633463147514,
+			"y": -3945.7840808997335,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 37.075196175119856,
+			"height": 17.875541013004295,
+			"seed": 1277849363,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1N",
 			"roundness": null,
-			"seed": 1277849363,
-			"version": 15,
-			"versionNonce": 769065011,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438433309,
 			"link": null,
 			"locked": false,
@@ -8085,37 +7896,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-11.254970267446879
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				37.075196175119856,
-				-11.254970267446879
-			]
+			"pressures": []
 		},
 		{
-			"id": "NizscsMCnfU10LMvh-ehj",
 			"type": "freedraw",
-			"x": -133.7937625704921,
-			"y": -3919.96385499206,
-			"width": 38.39931032423124,
-			"height": 2.6482282982224206,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 29,
+			"versionNonce": 700990205,
+			"index": "b1O",
+			"isDeleted": false,
+			"id": "NizscsMCnfU10LMvh-ehj",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -133.7937625704921,
+			"y": -3919.96385499206,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 38.39931032423124,
+			"height": 2.6482282982224206,
+			"seed": 158431453,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1O",
 			"roundness": null,
-			"seed": 158431453,
-			"version": 29,
-			"versionNonce": 700990205,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438442853,
 			"link": null,
 			"locked": false,
@@ -8229,37 +8037,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					1.9861712236670428
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				38.39931032423124,
-				1.9861712236670428
-			]
+			"pressures": []
 		},
 		{
-			"id": "JkYR3qRPkzIayzRrFogIc",
 			"type": "freedraw",
-			"x": -82.1533107551466,
-			"y": -3917.977683768393,
-			"width": 1.3241141491113808,
-			"height": 0.6620570745553778,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 6,
+			"versionNonce": 1222853491,
+			"index": "b1P",
+			"isDeleted": false,
+			"id": "JkYR3qRPkzIayzRrFogIc",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -82.1533107551466,
+			"y": -3917.977683768393,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 1.3241141491113808,
+			"height": 0.6620570745553778,
+			"seed": 913495283,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1P",
 			"roundness": null,
-			"seed": 913495283,
-			"version": 6,
-			"versionNonce": 1222853491,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438462717,
 			"link": null,
 			"locked": false,
@@ -8281,37 +8086,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-0.6620570745553778
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				1.3241141491113808,
-				-0.6620570745553778
-			]
+			"pressures": []
 		},
 		{
-			"id": "bDpq7yg-koH7fOar1zFu8",
 			"type": "freedraw",
-			"x": -84.13948197881376,
-			"y": -3914.6673983956143,
-			"width": 3.972342447334256,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 1334334525,
+			"index": "b1Q",
+			"isDeleted": false,
+			"id": "bDpq7yg-koH7fOar1zFu8",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -84.13948197881376,
+			"y": -3914.6673983956143,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 3.972342447334256,
+			"height": 0,
+			"seed": 442364317,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1Q",
 			"roundness": null,
-			"seed": 442364317,
-			"version": 9,
-			"versionNonce": 1334334525,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438463104,
 			"link": null,
 			"locked": false,
@@ -8345,37 +8147,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					0
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				3.972342447334256,
-				0
-			]
+			"pressures": []
 		},
 		{
-			"id": "zebUPtSZ14yUMNTyy-jfY",
 			"type": "freedraw",
-			"x": 326.997961320283,
-			"y": -3870.9716314749376,
-			"width": 17.213483938448462,
-			"height": 11.917027342002712,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 2033450163,
+			"index": "b1R",
+			"isDeleted": false,
+			"id": "zebUPtSZ14yUMNTyy-jfY",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 326.997961320283,
+			"y": -3870.9716314749376,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 17.213483938448462,
+			"height": 11.917027342002712,
+			"seed": 1078271923,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1R",
 			"roundness": null,
-			"seed": 1078271923,
-			"version": 10,
-			"versionNonce": 2033450163,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438485422,
 			"link": null,
 			"locked": false,
@@ -8413,37 +8212,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-11.917027342002712
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				17.213483938448462,
-				-11.917027342002712
-			]
+			"pressures": []
 		},
 		{
-			"id": "ddR1Gji0_pwk-EcA14P1s",
 			"type": "freedraw",
-			"x": 342.22527403506433,
-			"y": -3882.2266017423844,
-			"width": 16.551426863892743,
-			"height": 16.55142686389263,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 16,
+			"versionNonce": 1820802461,
+			"index": "b1S",
+			"isDeleted": false,
+			"id": "ddR1Gji0_pwk-EcA14P1s",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 342.22527403506433,
+			"y": -3882.2266017423844,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 16.551426863892743,
+			"height": 16.55142686389263,
+			"seed": 1927484509,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1S",
 			"roundness": null,
-			"seed": 1927484509,
-			"version": 16,
-			"versionNonce": 1820802461,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438485942,
 			"link": null,
 			"locked": false,
@@ -8505,37 +8301,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					0.6620570745558325
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				16.551426863892743,
-				0.6620570745558325
-			]
+			"pressures": []
 		},
 		{
-			"id": "QAxRkx7gn9RR7XULJmQwV",
 			"type": "freedraw",
-			"x": 93.2918140021169,
-			"y": -3906.7227135009457,
-			"width": 234.36820439272185,
-			"height": 23.17199760944959,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 49,
+			"versionNonce": 760669363,
+			"index": "b1T",
+			"isDeleted": false,
+			"id": "QAxRkx7gn9RR7XULJmQwV",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 93.2918140021169,
+			"y": -3906.7227135009457,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 234.36820439272185,
+			"height": 23.17199760944959,
+			"seed": 1313302611,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1T",
 			"roundness": null,
-			"seed": 1313302611,
-			"version": 49,
-			"versionNonce": 760669363,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438489074,
 			"link": null,
 			"locked": false,
@@ -8729,37 +8522,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					21.185826385782548
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				234.36820439272185,
-				21.185826385782548
-			]
+			"pressures": []
 		},
 		{
-			"id": "lZgN0Qh63qHIBzj4lXXbK",
 			"type": "freedraw",
-			"x": 337.5908745131744,
-			"y": -3883.5507158914957,
-			"width": 195.9688940684906,
-			"height": 9.930856118335669,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 33,
+			"versionNonce": 1059389437,
+			"index": "b1U",
+			"isDeleted": false,
+			"id": "lZgN0Qh63qHIBzj4lXXbK",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 337.5908745131744,
+			"y": -3883.5507158914957,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 195.9688940684906,
+			"height": 9.930856118335669,
+			"seed": 84913245,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1U",
 			"roundness": null,
-			"seed": 84913245,
-			"version": 33,
-			"versionNonce": 1059389437,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438489966,
 			"link": null,
 			"locked": false,
@@ -8889,37 +8679,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-7.944684894668626
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-195.9688940684906,
-				-7.944684894668626
-			]
+			"pressures": []
 		},
 		{
-			"id": "JQI59YW1PdKnSZzfvO6S1",
 			"type": "freedraw",
-			"x": 127.71878187901382,
-			"y": -3902.7503710536116,
-			"width": 131.74935783658657,
-			"height": 14.565255640225587,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 19,
+			"versionNonce": 331582355,
+			"index": "b1V",
+			"isDeleted": false,
+			"id": "JQI59YW1PdKnSZzfvO6S1",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 127.71878187901382,
+			"y": -3902.7503710536116,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 131.74935783658657,
+			"height": 14.565255640225587,
+			"seed": 492963827,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1V",
 			"roundness": null,
-			"seed": 492963827,
-			"version": 19,
-			"versionNonce": 331582355,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438490710,
 			"link": null,
 			"locked": false,
@@ -8993,37 +8780,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					8.606741969224458
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				131.74935783658657,
-				8.606741969224458
-			]
+			"pressures": []
 		},
 		{
-			"id": "ljlOcwd-zxFXXbEsjS5FD",
 			"type": "freedraw",
-			"x": -137.76610501782636,
-			"y": -3917.315626693837,
-			"width": 5.296456596445694,
-			"height": 6.620570745556961,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 12,
+			"versionNonce": 1543354173,
+			"index": "b1W",
+			"isDeleted": false,
+			"id": "ljlOcwd-zxFXXbEsjS5FD",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -137.76610501782636,
+			"y": -3917.315626693837,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 5.296456596445694,
+			"height": 6.620570745556961,
+			"seed": 2143911805,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1W",
 			"roundness": null,
-			"seed": 2143911805,
-			"version": 12,
-			"versionNonce": 1543354173,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438523542,
 			"link": null,
 			"locked": false,
@@ -9069,37 +8853,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-6.620570745556961
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-5.296456596445694,
-				-6.620570745556961
-			]
+			"pressures": []
 		},
 		{
-			"id": "0ZjGwrpb-m43e5zO3hVmR",
 			"type": "freedraw",
-			"x": -182.123929013059,
-			"y": -3923.2741403648383,
-			"width": 21.18582638578272,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 13,
+			"versionNonce": 1874035347,
+			"index": "b1X",
+			"isDeleted": false,
+			"id": "0ZjGwrpb-m43e5zO3hVmR",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -182.123929013059,
+			"y": -3923.2741403648383,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 21.18582638578272,
+			"height": 0,
+			"seed": 1178193075,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1X",
 			"roundness": null,
-			"seed": 1178193075,
-			"version": 13,
-			"versionNonce": 1874035347,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438524417,
 			"link": null,
 			"locked": false,
@@ -9149,37 +8930,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					0
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				21.18582638578272,
-				0
-			]
+			"pressures": []
 		},
 		{
-			"id": "45mQ5ZAYg-YX22SwfnST1",
 			"type": "freedraw",
-			"x": -183.44804316217045,
-			"y": -3923.936197439394,
-			"width": 23.171997609449875,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 1707529181,
+			"index": "b1Y",
+			"isDeleted": false,
+			"id": "45mQ5ZAYg-YX22SwfnST1",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -183.44804316217045,
+			"y": -3923.936197439394,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 23.171997609449875,
+			"height": 0,
+			"seed": 2112968829,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1Y",
 			"roundness": null,
-			"seed": 2112968829,
-			"version": 11,
-			"versionNonce": 1707529181,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438524934,
 			"link": null,
 			"locked": false,
@@ -9221,37 +8999,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					0
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				23.171997609449875,
-				0
-			]
+			"pressures": []
 		},
 		{
-			"id": "ahpdkR3EiAy1TtkhRFLVJ",
 			"type": "freedraw",
-			"x": -170.20690167105624,
-			"y": -3925.260311588506,
-			"width": 11.917027342002825,
-			"height": 1.324114149111665,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 1832173939,
+			"index": "b1Z",
+			"isDeleted": false,
+			"id": "ahpdkR3EiAy1TtkhRFLVJ",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -170.20690167105624,
+			"y": -3925.260311588506,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 11.917027342002825,
+			"height": 1.324114149111665,
+			"seed": 484417043,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1Z",
 			"roundness": null,
-			"seed": 484417043,
-			"version": 9,
-			"versionNonce": 1832173939,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438525374,
 			"link": null,
 			"locked": false,
@@ -9285,37 +9060,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					1.324114149111665
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				11.917027342002825,
-				1.324114149111665
-			]
+			"pressures": []
 		},
 		{
-			"id": "zISr_s8oORWvtfeovG-qA",
 			"type": "freedraw",
-			"x": -188.74449975861614,
-			"y": -3943.7979096760655,
-			"width": 130.42524368747513,
-			"height": 29.13051128045163,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 101,
+			"versionNonce": 1350623421,
+			"index": "b1a",
+			"isDeleted": false,
+			"id": "zISr_s8oORWvtfeovG-qA",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -188.74449975861614,
+			"y": -3943.7979096760655,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 130.42524368747513,
+			"height": 29.13051128045163,
+			"seed": 409932701,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1a",
 			"roundness": null,
-			"seed": 409932701,
-			"version": 101,
-			"versionNonce": 1350623421,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438538058,
 			"link": null,
 			"locked": false,
@@ -9717,37 +9489,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-1.324114149111665
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				15.889369789337081,
-				-1.324114149111665
-			]
+			"pressures": []
 		},
 		{
-			"id": "Kz2PKLIQbRqdqanihP1v2",
 			"type": "freedraw",
-			"x": -219.8611822627346,
-			"y": -3932.5429394086186,
-			"width": 10.592913192891388,
-			"height": 0.6620570745553778,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 1639548979,
+			"index": "b1b",
+			"isDeleted": false,
+			"id": "Kz2PKLIQbRqdqanihP1v2",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -219.8611822627346,
+			"y": -3932.5429394086186,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 10.592913192891388,
+			"height": 0.6620570745553778,
+			"seed": 590228275,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1b",
 			"roundness": null,
-			"seed": 590228275,
-			"version": 10,
-			"versionNonce": 1639548979,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438539071,
 			"link": null,
 			"locked": false,
@@ -9785,37 +9554,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					0
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				10.592913192891388,
-				0
-			]
+			"pressures": []
 		},
 		{
-			"id": "1ihCVWfRJKYeIzT-m0hQb",
 			"type": "freedraw",
-			"x": -217.21295396451174,
-			"y": -3923.936197439394,
-			"width": 11.254970267447078,
-			"height": 6.620570745557416,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 1147829117,
+			"index": "b1c",
+			"isDeleted": false,
+			"id": "1ihCVWfRJKYeIzT-m0hQb",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -217.21295396451174,
+			"y": -3923.936197439394,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 11.254970267447078,
+			"height": 6.620570745557416,
+			"seed": 1356624093,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1c",
 			"roundness": null,
-			"seed": 1356624093,
-			"version": 9,
-			"versionNonce": 1147829117,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438539417,
 			"link": null,
 			"locked": false,
@@ -9849,37 +9615,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-6.620570745557416
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				11.254970267447078,
-				-6.620570745557416
-			]
+			"pressures": []
 		},
 		{
-			"id": "U1VRfXTi8dnnNnSZ-U-_f",
 			"type": "freedraw",
-			"x": -292.02540338930714,
-			"y": -3950.4184804216234,
-			"width": 23.17199760944993,
-			"height": 15.889369789336797,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 14,
+			"versionNonce": 480034803,
+			"index": "b1d",
+			"isDeleted": false,
+			"id": "U1VRfXTi8dnnNnSZ-U-_f",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -292.02540338930714,
+			"y": -3950.4184804216234,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 23.17199760944993,
+			"height": 15.889369789336797,
+			"seed": 493909107,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1d",
 			"roundness": null,
-			"seed": 493909107,
-			"version": 14,
-			"versionNonce": 480034803,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438626298,
 			"link": null,
 			"locked": false,
@@ -9933,37 +9696,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-10.592913192891046
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				23.17199760944993,
-				-10.592913192891046
-			]
+			"pressures": []
 		},
 		{
-			"id": "LblEE6YoR8xqDOX2GzW3y",
 			"type": "freedraw",
-			"x": -324.46620004253697,
-			"y": -2870.6033918212597,
-			"width": 19.19965516211562,
-			"height": 13.241141491114377,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 7,
+			"versionNonce": 839793405,
+			"index": "b1e",
+			"isDeleted": false,
+			"id": "LblEE6YoR8xqDOX2GzW3y",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -324.46620004253697,
+			"y": -2870.6033918212597,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 19.19965516211562,
+			"height": 13.241141491114377,
+			"seed": 1544228125,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1e",
 			"roundness": null,
-			"seed": 1544228125,
-			"version": 7,
-			"versionNonce": 839793405,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438640954,
 			"link": null,
 			"locked": false,
@@ -9989,37 +9749,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-13.241141491114377
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				19.19965516211562,
-				-13.241141491114377
-			]
+			"pressures": []
 		},
 		{
-			"id": "iXRzla80hKaG67BJ39wsD",
 			"type": "freedraw",
-			"x": -189.40655683317186,
-			"y": -1721.9343674671031,
-			"width": 33.10285372778554,
-			"height": 25.15816883311686,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 35,
+			"versionNonce": 1505866013,
+			"index": "b1w",
+			"isDeleted": false,
+			"id": "iXRzla80hKaG67BJ39wsD",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -189.40655683317186,
+			"y": -1721.9343674671031,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 33.10285372778554,
+			"height": 25.15816883311686,
+			"seed": 1389102269,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1w",
 			"roundness": null,
-			"seed": 1389102269,
-			"version": 35,
-			"versionNonce": 1505866013,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438938883,
 			"link": null,
 			"locked": false,
@@ -10157,37 +9914,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-23.83405468400565
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				26.48228298222847,
-				-23.83405468400565
-			]
+			"pressures": []
 		},
 		{
-			"id": "NKmO7p3_l-1gCwD6sMhda",
 			"type": "freedraw",
-			"x": -435.6917885678965,
-			"y": -1672.9421439499806,
-			"width": 41.04753862245411,
-			"height": 8.606741969224231,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 26,
+			"versionNonce": 208376787,
+			"index": "b1x",
+			"isDeleted": false,
+			"id": "NKmO7p3_l-1gCwD6sMhda",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -435.6917885678965,
+			"y": -1672.9421439499806,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 41.04753862245411,
+			"height": 8.606741969224231,
+			"seed": 372989139,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1x",
 			"roundness": null,
-			"seed": 372989139,
-			"version": 26,
-			"versionNonce": 208376787,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438989071,
 			"link": null,
 			"locked": false,
@@ -10289,37 +10043,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-8.606741969224231
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				41.04753862245411,
-				-8.606741969224231
-			]
+			"pressures": []
 		},
 		{
-			"id": "LPc0lDC9RZmSvTP_zRaQw",
 			"type": "freedraw",
-			"x": -424.4368183004494,
-			"y": -1692.803856186652,
-			"width": 23.171997609449875,
-			"height": 18.5375980875599,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 34,
+			"versionNonce": 1059483453,
+			"index": "b1y",
+			"isDeleted": false,
+			"id": "LPc0lDC9RZmSvTP_zRaQw",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -424.4368183004494,
+			"y": -1692.803856186652,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 23.171997609449875,
+			"height": 18.5375980875599,
+			"seed": 1263248189,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1y",
 			"roundness": null,
-			"seed": 1263248189,
-			"version": 34,
-			"versionNonce": 1059483453,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438992652,
 			"link": null,
 			"locked": false,
@@ -10453,37 +10204,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					1.9861712236670428
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				23.171997609449875,
-				1.9861712236670428
-			]
+			"pressures": []
 		},
 		{
-			"id": "My7bwsr8JkzhFKEckEVXh",
 			"type": "freedraw",
-			"x": -410.53361973477945,
-			"y": -1664.997459055312,
-			"width": 15.22731271478142,
-			"height": 33.10285372778549,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 26,
+			"versionNonce": 754330547,
+			"index": "b1z",
+			"isDeleted": false,
+			"id": "My7bwsr8JkzhFKEckEVXh",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -410.53361973477945,
+			"y": -1664.997459055312,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 15.22731271478142,
+			"height": 33.10285372778549,
+			"seed": 1509921971,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b1z",
 			"roundness": null,
-			"seed": 1509921971,
-			"version": 26,
-			"versionNonce": 754330547,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724438993709,
 			"link": null,
 			"locked": false,
@@ -10585,37 +10333,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					28.46845420589557
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-1.9861712236671565,
-				28.46845420589557
-			]
+			"pressures": []
 		},
 		{
-			"id": "UAznQMRiem5XIp_DLvgZ4",
 			"type": "freedraw",
-			"x": -231.11615253018167,
-			"y": -1729.8790523617718,
-			"width": 102.61884655613525,
-			"height": 29.1305112804514,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 69,
+			"versionNonce": 366251645,
+			"index": "b20",
+			"isDeleted": false,
+			"id": "UAznQMRiem5XIp_DLvgZ4",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -231.11615253018167,
+			"y": -1729.8790523617718,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 102.61884655613525,
+			"height": 29.1305112804514,
+			"seed": 263140701,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b20",
 			"roundness": null,
-			"seed": 263140701,
-			"version": 69,
-			"versionNonce": 366251645,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439030229,
 			"link": null,
 			"locked": false,
@@ -10889,37 +10634,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					3.972342447334313
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-10.592913192891388,
-				3.972342447334313
-			]
+			"pressures": []
 		},
 		{
-			"id": "f4DGYMPMTTvfbs3Yv6iNt",
 			"type": "freedraw",
-			"x": -35.14725846169114,
-			"y": -1402.1608004566942,
-			"width": 11.254970267447106,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 12,
+			"versionNonce": 824823219,
+			"index": "b21",
+			"isDeleted": false,
+			"id": "f4DGYMPMTTvfbs3Yv6iNt",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -35.14725846169114,
+			"y": -1402.1608004566942,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 11.254970267447106,
+			"height": 0,
+			"seed": 654930291,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b21",
 			"roundness": null,
-			"seed": 654930291,
-			"version": 12,
-			"versionNonce": 824823219,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439055245,
 			"link": null,
 			"locked": false,
@@ -10965,37 +10707,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					0
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				11.254970267447106,
-				0
-			]
+			"pressures": []
 		},
 		{
-			"id": "DKoZSx55rztWQ3qcMAkXR",
 			"type": "freedraw",
-			"x": -13.299375001352644,
-			"y": -1408.1193141276958,
-			"width": 43.03370984612121,
-			"height": 13.241141491114377,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 33,
+			"versionNonce": 2142578429,
+			"index": "b22",
+			"isDeleted": false,
+			"id": "DKoZSx55rztWQ3qcMAkXR",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -13.299375001352644,
+			"y": -1408.1193141276958,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 43.03370984612121,
+			"height": 13.241141491114377,
+			"seed": 1759441757,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b22",
 			"roundness": null,
-			"seed": 1759441757,
-			"version": 33,
-			"versionNonce": 2142578429,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439059871,
 			"link": null,
 			"locked": false,
@@ -11125,37 +10864,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					1.9861712236672702
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-12.579084416558487,
-				1.9861712236672702
-			]
+			"pressures": []
 		},
 		{
-			"id": "-0eSotpx8uIEjMkA9LXUE",
 			"type": "freedraw",
-			"x": -66.26394096580952,
-			"y": -1417.3881131714757,
-			"width": 97.98444703424525,
-			"height": 6.620570745557188,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 13,
+			"versionNonce": 1044614867,
+			"index": "b23",
+			"isDeleted": false,
+			"id": "-0eSotpx8uIEjMkA9LXUE",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -66.26394096580952,
+			"y": -1417.3881131714757,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 97.98444703424525,
+			"height": 6.620570745557188,
+			"seed": 879407347,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b23",
 			"roundness": null,
-			"seed": 879407347,
-			"version": 13,
-			"versionNonce": 1044614867,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439061260,
 			"link": null,
 			"locked": false,
@@ -11205,37 +10941,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-6.620570745557188
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				97.98444703424525,
-				-6.620570745557188
-			]
+			"pressures": []
 		},
 		{
-			"id": "Sp9H7EVkEC8dIIi0DYh5X",
 			"type": "freedraw",
-			"x": 334.94264621495154,
-			"y": -1372.3682321016872,
-			"width": 35.751082026008476,
-			"height": 1.9861712236672702,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 952499101,
+			"index": "b24",
+			"isDeleted": false,
+			"id": "Sp9H7EVkEC8dIIi0DYh5X",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 334.94264621495154,
+			"y": -1372.3682321016872,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 35.751082026008476,
+			"height": 1.9861712236672702,
+			"seed": 878065725,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b24",
 			"roundness": null,
-			"seed": 878065725,
-			"version": 11,
-			"versionNonce": 952499101,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439065349,
 			"link": null,
 			"locked": false,
@@ -11277,37 +11010,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-1.9861712236672702
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-34.42696787689704,
-				-1.9861712236672702
-			]
+			"pressures": []
 		},
 		{
-			"id": "lpzPFsuETJ7ZBvviIb4D8",
 			"type": "freedraw",
-			"x": 306.47419200905597,
-			"y": -1378.9888028472444,
-			"width": 16.551426863892743,
-			"height": 17.213483938448462,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 14,
+			"versionNonce": 402507219,
+			"index": "b25",
+			"isDeleted": false,
+			"id": "lpzPFsuETJ7ZBvviIb4D8",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 306.47419200905597,
+			"y": -1378.9888028472444,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 16.551426863892743,
+			"height": 17.213483938448462,
+			"seed": 369576531,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b25",
 			"roundness": null,
-			"seed": 369576531,
-			"version": 14,
-			"versionNonce": 402507219,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439065781,
 			"link": null,
 			"locked": false,
@@ -11361,37 +11091,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					17.213483938448462
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				3.3102853727784805,
-				17.213483938448462
-			]
+			"pressures": []
 		},
 		{
-			"id": "pCV8JubuG4kKucJW5obMe",
 			"type": "freedraw",
-			"x": -307.25271610408845,
-			"y": -279.31200201020766,
-			"width": 29.130511280451287,
-			"height": 39.06136739878701,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 47,
+			"versionNonce": 1228474909,
+			"index": "b26",
+			"isDeleted": false,
+			"id": "pCV8JubuG4kKucJW5obMe",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -307.25271610408845,
+			"y": -279.31200201020766,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 29.130511280451287,
+			"height": 39.06136739878701,
+			"seed": 2017448253,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b26",
 			"roundness": null,
-			"seed": 2017448253,
-			"version": 47,
-			"versionNonce": 1228474909,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439119581,
 			"link": null,
 			"locked": false,
@@ -11577,37 +11304,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-19.199655162115675
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				3.972342447334256,
-				-19.199655162115675
-			]
+			"pressures": []
 		},
 		{
-			"id": "otMFGdlKDVjRCmuvpmSiH",
 			"type": "freedraw",
-			"x": -295.3356887620857,
-			"y": -279.31200201020766,
-			"width": 30.454625429562725,
-			"height": 30.454625429562668,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 70,
+			"versionNonce": 1611864659,
+			"index": "b27",
+			"isDeleted": false,
+			"id": "otMFGdlKDVjRCmuvpmSiH",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -295.3356887620857,
+			"y": -279.31200201020766,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 30.454625429562725,
+			"height": 30.454625429562668,
+			"seed": 995308499,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b27",
 			"roundness": null,
-			"seed": 995308499,
-			"version": 70,
-			"versionNonce": 1611864659,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439121439,
 			"link": null,
 			"locked": false,
@@ -11885,37 +11609,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-25.15816883311703
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-3.972342447334256,
-				-25.15816883311703
-			]
+			"pressures": []
 		},
 		{
-			"id": "HDve3h7o3KXMQoxuB7xZ7",
 			"type": "freedraw",
-			"x": -285.40483264375,
-			"y": -309.10457036521467,
-			"width": 21.847883460338494,
-			"height": 14.565255640225644,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 34,
+			"versionNonce": 432461203,
+			"index": "b28",
+			"isDeleted": false,
+			"id": "HDve3h7o3KXMQoxuB7xZ7",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -285.40483264375,
+			"y": -309.10457036521467,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 21.847883460338494,
+			"height": 14.565255640225644,
+			"seed": 444129683,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b28",
 			"roundness": null,
-			"seed": 444129683,
-			"version": 34,
-			"versionNonce": 432461203,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439123704,
 			"link": null,
 			"locked": false,
@@ -12049,37 +11770,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-0.6620570745557188
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-9.930856118335669,
-				-0.6620570745557188
-			]
+			"pressures": []
 		},
 		{
-			"id": "bUcrVVBzRYdMFLpXO-fX_",
 			"type": "freedraw",
-			"x": -128.4973059740464,
-			"y": -291.89108642676615,
-			"width": 145.6525564022565,
-			"height": 33.1028537277856,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 186,
+			"versionNonce": 2142759549,
+			"index": "b29",
+			"isDeleted": false,
+			"id": "bUcrVVBzRYdMFLpXO-fX_",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -128.4973059740464,
+			"y": -291.89108642676615,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 145.6525564022565,
+			"height": 33.1028537277856,
+			"seed": 1505564029,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b29",
 			"roundness": null,
-			"seed": 1505564029,
-			"version": 186,
-			"versionNonce": 2142759549,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439128797,
 			"link": null,
 			"locked": false,
@@ -12821,37 +12539,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-21.847883460338494
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				39.061367398786956,
-				-21.847883460338494
-			]
+			"pressures": []
 		},
 		{
-			"id": "cvdJhQo891Ax97g0aYM8L",
 			"type": "freedraw",
-			"x": -227.80586715740313,
-			"y": -315.7251411107718,
-			"width": 0,
-			"height": 9.930856118335669,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 1174041203,
+			"index": "b2A",
+			"isDeleted": false,
+			"id": "cvdJhQo891Ax97g0aYM8L",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -227.80586715740313,
+			"y": -315.7251411107718,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 9.930856118335669,
+			"seed": 2095928691,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2A",
 			"roundness": null,
-			"seed": 2095928691,
-			"version": 10,
-			"versionNonce": 1174041203,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439175413,
 			"link": null,
 			"locked": false,
@@ -12889,37 +12604,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					9.930856118335669
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0,
-				9.930856118335669
-			]
+			"pressures": []
 		},
 		{
-			"id": "yjZpqNAJPgYrMRBAgw01w",
 			"type": "freedraw",
-			"x": -146.3728469870506,
-			"y": -307.7804562161033,
-			"width": 18.5375980875599,
-			"height": 15.889369789337024,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 14,
+			"versionNonce": 739815197,
+			"index": "b2B",
+			"isDeleted": false,
+			"id": "yjZpqNAJPgYrMRBAgw01w",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -146.3728469870506,
+			"y": -307.7804562161033,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 18.5375980875599,
+			"height": 15.889369789337024,
+			"seed": 306516637,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2B",
 			"roundness": null,
-			"seed": 306516637,
-			"version": 14,
-			"versionNonce": 739815197,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439182293,
 			"link": null,
 			"locked": false,
@@ -12973,37 +12685,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-13.903198565669868
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				18.5375980875599,
-				-13.903198565669868
-			]
+			"pressures": []
 		},
 		{
-			"id": "a7cw1gUk83J_Hhuh7WUaA",
 			"type": "freedraw",
-			"x": -133.1317054959364,
-			"y": -313.73896988710464,
-			"width": 9.930856118335669,
-			"height": 9.26879904377995,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 14,
+			"versionNonce": 220904019,
+			"index": "b2C",
+			"isDeleted": false,
+			"id": "a7cw1gUk83J_Hhuh7WUaA",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -133.1317054959364,
+			"y": -313.73896988710464,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 9.930856118335669,
+			"height": 9.26879904377995,
+			"seed": 1292828371,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2C",
 			"roundness": null,
-			"seed": 1292828371,
-			"version": 14,
-			"versionNonce": 220904019,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439183012,
 			"link": null,
 			"locked": false,
@@ -13057,37 +12766,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-3.972342447334313
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				9.930856118335669,
-				-3.972342447334313
-			]
+			"pressures": []
 		},
 		{
-			"id": "uUI0ZTn-ji5FLe9aR_qme",
 			"type": "freedraw",
-			"x": -135.77993379415926,
-			"y": -289.90491520309905,
-			"width": 11.917027342002825,
-			"height": 6.620570745557131,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 1387112381,
+			"index": "b2D",
+			"isDeleted": false,
+			"id": "uUI0ZTn-ji5FLe9aR_qme",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -135.77993379415926,
+			"y": -289.90491520309905,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 11.917027342002825,
+			"height": 6.620570745557131,
+			"seed": 1414263997,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2D",
 			"roundness": null,
-			"seed": 1414263997,
-			"version": 10,
-			"versionNonce": 1387112381,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439184381,
 			"link": null,
 			"locked": false,
@@ -13125,37 +12831,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-6.620570745557131
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				11.917027342002825,
-				-6.620570745557131
-			]
+			"pressures": []
 		},
 		{
-			"id": "3cyS8jBg3Iv9veUMBmuUL",
 			"type": "freedraw",
-			"x": -129.15936304860213,
-			"y": -293.8772576504333,
-			"width": 12.579084416558544,
-			"height": 6.620570745557131,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 14,
+			"versionNonce": 1951063987,
+			"index": "b2E",
+			"isDeleted": false,
+			"id": "3cyS8jBg3Iv9veUMBmuUL",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -129.15936304860213,
+			"y": -293.8772576504333,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 12.579084416558544,
+			"height": 6.620570745557131,
+			"seed": 1065890867,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2E",
 			"roundness": null,
-			"seed": 1065890867,
-			"version": 14,
-			"versionNonce": 1951063987,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439184886,
 			"link": null,
 			"locked": false,
@@ -13209,37 +12912,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-1.9861712236671565
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				12.579084416558544,
-				-1.9861712236671565
-			]
+			"pressures": []
 		},
 		{
-			"id": "bAheNG2GSTAWn83XKwPIF",
 			"type": "freedraw",
-			"x": 91.30564277844974,
-			"y": -274.01554541376197,
-			"width": 226.42351949805334,
-			"height": 13.241141491114263,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 143,
+			"versionNonce": 249244221,
+			"index": "b2F",
+			"isDeleted": false,
+			"id": "bAheNG2GSTAWn83XKwPIF",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 91.30564277844974,
+			"y": -274.01554541376197,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 226.42351949805334,
+			"height": 13.241141491114263,
+			"seed": 1413366109,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2F",
 			"roundness": null,
-			"seed": 1413366109,
-			"version": 143,
-			"versionNonce": 249244221,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439192950,
 			"link": null,
 			"locked": false,
@@ -13809,37 +13509,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-11.254970267447106
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				226.42351949805334,
-				-11.254970267447106
-			]
+			"pressures": []
 		},
 		{
-			"id": "LNt88u_fkijaHMPnATanR",
 			"type": "freedraw",
-			"x": -179.4757007148362,
-			"y": -284.60845860665336,
-			"width": 23.834054684005594,
-			"height": 0.6620570745557188,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 1854791955,
+			"index": "b2G",
+			"isDeleted": false,
+			"id": "LNt88u_fkijaHMPnATanR",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -179.4757007148362,
+			"y": -284.60845860665336,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 23.834054684005594,
+			"height": 0.6620570745557188,
+			"seed": 1651599795,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2G",
 			"roundness": null,
-			"seed": 1651599795,
-			"version": 9,
-			"versionNonce": 1854791955,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439200109,
 			"link": null,
 			"locked": false,
@@ -13873,37 +13570,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-0.6620570745557188
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				23.834054684005594,
-				-0.6620570745557188
-			]
+			"pressures": []
 		},
 		{
-			"id": "vRXN6b-xC1q7u3RQnetBt",
 			"type": "freedraw",
-			"x": -186.758328534949,
-			"y": -282.6222873829862,
-			"width": 26.482282982228412,
-			"height": 3.972342447334313,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 18,
+			"versionNonce": 1557846013,
+			"index": "b2H",
+			"isDeleted": false,
+			"id": "vRXN6b-xC1q7u3RQnetBt",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -186.758328534949,
+			"y": -282.6222873829862,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 26.482282982228412,
+			"height": 3.972342447334313,
+			"seed": 863826429,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2H",
 			"roundness": null,
-			"seed": 863826429,
-			"version": 18,
-			"versionNonce": 1557846013,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439294941,
 			"link": null,
 			"locked": false,
@@ -13973,37 +13667,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-3.972342447334313
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				26.482282982228412,
-				-3.972342447334313
-			]
+			"pressures": []
 		},
 		{
-			"id": "RGE2nwYe0Gg06Cp5pRFOP",
 			"type": "freedraw",
-			"x": -182.78598608761473,
-			"y": -279.97405908476316,
-			"width": 22.509940534894156,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 961982291,
+			"index": "b2I",
+			"isDeleted": false,
+			"id": "RGE2nwYe0Gg06Cp5pRFOP",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -182.78598608761473,
+			"y": -279.97405908476316,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 22.509940534894156,
+			"height": 0,
+			"seed": 1809887219,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2I",
 			"roundness": null,
-			"seed": 1809887219,
-			"version": 9,
-			"versionNonce": 961982291,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439345085,
 			"link": null,
 			"locked": false,
@@ -14037,37 +13728,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					0
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				22.509940534894156,
-				0
-			]
+			"pressures": []
 		},
 		{
-			"id": "r8ORP5OiINTgmApYyGI0l",
 			"type": "freedraw",
-			"x": -254.28815013963157,
-			"y": -281.96023030843025,
-			"width": 21.185826385782775,
-			"height": 3.310285372778594,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 1992893117,
+			"index": "b2J",
+			"isDeleted": false,
+			"id": "r8ORP5OiINTgmApYyGI0l",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -254.28815013963157,
+			"y": -281.96023030843025,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 21.185826385782775,
+			"height": 3.310285372778594,
+			"seed": 1926393789,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2J",
 			"roundness": null,
-			"seed": 1926393789,
-			"version": 10,
-			"versionNonce": 1992893117,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439418944,
 			"link": null,
 			"locked": false,
@@ -14105,37 +13793,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-3.310285372778594
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				21.185826385782775,
-				-3.310285372778594
-			]
+			"pressures": []
 		},
 		{
-			"id": "Jif0E_GMCZ6w-7DoSrQQ7",
 			"type": "freedraw",
-			"x": 176.04894832158084,
-			"y": 1547.9655237635557,
-			"width": 78.78479187212963,
-			"height": 32.44079665322988,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 16,
+			"versionNonce": 426970909,
+			"index": "b2L",
+			"isDeleted": false,
+			"id": "Jif0E_GMCZ6w-7DoSrQQ7",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 176.04894832158084,
+			"y": 1547.9655237635557,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 78.78479187212963,
+			"height": 32.44079665322988,
+			"seed": 1895531997,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2L",
 			"roundness": null,
-			"seed": 1895531997,
-			"version": 16,
-			"versionNonce": 426970909,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439506544,
 			"link": null,
 			"locked": false,
@@ -14197,37 +13882,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-28.468454205895796
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				78.78479187212963,
-				-28.468454205895796
-			]
+			"pressures": []
 		},
 		{
-			"id": "3XN4QZzeJDBbAxCGN9_Hd",
 			"type": "freedraw",
-			"x": -219.8611822627346,
-			"y": 2283.510933594952,
-			"width": 97.9844470342453,
-			"height": 23.834054684005423,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 81,
+			"versionNonce": 1513316147,
+			"index": "b2M",
+			"isDeleted": false,
+			"id": "3XN4QZzeJDBbAxCGN9_Hd",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -219.8611822627346,
+			"y": 2283.510933594952,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 97.9844470342453,
+			"height": 23.834054684005423,
+			"seed": 9871059,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2M",
 			"roundness": null,
-			"seed": 9871059,
-			"version": 81,
-			"versionNonce": 1513316147,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439521243,
 			"link": null,
 			"locked": false,
@@ -14549,37 +14231,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					3.310285372778708
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				60.90925085912545,
-				3.310285372778708
-			]
+			"pressures": []
 		},
 		{
-			"id": "AkTs1qzLAXrD74ezbbDWz",
 			"type": "freedraw",
-			"x": -194.04095635506184,
-			"y": 2165.6647743240355,
-			"width": 20.523769311227056,
-			"height": 40.38548154789851,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 29,
+			"versionNonce": 1467077629,
+			"index": "b2N",
+			"isDeleted": false,
+			"id": "AkTs1qzLAXrD74ezbbDWz",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -194.04095635506184,
+			"y": 2165.6647743240355,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 20.523769311227056,
+			"height": 40.38548154789851,
+			"seed": 2063886813,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2N",
 			"roundness": null,
-			"seed": 2063886813,
-			"version": 29,
-			"versionNonce": 1467077629,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439561177,
 			"link": null,
 			"locked": false,
@@ -14693,37 +14372,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					25.158168833117088
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				12.579084416558487,
-				25.158168833117088
-			]
+			"pressures": []
 		},
 		{
-			"id": "C_l6c38oA2t39upZvh3S8",
 			"type": "freedraw",
-			"x": -166.234559223722,
-			"y": 2168.3130026222584,
-			"width": 6.620570745557131,
-			"height": 20.523769311226715,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 19,
+			"versionNonce": 1700460435,
+			"index": "b2O",
+			"isDeleted": false,
+			"id": "C_l6c38oA2t39upZvh3S8",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -166.234559223722,
+			"y": 2168.3130026222584,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 6.620570745557131,
+			"height": 20.523769311226715,
+			"seed": 902755315,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2O",
 			"roundness": null,
-			"seed": 902755315,
-			"version": 19,
-			"versionNonce": 1700460435,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439561681,
 			"link": null,
 			"locked": false,
@@ -14797,37 +14473,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					20.523769311226715
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-3.3102853727785373,
-				20.523769311226715
-			]
+			"pressures": []
 		},
 		{
-			"id": "es17vRULcJ461yYHV-aRM",
 			"type": "freedraw",
-			"x": -236.41260912662736,
-			"y": 2168.3130026222584,
-			"width": 34.42696787689701,
-			"height": 18.537598087559672,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 17,
+			"versionNonce": 1311761693,
+			"index": "b2P",
+			"isDeleted": false,
+			"id": "es17vRULcJ461yYHV-aRM",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -236.41260912662736,
+			"y": 2168.3130026222584,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 34.42696787689701,
+			"height": 18.537598087559672,
+			"seed": 1726239613,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2P",
 			"roundness": null,
-			"seed": 1726239613,
-			"version": 17,
-			"versionNonce": 1311761693,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439562202,
 			"link": null,
 			"locked": false,
@@ -14893,37 +14566,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					18.537598087559672
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				33.76491080234129,
-				18.537598087559672
-			]
+			"pressures": []
 		},
 		{
-			"id": "vVG2feoWlx-vHyW-GYk6_",
 			"type": "freedraw",
-			"x": -195.36507050417327,
-			"y": 2172.2853450695925,
-			"width": 9.26879904377995,
-			"height": 33.10285372778526,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 380007283,
+			"index": "b2Q",
+			"isDeleted": false,
+			"id": "vVG2feoWlx-vHyW-GYk6_",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -195.36507050417327,
+			"y": 2172.2853450695925,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 9.26879904377995,
+			"height": 33.10285372778526,
+			"seed": 1513679059,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2Q",
 			"roundness": null,
-			"seed": 1513679059,
-			"version": 11,
-			"versionNonce": 380007283,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439562578,
 			"link": null,
 			"locked": false,
@@ -14965,37 +14635,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-29.130511280451174
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				5.958513671001413,
-				-29.130511280451174
-			]
+			"pressures": []
 		},
 		{
-			"id": "oJPtt9H-zGnisT9Xj0tfh",
 			"type": "freedraw",
-			"x": -258.2604925869658,
-			"y": 2190.160886082597,
-			"width": 59.58513671001401,
-			"height": 17.875541013004295,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 1353185533,
+			"index": "b2R",
+			"isDeleted": false,
+			"id": "oJPtt9H-zGnisT9Xj0tfh",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -258.2604925869658,
+			"y": 2190.160886082597,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 59.58513671001401,
+			"height": 17.875541013004295,
+			"seed": 1210827165,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2R",
 			"roundness": null,
-			"seed": 1210827165,
-			"version": 11,
-			"versionNonce": 1353185533,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439562992,
 			"link": null,
 			"locked": false,
@@ -15037,37 +14704,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-17.875541013004295
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				59.58513671001401,
-				-17.875541013004295
-			]
+			"pressures": []
 		},
 		{
-			"id": "CouMhN7gaATOcFziq-l2-",
 			"type": "freedraw",
-			"x": -154.31753188171916,
-			"y": 2319.2620156209605,
-			"width": 23.834054684005594,
-			"height": 2.6482282982228753,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 12,
+			"versionNonce": 976337715,
+			"index": "b2S",
+			"isDeleted": false,
+			"id": "CouMhN7gaATOcFziq-l2-",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -154.31753188171916,
+			"y": 2319.2620156209605,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 23.834054684005594,
+			"height": 2.6482282982228753,
+			"seed": 1101807347,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2S",
 			"roundness": null,
-			"seed": 1101807347,
-			"version": 12,
-			"versionNonce": 976337715,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439576138,
 			"link": null,
 			"locked": false,
@@ -15113,37 +14777,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					2.6482282982228753
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				23.834054684005594,
-				2.6482282982228753
-			]
+			"pressures": []
 		},
 		{
-			"id": "2R-61zVRpXNHjPN3J0_aV",
 			"type": "freedraw",
-			"x": -130.48347719771357,
-			"y": 2323.2343580682946,
-			"width": 44.35782399523265,
-			"height": 35.75108202600859,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 59,
+			"versionNonce": 931131197,
+			"index": "b2T",
+			"isDeleted": false,
+			"id": "2R-61zVRpXNHjPN3J0_aV",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -130.48347719771357,
+			"y": 2323.2343580682946,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 44.35782399523265,
+			"height": 35.75108202600859,
+			"seed": 861752797,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2T",
 			"roundness": null,
-			"seed": 861752797,
-			"version": 59,
-			"versionNonce": 931131197,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439578146,
 			"link": null,
 			"locked": false,
@@ -15377,37 +15038,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-2.6482282982228753
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				4.634399521889975,
-				-2.6482282982228753
-			]
+			"pressures": []
 		},
 		{
-			"id": "FxOTUvQvq33g2ZAspZSWC",
 			"type": "freedraw",
-			"x": -25.21640234335547,
-			"y": 2317.2758443972934,
-			"width": 48.99222351712268,
-			"height": 2.6482282982228753,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 959791955,
+			"index": "b2U",
+			"isDeleted": false,
+			"id": "FxOTUvQvq33g2ZAspZSWC",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -25.21640234335547,
+			"y": 2317.2758443972934,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 48.99222351712268,
+			"height": 2.6482282982228753,
+			"seed": 1244533939,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2U",
 			"roundness": null,
-			"seed": 1244533939,
-			"version": 11,
-			"versionNonce": 959791955,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439580217,
 			"link": null,
 			"locked": false,
@@ -15449,37 +15107,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-2.6482282982228753
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				48.99222351712268,
-				-2.6482282982228753
-			]
+			"pressures": []
 		},
 		{
-			"id": "BkHOWLH5synthVffcT9Ze",
 			"type": "freedraw",
-			"x": -20.582002821465494,
-			"y": 2318.5999585464047,
-			"width": 25.15816883311703,
-			"height": 3.310285372778253,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 12,
+			"versionNonce": 2028700541,
+			"index": "b2V",
+			"isDeleted": false,
+			"id": "BkHOWLH5synthVffcT9Ze",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -20.582002821465494,
+			"y": 2318.5999585464047,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 25.15816883311703,
+			"height": 3.310285372778253,
+			"seed": 123837373,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2V",
 			"roundness": null,
-			"seed": 123837373,
-			"version": 12,
-			"versionNonce": 2028700541,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439580632,
 			"link": null,
 			"locked": false,
@@ -15525,37 +15180,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-1.3241141491112103
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				25.15816883311703,
-				-1.3241141491112103
-			]
+			"pressures": []
 		},
 		{
-			"id": "7wJp_5gBJS3pdD92D7m52",
 			"type": "freedraw",
-			"x": -8.664975479462669,
-			"y": 2319.2620156209605,
-			"width": 23.171997609449875,
-			"height": 23.171997609450045,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 58,
+			"versionNonce": 493795187,
+			"index": "b2W",
+			"isDeleted": false,
+			"id": "7wJp_5gBJS3pdD92D7m52",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -8.664975479462669,
+			"y": 2319.2620156209605,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 23.171997609449875,
+			"height": 23.171997609450045,
+			"seed": 372567155,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2W",
 			"roundness": null,
-			"seed": 372567155,
-			"version": 58,
-			"versionNonce": 493795187,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439581979,
 			"link": null,
 			"locked": false,
@@ -15785,37 +15437,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-9.930856118335669
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-11.254970267447106,
-				-9.930856118335669
-			]
+			"pressures": []
 		},
 		{
-			"id": "3h49Nnt5gERbBzto_LBL1",
 			"type": "freedraw",
-			"x": -103.33913714092938,
-			"y": 2573.491932250353,
-			"width": 18.5375980875599,
-			"height": 1.9861712236670428,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 8,
+			"versionNonce": 2058920925,
+			"index": "b2X",
+			"isDeleted": false,
+			"id": "3h49Nnt5gERbBzto_LBL1",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -103.33913714092938,
+			"y": 2573.491932250353,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 18.5375980875599,
+			"height": 1.9861712236670428,
+			"seed": 1893350813,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2X",
 			"roundness": null,
-			"seed": 1893350813,
-			"version": 8,
-			"versionNonce": 2058920925,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439592784,
 			"link": null,
 			"locked": false,
@@ -15845,37 +15494,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-1.9861712236670428
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				18.5375980875599,
-				-1.9861712236670428
-			]
+			"pressures": []
 		},
 		{
-			"id": "jNHSATTuDZTbDuQSvUY7T",
 			"type": "freedraw",
-			"x": -69.57422633858812,
-			"y": 2577.464274697687,
-			"width": 5.296456596445694,
-			"height": 0.6620570745553778,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 12,
+			"versionNonce": 1015013971,
+			"index": "b2Y",
+			"isDeleted": false,
+			"id": "jNHSATTuDZTbDuQSvUY7T",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -69.57422633858812,
+			"y": 2577.464274697687,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 5.296456596445694,
+			"height": 0.6620570745553778,
+			"seed": 1657589267,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2Y",
 			"roundness": null,
-			"seed": 1657589267,
-			"version": 12,
-			"versionNonce": 1015013971,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439594064,
 			"link": null,
 			"locked": false,
@@ -15921,37 +15567,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-0.6620570745553778
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				1.3241141491114377,
-				-0.6620570745553778
-			]
+			"pressures": []
 		},
 		{
-			"id": "EA0z72RktWcA2yZ8zw1WO",
 			"type": "freedraw",
-			"x": -51.69868532558388,
-			"y": 2576.8022176231316,
-			"width": 21.18582638578272,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 1781035869,
+			"index": "b2Z",
+			"isDeleted": false,
+			"id": "EA0z72RktWcA2yZ8zw1WO",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -51.69868532558388,
+			"y": 2576.8022176231316,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 21.18582638578272,
+			"height": 0,
+			"seed": 911363261,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2Z",
 			"roundness": null,
-			"seed": 911363261,
-			"version": 9,
-			"versionNonce": 1781035869,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439594680,
 			"link": null,
 			"locked": false,
@@ -15985,37 +15628,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					0
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				21.18582638578272,
-				0
-			]
+			"pressures": []
 		},
 		{
-			"id": "XewGFhB0PznkqA-47le4C",
 			"type": "freedraw",
-			"x": -15.947603299575462,
-			"y": 2576.1401605485757,
-			"width": 23.834054684005594,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 612672403,
+			"index": "b2a",
+			"isDeleted": false,
+			"id": "XewGFhB0PznkqA-47le4C",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -15.947603299575462,
+			"y": 2576.1401605485757,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 23.834054684005594,
+			"height": 0,
+			"seed": 1689429651,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2a",
 			"roundness": null,
-			"seed": 1689429651,
-			"version": 10,
-			"versionNonce": 612672403,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439595418,
 			"link": null,
 			"locked": false,
@@ -16053,37 +15693,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					0
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				23.834054684005594,
-				0
-			]
+			"pressures": []
 		},
 		{
-			"id": "UDwg8dcn81Vtfp7ZnWfLa",
 			"type": "freedraw",
-			"x": 52.24427537966278,
-			"y": 2574.8160463994645,
-			"width": 47.006052293455525,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 12,
+			"versionNonce": 688594749,
+			"index": "b2b",
+			"isDeleted": false,
+			"id": "UDwg8dcn81Vtfp7ZnWfLa",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 52.24427537966278,
+			"y": 2574.8160463994645,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 47.006052293455525,
+			"height": 0,
+			"seed": 226027389,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2b",
 			"roundness": null,
-			"seed": 226027389,
-			"version": 12,
-			"versionNonce": 688594749,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439596881,
 			"link": null,
 			"locked": false,
@@ -16129,37 +15766,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					0
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-47.006052293455525,
-				0
-			]
+			"pressures": []
 		},
 		{
-			"id": "YMieQl1Do5qOdpMFeK6or",
 			"type": "freedraw",
-			"x": 125.07055358079106,
-			"y": 2551.6440487900145,
-			"width": 97.98444703424525,
-			"height": 43.69576692067676,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 34,
+			"versionNonce": 1234000051,
+			"index": "b2c",
+			"isDeleted": false,
+			"id": "YMieQl1Do5qOdpMFeK6or",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 125.07055358079106,
+			"y": 2551.6440487900145,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 97.98444703424525,
+			"height": 43.69576692067676,
+			"seed": 2108941491,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2c",
 			"roundness": null,
-			"seed": 2108941491,
-			"version": 34,
-			"versionNonce": 1234000051,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439916943,
 			"link": null,
 			"locked": false,
@@ -16293,37 +15927,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					43.03370984612138
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				97.98444703424525,
-				43.03370984612138
-			]
+			"pressures": []
 		},
 		{
-			"id": "bXwi4232xmA9PwgCBZI1s",
 			"type": "freedraw",
-			"x": 205.17945960203213,
-			"y": 2597.3259869343583,
-			"width": 219.14089167794054,
-			"height": 66.20570745557097,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 57,
+			"versionNonce": 316286205,
+			"index": "b2d",
+			"isDeleted": false,
+			"id": "bXwi4232xmA9PwgCBZI1s",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 205.17945960203213,
+			"y": 2597.3259869343583,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 219.14089167794054,
+			"height": 66.20570745557097,
+			"seed": 527497309,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2d",
 			"roundness": null,
-			"seed": 527497309,
-			"version": 57,
-			"versionNonce": 316286205,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724439918158,
 			"link": null,
 			"locked": false,
@@ -16549,37 +16180,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-30.454625429562384
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-33.1028537277856,
-				-30.454625429562384
-			]
+			"pressures": []
 		},
 		{
-			"id": "n4IQj2jg6VNMrlSK_s7fF",
 			"type": "freedraw",
-			"x": -274.8119194508586,
-			"y": 3195.82558233272,
-			"width": 37.07519617511983,
-			"height": 18.537598087560127,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 16,
+			"versionNonce": 2144214451,
+			"index": "b2e",
+			"isDeleted": false,
+			"id": "n4IQj2jg6VNMrlSK_s7fF",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -274.8119194508586,
+			"y": 3195.82558233272,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 37.07519617511983,
+			"height": 18.537598087560127,
+			"seed": 873485043,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2e",
 			"roundness": null,
-			"seed": 873485043,
-			"version": 16,
-			"versionNonce": 2144214451,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440011925,
 			"link": null,
 			"locked": false,
@@ -16641,37 +16269,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-12.579084416558544
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				37.07519617511983,
-				-12.579084416558544
-			]
+			"pressures": []
 		},
 		{
-			"id": "Vlwipu0dANgm7hFYa2AUr",
 			"type": "freedraw",
-			"x": -251.63992184140872,
-			"y": 3193.1773540344975,
-			"width": 14.565255640225644,
-			"height": 11.917027342002712,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 940958397,
+			"index": "b2f",
+			"isDeleted": false,
+			"id": "Vlwipu0dANgm7hFYa2AUr",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -251.63992184140872,
+			"y": 3193.1773540344975,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 14.565255640225644,
+			"height": 11.917027342002712,
+			"seed": 1288807261,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2f",
 			"roundness": null,
-			"seed": 1288807261,
-			"version": 11,
-			"versionNonce": 940958397,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440012358,
 			"link": null,
 			"locked": false,
@@ -16713,37 +16338,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-10.592913192891501
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				14.565255640225644,
-				-10.592913192891501
-			]
+			"pressures": []
 		},
 		{
-			"id": "qz0i5t_UgUZUbHmTEfn4O",
 			"type": "freedraw",
-			"x": -231.77820960473738,
-			"y": 2290.131504340509,
-			"width": 33.10285372778557,
-			"height": 18.537598087560127,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 13,
+			"versionNonce": 791088915,
+			"index": "b2g",
+			"isDeleted": false,
+			"id": "qz0i5t_UgUZUbHmTEfn4O",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -231.77820960473738,
+			"y": 2290.131504340509,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 33.10285372778557,
+			"height": 18.537598087560127,
+			"seed": 481200435,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2g",
 			"roundness": null,
-			"seed": 481200435,
-			"version": 13,
-			"versionNonce": 791088915,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440025109,
 			"link": null,
 			"locked": false,
@@ -16793,37 +16415,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-17.875541013004295
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				33.10285372778557,
-				-17.875541013004295
-			]
+			"pressures": []
 		},
 		{
-			"id": "aI4v2vEBN6rIXIGVMLECp",
 			"type": "freedraw",
-			"x": -237.7367232757388,
-			"y": 2286.82121896773,
-			"width": 50.97839474078981,
-			"height": 25.158168833117088,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 13,
+			"versionNonce": 88833053,
+			"index": "b2h",
+			"isDeleted": false,
+			"id": "aI4v2vEBN6rIXIGVMLECp",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -237.7367232757388,
+			"y": 2286.82121896773,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 50.97839474078981,
+			"height": 25.158168833117088,
+			"seed": 2096063485,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2h",
 			"roundness": null,
-			"seed": 2096063485,
-			"version": 13,
-			"versionNonce": 88833053,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440025493,
 			"link": null,
 			"locked": false,
@@ -16873,37 +16492,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-19.199655162115505
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				47.668109368011216,
-				-19.199655162115505
-			]
+			"pressures": []
 		},
 		{
-			"id": "LshCXGP1f15KSYgzBA7qO",
 			"type": "freedraw",
-			"x": -231.11615253018167,
-			"y": 2335.151385410297,
-			"width": 29.792568355006978,
-			"height": 29.130511280451174,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 12,
+			"versionNonce": 2055002269,
+			"index": "b2i",
+			"isDeleted": false,
+			"id": "LshCXGP1f15KSYgzBA7qO",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -231.11615253018167,
+			"y": 2335.151385410297,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 29.792568355006978,
+			"height": 29.130511280451174,
+			"seed": 1764153565,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2i",
 			"roundness": null,
-			"seed": 1764153565,
-			"version": 12,
-			"versionNonce": 2055002269,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440028517,
 			"link": null,
 			"locked": false,
@@ -16949,37 +16565,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-27.806397131339963
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				29.792568355006978,
-				-27.806397131339963
-			]
+			"pressures": []
 		},
 		{
-			"id": "2drwgBv5r9-vhnzVqUEq9",
 			"type": "freedraw",
-			"x": -256.27432136329867,
-			"y": 3173.315641797826,
-			"width": 84.74330554313104,
-			"height": 29.79256835500655,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 17,
+			"versionNonce": 853123837,
+			"index": "b2j",
+			"isDeleted": false,
+			"id": "2drwgBv5r9-vhnzVqUEq9",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -256.27432136329867,
+			"y": 3173.315641797826,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 84.74330554313104,
+			"height": 29.79256835500655,
+			"seed": 101389661,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2j",
 			"roundness": null,
-			"seed": 101389661,
-			"version": 17,
-			"versionNonce": 853123837,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440033462,
 			"link": null,
 			"locked": false,
@@ -17045,37 +16658,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-29.79256835500655
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				84.74330554313104,
-				-29.79256835500655
-			]
+			"pressures": []
 		},
 		{
-			"id": "7B1x_6cU-DoxIPBPtBQ1-",
 			"type": "freedraw",
-			"x": -213.24061151717746,
-			"y": 3199.1358677055,
-			"width": 43.03370984612121,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 22,
+			"versionNonce": 1321540979,
+			"index": "b2k",
+			"isDeleted": false,
+			"id": "7B1x_6cU-DoxIPBPtBQ1-",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -213.24061151717746,
+			"y": 3199.1358677055,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 43.03370984612121,
+			"height": 0,
+			"seed": 2048095475,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2k",
 			"roundness": null,
-			"seed": 2048095475,
-			"version": 22,
-			"versionNonce": 1321540979,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440040389,
 			"link": null,
 			"locked": false,
@@ -17161,37 +16771,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					0
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				43.03370984612121,
-				0
-			]
+			"pressures": []
 		},
 		{
-			"id": "gtVWJ88E7KrYzZeprOBNe",
 			"type": "freedraw",
-			"x": -135.77993379415926,
-			"y": 3197.149696481833,
-			"width": 107.91530315258098,
-			"height": 9.268799043779836,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 25,
+			"versionNonce": 1460174909,
+			"index": "b2l",
+			"isDeleted": false,
+			"id": "gtVWJ88E7KrYzZeprOBNe",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -135.77993379415926,
+			"y": 3197.149696481833,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 107.91530315258098,
+			"height": 9.268799043779836,
+			"seed": 664139677,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2l",
 			"roundness": null,
-			"seed": 664139677,
-			"version": 25,
-			"versionNonce": 1460174909,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440041285,
 			"link": null,
 			"locked": false,
@@ -17289,37 +16896,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-8.606741969224458
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				107.91530315258098,
-				-8.606741969224458
-			]
+			"pressures": []
 		},
 		{
-			"id": "rl4KIlpcrg4iRbBlr8aLh",
 			"type": "freedraw",
-			"x": -145.0487328379392,
-			"y": 3195.163525258166,
-			"width": 72.82627820112828,
-			"height": 28.468454205895796,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 45,
+			"versionNonce": 1454456211,
+			"index": "b2m",
+			"isDeleted": false,
+			"id": "rl4KIlpcrg4iRbBlr8aLh",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -145.0487328379392,
+			"y": 3195.163525258166,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 72.82627820112828,
+			"height": 28.468454205895796,
+			"seed": 251343795,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2m",
 			"roundness": null,
-			"seed": 251343795,
-			"version": 45,
-			"versionNonce": 1454456211,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440052028,
 			"link": null,
 			"locked": false,
@@ -17497,37 +17101,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-9.268799043780291
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				7.944684894668569,
-				-9.268799043780291
-			]
+			"pressures": []
 		},
 		{
-			"id": "jDSZVIdome0rquKb8isc3",
 			"type": "freedraw",
-			"x": -129.82142012315785,
-			"y": 3199.1358677054995,
-			"width": 50.31633766623406,
-			"height": 6.620570745556961,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 16,
+			"versionNonce": 1101389501,
+			"index": "b2n",
+			"isDeleted": false,
+			"id": "jDSZVIdome0rquKb8isc3",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -129.82142012315785,
+			"y": 3199.1358677054995,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 50.31633766623406,
+			"height": 6.620570745556961,
+			"seed": 1397370237,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2n",
 			"roundness": null,
-			"seed": 1397370237,
-			"version": 16,
-			"versionNonce": 1101389501,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440099595,
 			"link": null,
 			"locked": false,
@@ -17589,37 +17190,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-6.620570745556961
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				50.31633766623406,
-				-6.620570745556961
-			]
+			"pressures": []
 		},
 		{
-			"id": "Wq3Vx89CNUos2Z69op6Qh",
 			"type": "freedraw",
-			"x": -63.615712667586706,
-			"y": 3199.1358677054995,
-			"width": 64.21953623190399,
-			"height": 37.73725324967518,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 53,
+			"versionNonce": 43009043,
+			"index": "b2o",
+			"isDeleted": false,
+			"id": "Wq3Vx89CNUos2Z69op6Qh",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -63.615712667586706,
+			"y": 3199.1358677054995,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 64.21953623190399,
+			"height": 37.73725324967518,
+			"seed": 1691602227,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2o",
 			"roundness": null,
-			"seed": 1691602227,
-			"version": 53,
-			"versionNonce": 43009043,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440101332,
 			"link": null,
 			"locked": false,
@@ -17829,37 +17427,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-4.634399521889918
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				31.116682504118444,
-				-4.634399521889918
-			]
+			"pressures": []
 		},
 		{
-			"id": "M_-DLc4M_mo_RP_zf9EHD",
 			"type": "freedraw",
-			"x": -90.09799564981518,
-			"y": 3173.977698872383,
-			"width": 127.1149583146966,
-			"height": 21.84788346033838,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 18,
+			"versionNonce": 985171197,
+			"index": "b2p",
+			"isDeleted": false,
+			"id": "M_-DLc4M_mo_RP_zf9EHD",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -90.09799564981518,
+			"y": 3173.977698872383,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 127.1149583146966,
+			"height": 21.84788346033838,
+			"seed": 215260925,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2p",
 			"roundness": null,
-			"seed": 215260925,
-			"version": 18,
-			"versionNonce": 985171197,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440103251,
 			"link": null,
 			"locked": false,
@@ -17929,37 +17524,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-21.84788346033838
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				121.15644464369518,
-				-21.84788346033838
-			]
+			"pressures": []
 		},
 		{
-			"id": "7pkPfU4sImqiiiSz-4DCT",
 			"type": "freedraw",
-			"x": 24.437878248322875,
-			"y": 3145.5092446664876,
-			"width": 21.84788346033855,
-			"height": 25.820225907672466,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 18,
+			"versionNonce": 227945715,
+			"index": "b2q",
+			"isDeleted": false,
+			"id": "7pkPfU4sImqiiiSz-4DCT",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 24.437878248322875,
+			"y": 3145.5092446664876,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 21.84788346033855,
+			"height": 25.820225907672466,
+			"seed": 802419443,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2q",
 			"roundness": null,
-			"seed": 802419443,
-			"version": 18,
-			"versionNonce": 227945715,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440103660,
 			"link": null,
 			"locked": false,
@@ -18029,37 +17621,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					18.537598087559672
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				16.5514268638928,
-				18.537598087559672
-			]
+			"pressures": []
 		},
 		{
-			"id": "7YE5P8fXJB0lDlKlTuDCc",
 			"type": "freedraw",
-			"x": 52.24427537966278,
-			"y": 3147.4954158901546,
-			"width": 18.5375980875599,
-			"height": 21.84788346033838,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 18,
+			"versionNonce": 1455699485,
+			"index": "b2r",
+			"isDeleted": false,
+			"id": "7YE5P8fXJB0lDlKlTuDCc",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 52.24427537966278,
+			"y": 3147.4954158901546,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 18.5375980875599,
+			"height": 21.84788346033838,
+			"seed": 326537245,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2r",
 			"roundness": null,
-			"seed": 326537245,
-			"version": 18,
-			"versionNonce": 1455699485,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440104216,
 			"link": null,
 			"locked": false,
@@ -18129,37 +17718,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					18.537598087559672
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				13.903198565669982,
-				18.537598087559672
-			]
+			"pressures": []
 		},
 		{
-			"id": "oo20LZ0bWYEd05_VtnwWL",
 			"type": "freedraw",
-			"x": 65.48541687077704,
-			"y": 3162.722728604936,
-			"width": 12.57908441655843,
-			"height": 0.6620570745558325,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 1320879315,
+			"index": "b2s",
+			"isDeleted": false,
+			"id": "oo20LZ0bWYEd05_VtnwWL",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 65.48541687077704,
+			"y": 3162.722728604936,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 12.57908441655843,
+			"height": 0.6620570745558325,
+			"seed": 831408083,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2s",
 			"roundness": null,
-			"seed": 831408083,
-			"version": 10,
-			"versionNonce": 1320879315,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440104816,
 			"link": null,
 			"locked": false,
@@ -18197,37 +17783,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					0.6620570745558325
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				12.57908441655843,
-				0.6620570745558325
-			]
+			"pressures": []
 		},
 		{
-			"id": "UxzhrmStGCOSlw2F33D0H",
 			"type": "freedraw",
-			"x": -95.39445224626087,
-			"y": 3177.9500413197175,
-			"width": 246.94728880928034,
-			"height": 48.33016644256713,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 16,
+			"versionNonce": 1661485949,
+			"index": "b2t",
+			"isDeleted": false,
+			"id": "UxzhrmStGCOSlw2F33D0H",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -95.39445224626087,
+			"y": 3177.9500413197175,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 246.94728880928034,
+			"height": 48.33016644256713,
+			"seed": 164356669,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2t",
 			"roundness": null,
-			"seed": 164356669,
-			"version": 16,
-			"versionNonce": 1661485949,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440106948,
 			"link": null,
 			"locked": false,
@@ -18289,37 +17872,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-48.33016644256713
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				246.94728880928034,
-				-48.33016644256713
-			]
+			"pressures": []
 		},
 		{
-			"id": "FPzwI3EbJzSiHGe254cHz",
 			"type": "freedraw",
-			"x": 154.20106486124234,
-			"y": 3113.730505087813,
-			"width": 31.116682504118444,
-			"height": 21.847883460338835,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 15,
+			"versionNonce": 1692860819,
+			"index": "b2u",
+			"isDeleted": false,
+			"id": "FPzwI3EbJzSiHGe254cHz",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 154.20106486124234,
+			"y": 3113.730505087813,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 31.116682504118444,
+			"height": 21.847883460338835,
+			"seed": 1432104051,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2u",
 			"roundness": null,
-			"seed": 1432104051,
-			"version": 15,
-			"versionNonce": 1692860819,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440107517,
 			"link": null,
 			"locked": false,
@@ -18377,37 +17957,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					21.847883460338835
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				19.861712236671337,
-				21.847883460338835
-			]
+			"pressures": []
 		},
 		{
-			"id": "JmLKuffLSMOorGppaM3yD",
 			"type": "freedraw",
-			"x": 184.65569029080507,
-			"y": 3125.6475324298162,
-			"width": 11.917027342002825,
-			"height": 2.6482282982228753,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 7,
+			"versionNonce": 643341149,
+			"index": "b2v",
+			"isDeleted": false,
+			"id": "JmLKuffLSMOorGppaM3yD",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 184.65569029080507,
+			"y": 3125.6475324298162,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 11.917027342002825,
+			"height": 2.6482282982228753,
+			"seed": 584264061,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2v",
 			"roundness": null,
-			"seed": 584264061,
-			"version": 7,
-			"versionNonce": 643341149,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440107769,
 			"link": null,
 			"locked": false,
@@ -18433,37 +18010,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					2.6482282982228753
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				11.917027342002825,
-				2.6482282982228753
-			]
+			"pressures": []
 		},
 		{
-			"id": "XFsWYaTyR0PLmlb_IXH1-",
 			"type": "freedraw",
-			"x": -48.388399952805344,
-			"y": 3195.8255823327213,
-			"width": 50.31633766623406,
-			"height": 6.620570745556961,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 12,
+			"versionNonce": 544633555,
+			"index": "b2w",
+			"isDeleted": false,
+			"id": "XFsWYaTyR0PLmlb_IXH1-",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -48.388399952805344,
+			"y": 3195.8255823327213,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 50.31633766623406,
+			"height": 6.620570745556961,
+			"seed": 913178259,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2w",
 			"roundness": null,
-			"seed": 913178259,
-			"version": 12,
-			"versionNonce": 544633555,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440110627,
 			"link": null,
 			"locked": false,
@@ -18509,37 +18083,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-6.620570745556961
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				50.31633766623406,
-				-6.620570745556961
-			]
+			"pressures": []
 		},
 		{
-			"id": "B5WK81fezBOa9fJADtSPw",
 			"type": "freedraw",
-			"x": -39.119600909025394,
-			"y": 3162.06067153038,
-			"width": 87.39153384135392,
-			"height": 41.04753862245434,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 41,
+			"versionNonce": 233174749,
+			"index": "b2x",
+			"isDeleted": false,
+			"id": "B5WK81fezBOa9fJADtSPw",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -39.119600909025394,
+			"y": 3162.06067153038,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 87.39153384135392,
+			"height": 41.04753862245434,
+			"seed": 36181053,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2x",
 			"roundness": null,
-			"seed": 36181053,
-			"version": 41,
-			"versionNonce": 233174749,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440111583,
 			"link": null,
 			"locked": false,
@@ -18701,37 +18272,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					5.958513671001583
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-1.9861712236670996,
-				5.958513671001583
-			]
+			"pressures": []
 		},
 		{
-			"id": "Wl8gpjVWmnXXtK-21--if",
 			"type": "freedraw",
-			"x": -79.50508245692379,
-			"y": 3171.991527648716,
-			"width": 48.992223517122625,
-			"height": 33.10285372778526,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 40,
+			"versionNonce": 1352586451,
+			"index": "b2y",
+			"isDeleted": false,
+			"id": "Wl8gpjVWmnXXtK-21--if",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -79.50508245692379,
+			"y": 3171.991527648716,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 48.992223517122625,
+			"height": 33.10285372778526,
+			"seed": 1801358099,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2y",
 			"roundness": null,
-			"seed": 1801358099,
-			"version": 40,
-			"versionNonce": 1352586451,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440112588,
 			"link": null,
 			"locked": false,
@@ -18889,37 +18457,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					11.254970267447334
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-8.606741969224231,
-				11.254970267447334
-			]
+			"pressures": []
 		},
 		{
-			"id": "POvQuazNqFr_eP5TUoWWr",
 			"type": "freedraw",
-			"x": -69.57422633858812,
-			"y": 3176.625927170606,
-			"width": 0,
-			"height": 4.634399521889918,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 446327005,
+			"index": "b2z",
+			"isDeleted": false,
+			"id": "POvQuazNqFr_eP5TUoWWr",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -69.57422633858812,
+			"y": 3176.625927170606,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 4.634399521889918,
+			"seed": 1294406205,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b2z",
 			"roundness": null,
-			"seed": 1294406205,
-			"version": 9,
-			"versionNonce": 446327005,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440113627,
 			"link": null,
 			"locked": false,
@@ -18953,37 +18518,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-4.634399521889918
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0,
-				-4.634399521889918
-			]
+			"pressures": []
 		},
 		{
-			"id": "eAoAe7PVwdtYAmuFZhdoK",
 			"type": "freedraw",
-			"x": -136.44199086871492,
-			"y": 3183.9085549907186,
-			"width": 55.6127942626797,
-			"height": 26.482282982228753,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 30,
+			"versionNonce": 1811271315,
+			"index": "b30",
+			"isDeleted": false,
+			"id": "eAoAe7PVwdtYAmuFZhdoK",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -136.44199086871492,
+			"y": 3183.9085549907186,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 55.6127942626797,
+			"height": 26.482282982228753,
+			"seed": 1463580947,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b30",
 			"roundness": null,
-			"seed": 1463580947,
-			"version": 30,
-			"versionNonce": 1811271315,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440117320,
 			"link": null,
 			"locked": false,
@@ -19101,37 +18663,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					8.606741969224458
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				20.523769311227,
-				8.606741969224458
-			]
+			"pressures": []
 		},
 		{
-			"id": "BDn1Ax8U0TXDorg289xFT",
 			"type": "freedraw",
-			"x": -113.26999325926505,
-			"y": 3178.612098394273,
-			"width": 47.668109368011244,
-			"height": 28.46845420589534,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 46,
+			"versionNonce": 1452729597,
+			"index": "b31",
+			"isDeleted": false,
+			"id": "BDn1Ax8U0TXDorg289xFT",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -113.26999325926505,
+			"y": 3178.612098394273,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 47.668109368011244,
+			"height": 28.46845420589534,
+			"seed": 1268468861,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b31",
 			"roundness": null,
-			"seed": 1268468861,
-			"version": 46,
-			"versionNonce": 1452729597,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440119292,
 			"link": null,
 			"locked": false,
@@ -19313,37 +18872,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-3.9723424473340856
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-46.343995218899806,
-				-3.9723424473340856
-			]
+			"pressures": []
 		},
 		{
-			"id": "MohW0QToOZaOKHB--tpfy",
 			"type": "freedraw",
-			"x": -158.95193140360914,
-			"y": 3160.736557381269,
-			"width": 5.296456596445637,
-			"height": 13.241141491113922,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 14,
+			"versionNonce": 207232627,
+			"index": "b32",
+			"isDeleted": false,
+			"id": "MohW0QToOZaOKHB--tpfy",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -158.95193140360914,
+			"y": 3160.736557381269,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 5.296456596445637,
+			"height": 13.241141491113922,
+			"seed": 2006422259,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b32",
 			"roundness": null,
-			"seed": 2006422259,
-			"version": 14,
-			"versionNonce": 207232627,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440119916,
 			"link": null,
 			"locked": false,
@@ -19397,37 +18953,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					12.57908441655809
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				1.3241141491114377,
-				12.57908441655809
-			]
+			"pressures": []
 		},
 		{
-			"id": "NALWT1ltXrCEUpUWt7CUA",
 			"type": "freedraw",
-			"x": -147.69696113616203,
-			"y": 3189.2050115871643,
-			"width": 41.04753862245411,
-			"height": 27.14434005678413,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 37,
+			"versionNonce": 469023677,
+			"index": "b33",
+			"isDeleted": false,
+			"id": "NALWT1ltXrCEUpUWt7CUA",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -147.69696113616203,
+			"y": 3189.2050115871643,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 41.04753862245411,
+			"height": 27.14434005678413,
+			"seed": 1925424797,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b33",
 			"roundness": null,
-			"seed": 1925424797,
-			"version": 37,
-			"versionNonce": 469023677,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440121104,
 			"link": null,
 			"locked": false,
@@ -19573,37 +19126,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					6.620570745556961
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-41.04753862245411,
-				6.620570745556961
-			]
+			"pressures": []
 		},
 		{
-			"id": "JpmHIkSBQLNBlmBCVJcEA",
 			"type": "freedraw",
-			"x": 162.14574975591086,
-			"y": 3206.418495525613,
-			"width": 41.70959569700983,
-			"height": 20.52376931122717,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 26,
+			"versionNonce": 991098675,
+			"index": "b34",
+			"isDeleted": false,
+			"id": "JpmHIkSBQLNBlmBCVJcEA",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 162.14574975591086,
+			"y": 3206.418495525613,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 41.70959569700983,
+			"height": 20.52376931122717,
+			"seed": 2072436787,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b34",
 			"roundness": null,
-			"seed": 2072436787,
-			"version": 26,
-			"versionNonce": 991098675,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440125147,
 			"link": null,
 			"locked": false,
@@ -19705,37 +19255,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					6.620570745556961
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				41.70959569700983,
-				6.620570745556961
-			]
+			"pressures": []
 		},
 		{
-			"id": "7xIdRcRG_AFqbPR7d1Kj5",
 			"type": "freedraw",
-			"x": 195.91066055825218,
-			"y": 3244.8178058498443,
-			"width": 29.130511280451287,
-			"height": 41.70959569700972,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 33,
+			"versionNonce": 580081021,
+			"index": "b35",
+			"isDeleted": false,
+			"id": "7xIdRcRG_AFqbPR7d1Kj5",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 195.91066055825218,
+			"y": 3244.8178058498443,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 29.130511280451287,
+			"height": 41.70959569700972,
+			"seed": 311251421,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b35",
 			"roundness": null,
-			"seed": 311251421,
-			"version": 33,
-			"versionNonce": 580081021,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440126371,
 			"link": null,
 			"locked": false,
@@ -19865,37 +19412,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					27.14434005678413
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				10.592913192891388,
-				27.14434005678413
-			]
+			"pressures": []
 		},
 		{
-			"id": "WiZDZ2wI3zPa1u1OvQWgh",
 			"type": "freedraw",
-			"x": 227.02734306237062,
-			"y": 3299.7685430379684,
-			"width": 12.57908441655843,
-			"height": 27.80639713133951,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 23,
+			"versionNonce": 1800834195,
+			"index": "b36",
+			"isDeleted": false,
+			"id": "WiZDZ2wI3zPa1u1OvQWgh",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 227.02734306237062,
+			"y": 3299.7685430379684,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 12.57908441655843,
+			"height": 27.80639713133951,
+			"seed": 1093761651,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b36",
 			"roundness": null,
-			"seed": 1093761651,
-			"version": 23,
-			"versionNonce": 1800834195,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440127680,
 			"link": null,
 			"locked": false,
@@ -19985,37 +19529,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					25.158168833116633
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0,
-				25.158168833116633
-			]
+			"pressures": []
 		},
 		{
-			"id": "iHeLcSOHafgn0kisI1v0g",
 			"type": "freedraw",
-			"x": 227.02734306237062,
-			"y": 3307.7132279326365,
-			"width": 9.930856118335669,
-			"height": 5.296456596445296,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 1477627165,
+			"index": "b37",
+			"isDeleted": false,
+			"id": "iHeLcSOHafgn0kisI1v0g",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 227.02734306237062,
+			"y": 3307.7132279326365,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 9.930856118335669,
+			"height": 5.296456596445296,
+			"seed": 1805201021,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b37",
 			"roundness": null,
-			"seed": 1805201021,
-			"version": 9,
-			"versionNonce": 1477627165,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440128125,
 			"link": null,
 			"locked": false,
@@ -20049,37 +19590,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-5.296456596445296
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				8.606741969224231,
-				-5.296456596445296
-			]
+			"pressures": []
 		},
 		{
-			"id": "UKbLuGfAHwPjhk05FlmMC",
 			"type": "freedraw",
-			"x": 148.24255119024087,
-			"y": 3201.784096003723,
-			"width": 102.61884655613528,
-			"height": 47.00605229345547,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 40,
+			"versionNonce": 375093907,
+			"index": "b38",
+			"isDeleted": false,
+			"id": "UKbLuGfAHwPjhk05FlmMC",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 148.24255119024087,
+			"y": 3201.784096003723,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 102.61884655613528,
+			"height": 47.00605229345547,
+			"seed": 178618579,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b38",
 			"roundness": null,
-			"seed": 178618579,
-			"version": 40,
-			"versionNonce": 375093907,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440129444,
 			"link": null,
 			"locked": false,
@@ -20237,37 +19775,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-19.199655162115505
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				45.019881069788426,
-				-19.199655162115505
-			]
+			"pressures": []
 		},
 		{
-			"id": "gMwEesYtwyOtazksO_xQw",
 			"type": "freedraw",
-			"x": 229.01351428603766,
-			"y": 3309.699399156304,
-			"width": 84.74330554313099,
-			"height": 52.96456596445705,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 22,
+			"versionNonce": 982720509,
+			"index": "b39",
+			"isDeleted": false,
+			"id": "gMwEesYtwyOtazksO_xQw",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 229.01351428603766,
+			"y": 3309.699399156304,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 84.74330554313099,
+			"height": 52.96456596445705,
+			"seed": 2016665725,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b39",
 			"roundness": null,
-			"seed": 2016665725,
-			"version": 22,
-			"versionNonce": 982720509,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440132837,
 			"link": null,
 			"locked": false,
@@ -20353,37 +19888,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-44.35782399523305
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-84.74330554313099,
-				-44.35782399523305
-			]
+			"pressures": []
 		},
 		{
-			"id": "BBMapEPzs0M7V3TAQT8Re",
 			"type": "freedraw",
-			"x": 124.40849650623534,
-			"y": 3273.2862600557396,
-			"width": 48.330166442566906,
-			"height": 16.55142686389263,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 22,
+			"versionNonce": 444862579,
+			"index": "b3A",
+			"isDeleted": false,
+			"id": "BBMapEPzs0M7V3TAQT8Re",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 124.40849650623534,
+			"y": 3273.2862600557396,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 48.330166442566906,
+			"height": 16.55142686389263,
+			"seed": 1139402739,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b3A",
 			"roundness": null,
-			"seed": 1139402739,
-			"version": 22,
-			"versionNonce": 444862579,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440133441,
 			"link": null,
 			"locked": false,
@@ -20469,37 +20001,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-7.282627820112793
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				47.66810936801119,
-				-7.282627820112793
-			]
+			"pressures": []
 		},
 		{
-			"id": "gIi1nUhDerAnCyjjmSAos",
 			"type": "freedraw",
-			"x": 127.05672480445821,
-			"y": 3307.051170858081,
-			"width": 22.5099405348941,
-			"height": 17.213483938448462,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 525330333,
+			"index": "b3B",
+			"isDeleted": false,
+			"id": "gIi1nUhDerAnCyjjmSAos",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 127.05672480445821,
+			"y": 3307.051170858081,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 22.5099405348941,
+			"height": 17.213483938448462,
+			"seed": 15996061,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b3B",
 			"roundness": null,
-			"seed": 15996061,
-			"version": 10,
-			"versionNonce": 525330333,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440133916,
 			"link": null,
 			"locked": false,
@@ -20537,37 +20066,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-17.213483938448462
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				21.84788346033838,
-				-17.213483938448462
-			]
+			"pressures": []
 		},
 		{
-			"id": "EGbo-uwNTDYX7km8dZ0L6",
 			"type": "freedraw",
-			"x": -235.08849497751595,
-			"y": 3330.885225542086,
-			"width": 295.27745525184724,
-			"height": 24.496111758561256,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 133,
+			"versionNonce": 2076052275,
+			"index": "b3C",
+			"isDeleted": false,
+			"id": "EGbo-uwNTDYX7km8dZ0L6",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -235.08849497751595,
+			"y": 3330.885225542086,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 295.27745525184724,
+			"height": 24.496111758561256,
+			"seed": 2078776915,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b3C",
 			"roundness": null,
-			"seed": 2078776915,
-			"version": 133,
-			"versionNonce": 2076052275,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440149451,
 			"link": null,
 			"locked": false,
@@ -21097,37 +20623,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-1.3241141491112103
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				12.579084416558516,
-				-1.3241141491112103
-			]
+			"pressures": []
 		},
 		{
-			"id": "diXz_ct2C7kwJXETaXH-N",
 			"type": "freedraw",
-			"x": -194.70301342961756,
-			"y": 3333.533453840309,
-			"width": 13.241141491114263,
-			"height": 6.620570745556961,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 36,
+			"versionNonce": 2070099613,
+			"index": "b3D",
+			"isDeleted": false,
+			"id": "diXz_ct2C7kwJXETaXH-N",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -194.70301342961756,
+			"y": 3333.533453840309,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 13.241141491114263,
+			"height": 6.620570745556961,
+			"seed": 1944583645,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b3D",
 			"roundness": null,
-			"seed": 1944583645,
-			"version": 36,
-			"versionNonce": 2070099613,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440157220,
 			"link": null,
 			"locked": false,
@@ -21269,37 +20792,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-2.6482282982228753
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				1.9861712236671565,
-				-2.6482282982228753
-			]
+			"pressures": []
 		},
 		{
-			"id": "xWi_UebyG1z4Y7w04_9lk",
 			"type": "freedraw",
-			"x": -152.331360658052,
-			"y": 3332.209339691198,
-			"width": 9.930856118335669,
-			"height": 1.9861712236670428,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 18,
+			"versionNonce": 487987539,
+			"index": "b3E",
+			"isDeleted": false,
+			"id": "xWi_UebyG1z4Y7w04_9lk",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -152.331360658052,
+			"y": 3332.209339691198,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 9.930856118335669,
+			"height": 1.9861712236670428,
+			"seed": 610836307,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b3E",
 			"roundness": null,
-			"seed": 610836307,
-			"version": 18,
-			"versionNonce": 487987539,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440158500,
 			"link": null,
 			"locked": false,
@@ -21369,37 +20889,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-0.6620570745558325
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				7.944684894668512,
-				-0.6620570745558325
-			]
+			"pressures": []
 		},
 		{
-			"id": "XJOTsvMQeE35hQvjwJmoj",
 			"type": "freedraw",
-			"x": -176.16541534205766,
-			"y": 3327.574940169308,
-			"width": 22.509940534894213,
-			"height": 14.565255640225587,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 40,
+			"versionNonce": 353468413,
+			"index": "b3F",
+			"isDeleted": false,
+			"id": "XJOTsvMQeE35hQvjwJmoj",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -176.16541534205766,
+			"y": 3327.574940169308,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 22.509940534894213,
+			"height": 14.565255640225587,
+			"seed": 580904381,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b3F",
 			"roundness": null,
-			"seed": 580904381,
-			"version": 40,
-			"versionNonce": 353468413,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440160587,
 			"link": null,
 			"locked": false,
@@ -21557,37 +21074,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-1.9861712236674975
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-0.662057074555662,
-				-1.9861712236674975
-			]
+			"pressures": []
 		},
 		{
-			"id": "dx_c69BJH_PbEVzaOS0Fv",
 			"type": "freedraw",
-			"x": -127.17319182493497,
-			"y": 3330.2231684675307,
-			"width": 74.15039235023966,
-			"height": 3.9723424473345403,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 32,
+			"versionNonce": 1120226483,
+			"index": "b3G",
+			"isDeleted": false,
+			"id": "dx_c69BJH_PbEVzaOS0Fv",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -127.17319182493497,
+			"y": 3330.2231684675307,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 74.15039235023966,
+			"height": 3.9723424473345403,
+			"seed": 453871603,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b3G",
 			"roundness": null,
-			"seed": 453871603,
-			"version": 32,
-			"versionNonce": 1120226483,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440162663,
 			"link": null,
 			"locked": false,
@@ -21713,37 +21227,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-3.9723424473345403
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				74.15039235023966,
-				-3.9723424473345403
-			]
+			"pressures": []
 		},
 		{
-			"id": "dhb3oOL-RHGc-DCytG2nv",
 			"type": "freedraw",
-			"x": -53.68485654925104,
-			"y": 3325.5887689456404,
-			"width": 78.12273479757397,
-			"height": 39.06136739878684,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 51,
+			"versionNonce": 716137149,
+			"index": "b3H",
+			"isDeleted": false,
+			"id": "dhb3oOL-RHGc-DCytG2nv",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -53.68485654925104,
+			"y": 3325.5887689456404,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 78.12273479757397,
+			"height": 39.06136739878684,
+			"seed": 1222165597,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b3H",
 			"roundness": null,
-			"seed": 1222165597,
-			"version": 51,
-			"versionNonce": 716137149,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440164081,
 			"link": null,
 			"locked": false,
@@ -21945,37 +21456,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					10.592913192891501
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-77.46067772301825,
-				10.592913192891501
-			]
+			"pressures": []
 		},
 		{
-			"id": "qkNRgHJ6ef6EdDAlq1Rpu",
 			"type": "freedraw",
-			"x": -121.21467815393362,
-			"y": 3330.885225542086,
-			"width": 47.668109368011244,
-			"height": 1.9861712236670428,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 13,
+			"versionNonce": 321228563,
+			"index": "b3I",
+			"isDeleted": false,
+			"id": "qkNRgHJ6ef6EdDAlq1Rpu",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -121.21467815393362,
+			"y": 3330.885225542086,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 47.668109368011244,
+			"height": 1.9861712236670428,
+			"seed": 513607987,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b3I",
 			"roundness": null,
-			"seed": 513607987,
-			"version": 13,
-			"versionNonce": 321228563,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440164772,
 			"link": null,
 			"locked": false,
@@ -22025,37 +21533,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-1.9861712236670428
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				47.668109368011244,
-				-1.9861712236670428
-			]
+			"pressures": []
 		},
 		{
-			"id": "YgGkdfCqdfijn5Xr8YUqm",
 			"type": "freedraw",
-			"x": -45.740171654582525,
-			"y": 3333.533453840309,
-			"width": 21.847883460338494,
-			"height": 3.9723424473340856,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 1011707741,
+			"index": "b3J",
+			"isDeleted": false,
+			"id": "YgGkdfCqdfijn5Xr8YUqm",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -45.740171654582525,
+			"y": 3333.533453840309,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 21.847883460338494,
+			"height": 3.9723424473340856,
+			"seed": 1558766589,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b3J",
 			"roundness": null,
-			"seed": 1558766589,
-			"version": 11,
-			"versionNonce": 1011707741,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440166208,
 			"link": null,
 			"locked": false,
@@ -22097,37 +21602,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-3.9723424473340856
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				21.847883460338494,
-				-3.9723424473340856
-			]
+			"pressures": []
 		},
 		{
-			"id": "-9uDcOGCFZuxprZyEBvz-",
 			"type": "freedraw",
-			"x": 3.9141089370958753,
-			"y": 3332.8713967657536,
-			"width": 2.6482282982228185,
-			"height": 0.6620570745558325,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 7,
+			"versionNonce": 277802675,
+			"index": "b3K",
+			"isDeleted": false,
+			"id": "-9uDcOGCFZuxprZyEBvz-",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 3.9141089370958753,
+			"y": 3332.8713967657536,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 2.6482282982228185,
+			"height": 0.6620570745558325,
+			"seed": 78834323,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b3K",
 			"roundness": null,
-			"seed": 78834323,
-			"version": 7,
-			"versionNonce": 277802675,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440167473,
 			"link": null,
 			"locked": false,
@@ -22153,37 +21655,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-0.6620570745558325
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				2.6482282982228185,
-				-0.6620570745558325
-			]
+			"pressures": []
 		},
 		{
-			"id": "nhwfOyhZSXekZ0w2TVLI_",
 			"type": "freedraw",
-			"x": 22.451707024655775,
-			"y": 3296.458257665189,
-			"width": 66.20570745557114,
-			"height": 54.28868011356826,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 48,
+			"versionNonce": 1556051869,
+			"index": "b3L",
+			"isDeleted": false,
+			"id": "nhwfOyhZSXekZ0w2TVLI_",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 22.451707024655775,
+			"y": 3296.458257665189,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 66.20570745557114,
+			"height": 54.28868011356826,
+			"seed": 2073199197,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b3L",
 			"roundness": null,
-			"seed": 2073199197,
-			"version": 48,
-			"versionNonce": 1556051869,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440169837,
 			"link": null,
 			"locked": false,
@@ -22373,37 +21872,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					4.634399521889918
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				3.3102853727785373,
-				4.634399521889918
-			]
+			"pressures": []
 		},
 		{
-			"id": "zV8n3Jczzu3DX2T2gaxFU",
 			"type": "freedraw",
-			"x": -38.457543834469675,
-			"y": 3343.4643099586447,
-			"width": 39.061367398786956,
-			"height": 3.9723424473340856,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 1886021875,
+			"index": "b3M",
+			"isDeleted": false,
+			"id": "zV8n3Jczzu3DX2T2gaxFU",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -38.457543834469675,
+			"y": 3343.4643099586447,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 39.061367398786956,
+			"height": 3.9723424473340856,
+			"seed": 927665747,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b3M",
 			"roundness": null,
-			"seed": 927665747,
-			"version": 11,
-			"versionNonce": 1886021875,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440171703,
 			"link": null,
 			"locked": false,
@@ -22445,37 +21941,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-3.9723424473340856
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				32.44079665322988,
-				-3.9723424473340856
-			]
+			"pressures": []
 		},
 		{
-			"id": "4nGYn0JUZMXGdz4Z4Xzwc",
 			"type": "freedraw",
-			"x": -50.3745711764725,
-			"y": 3343.4643099586447,
-			"width": 30.454625429562725,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 1024916349,
+			"index": "b3N",
+			"isDeleted": false,
+			"id": "4nGYn0JUZMXGdz4Z4Xzwc",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -50.3745711764725,
+			"y": 3343.4643099586447,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 30.454625429562725,
+			"height": 0,
+			"seed": 1036227613,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b3N",
 			"roundness": null,
-			"seed": 1036227613,
-			"version": 11,
-			"versionNonce": 1024916349,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440172040,
 			"link": null,
 			"locked": false,
@@ -22517,37 +22010,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					0
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				30.454625429562725,
-				0
-			]
+			"pressures": []
 		},
 		{
-			"id": "j_kbNVia80Jc5AF0ki_YM",
 			"type": "freedraw",
-			"x": -18.595831597798337,
-			"y": 3344.1263670332005,
-			"width": 94.01210458691105,
-			"height": 54.950737188124094,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 56,
+			"versionNonce": 1141633075,
+			"index": "b3O",
+			"isDeleted": false,
+			"id": "j_kbNVia80Jc5AF0ki_YM",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -18.595831597798337,
+			"y": 3344.1263670332005,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 94.01210458691105,
+			"height": 54.950737188124094,
+			"seed": 1549530227,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b3O",
 			"roundness": null,
-			"seed": 1549530227,
-			"version": 56,
-			"versionNonce": 1141633075,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440173188,
 			"link": null,
 			"locked": false,
@@ -22769,37 +22259,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					4.634399521889918
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				11.254970267447106,
-				4.634399521889918
-			]
+			"pressures": []
 		},
 		{
-			"id": "CP1gQ6i3L3hOXMiNIrPcw",
 			"type": "freedraw",
-			"x": 13.182907980875825,
-			"y": 3336.181682138532,
-			"width": 85.40536261768676,
-			"height": 23.171997609450045,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 29,
+			"versionNonce": 2061652733,
+			"index": "b3P",
+			"isDeleted": false,
+			"id": "CP1gQ6i3L3hOXMiNIrPcw",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 13.182907980875825,
+			"y": 3336.181682138532,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 85.40536261768676,
+			"height": 23.171997609450045,
+			"seed": 746686685,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b3P",
 			"roundness": null,
-			"seed": 746686685,
-			"version": 29,
-			"versionNonce": 2061652733,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440174280,
 			"link": null,
 			"locked": false,
@@ -22913,37 +22400,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-3.9723424473340856
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-84.74330554313104,
-				-3.9723424473340856
-			]
+			"pressures": []
 		},
 		{
-			"id": "OYP7migYHjB1MpGNTZT0F",
 			"type": "freedraw",
-			"x": -74.2086258604781,
-			"y": 3338.167853362199,
-			"width": 18.5375980875599,
-			"height": 10.592913192891501,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 18,
+			"versionNonce": 1531051763,
+			"index": "b3Q",
+			"isDeleted": false,
+			"id": "OYP7migYHjB1MpGNTZT0F",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -74.2086258604781,
+			"y": 3338.167853362199,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 18.5375980875599,
+			"height": 10.592913192891501,
+			"seed": 6538483,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b3Q",
 			"roundness": null,
-			"seed": 6538483,
-			"version": 18,
-			"versionNonce": 1531051763,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440174848,
 			"link": null,
 			"locked": false,
@@ -23013,37 +22497,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-3.9723424473340856
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				15.227312714781363,
-				-3.9723424473340856
-			]
+			"pressures": []
 		},
 		{
-			"id": "ThY65ACKntFWL4sb86TtU",
 			"type": "freedraw",
-			"x": -122.538792303045,
-			"y": 3332.8713967657536,
-			"width": 61.57130793368111,
-			"height": 22.509940534894213,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 63,
+			"versionNonce": 1550420307,
+			"index": "b3R",
+			"isDeleted": false,
+			"id": "ThY65ACKntFWL4sb86TtU",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -122.538792303045,
+			"y": 3332.8713967657536,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 61.57130793368111,
+			"height": 22.509940534894213,
+			"seed": 1601117747,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b3R",
 			"roundness": null,
-			"seed": 1601117747,
-			"version": 63,
-			"versionNonce": 1550420307,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440178074,
 			"link": null,
 			"locked": false,
@@ -23293,37 +22774,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-22.509940534894213
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				50.31633766623406,
-				-22.509940534894213
-			]
+			"pressures": []
 		},
 		{
-			"id": "UxYfSP-Rza5u5bziw6vxX",
 			"type": "freedraw",
-			"x": -187.4203856095047,
-			"y": 3348.0987094805346,
-			"width": 64.21953623190399,
-			"height": 4.634399521889918,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 16,
+			"versionNonce": 1435875069,
+			"index": "b3S",
+			"isDeleted": false,
+			"id": "UxYfSP-Rza5u5bziw6vxX",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -187.4203856095047,
+			"y": 3348.0987094805346,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 64.21953623190399,
+			"height": 4.634399521889918,
+			"seed": 646542781,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b3S",
 			"roundness": null,
-			"seed": 646542781,
-			"version": 16,
-			"versionNonce": 1435875069,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440181545,
 			"link": null,
 			"locked": false,
@@ -23385,37 +22863,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-3.9723424473340856
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				64.21953623190399,
-				-3.9723424473340856
-			]
+			"pressures": []
 		},
 		{
-			"id": "WbBi2wte7llBKZ2fu0sAZ",
 			"type": "freedraw",
-			"x": -305.26654488042135,
-			"y": 3332.8713967657536,
-			"width": 54.95073718812404,
-			"height": 15.889369789336797,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 17,
+			"versionNonce": 107511123,
+			"index": "b3T",
+			"isDeleted": false,
+			"id": "WbBi2wte7llBKZ2fu0sAZ",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -305.26654488042135,
+			"y": 3332.8713967657536,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 54.95073718812404,
+			"height": 15.889369789336797,
+			"seed": 1460478195,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b3T",
 			"roundness": null,
-			"seed": 1460478195,
-			"version": 17,
-			"versionNonce": 107511123,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440183616,
 			"link": null,
 			"locked": false,
@@ -23481,37 +22956,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-9.930856118335669
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				54.95073718812404,
-				-9.930856118335669
-			]
+			"pressures": []
 		},
 		{
-			"id": "EoedwHasPw5VNmowB5bd5",
 			"type": "freedraw",
-			"x": -227.1438100828474,
-			"y": 3400.401218370436,
-			"width": 62.23336500823686,
-			"height": 0.6620570745558325,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 14,
+			"versionNonce": 717499965,
+			"index": "b3U",
+			"isDeleted": false,
+			"id": "EoedwHasPw5VNmowB5bd5",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -227.1438100828474,
+			"y": 3400.401218370436,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 62.23336500823686,
+			"height": 0.6620570745558325,
+			"seed": 1710899645,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b3U",
 			"roundness": null,
-			"seed": 1710899645,
-			"version": 14,
-			"versionNonce": 717499965,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440185836,
 			"link": null,
 			"locked": false,
@@ -23565,37 +23037,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-0.6620570745558325
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				62.23336500823686,
-				-0.6620570745558325
-			]
+			"pressures": []
 		},
 		{
-			"id": "xtCoMqvStnr9wdOJm8EnW",
 			"type": "freedraw",
-			"x": -192.05478513139468,
-			"y": 3392.456533475767,
-			"width": 10.59291319289133,
-			"height": 1.9861712236670428,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 1252728083,
+			"index": "b3V",
+			"isDeleted": false,
+			"id": "xtCoMqvStnr9wdOJm8EnW",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -192.05478513139468,
+			"y": 3392.456533475767,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 10.59291319289133,
+			"height": 1.9861712236670428,
+			"seed": 2047026611,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b3V",
 			"roundness": null,
-			"seed": 2047026611,
-			"version": 9,
-			"versionNonce": 1252728083,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440186638,
 			"link": null,
 			"locked": false,
@@ -23629,37 +23098,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-1.9861712236670428
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				10.59291319289133,
-				-1.9861712236670428
-			]
+			"pressures": []
 		},
 		{
-			"id": "XhjM9OtGaep_sEJa4CSCD",
 			"type": "freedraw",
-			"x": -154.97958895627488,
-			"y": 3390.4703622521,
-			"width": 41.709595697009775,
-			"height": 22.509940534894213,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 28,
+			"versionNonce": 1326019517,
+			"index": "b3W",
+			"isDeleted": false,
+			"id": "XhjM9OtGaep_sEJa4CSCD",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -154.97958895627488,
+			"y": 3390.4703622521,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 41.709595697009775,
+			"height": 22.509940534894213,
+			"seed": 682685949,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b3W",
 			"roundness": null,
-			"seed": 682685949,
-			"version": 28,
-			"versionNonce": 1326019517,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440188031,
 			"link": null,
 			"locked": false,
@@ -23769,37 +23235,34 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					12.579084416558544
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-15.889369789337081,
-				12.579084416558544
-			]
+			"pressures": []
 		},
 		{
-			"id": "39VvU7dpwv4dRnoGPvC4o",
 			"type": "freedraw",
-			"x": -173.51718704383478,
-			"y": 3397.090932997657,
-			"width": 54.28868011356835,
-			"height": 3.310285372778708,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 15,
+			"versionNonce": 66479443,
+			"index": "b3X",
+			"isDeleted": false,
+			"id": "39VvU7dpwv4dRnoGPvC4o",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -173.51718704383478,
+			"y": 3397.090932997657,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 54.28868011356835,
+			"height": 3.310285372778708,
+			"seed": 1235265587,
 			"groupIds": [],
 			"frameId": null,
-			"index": "b3X",
 			"roundness": null,
-			"seed": 1235265587,
-			"version": 15,
-			"versionNonce": 66479443,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724440188684,
 			"link": null,
 			"locked": false,
@@ -23857,9988 +23320,53 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 					-1.9861712236670428
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-54.28868011356835,
-				-1.9861712236670428
-			]
+			"pressures": []
 		},
 		{
-			"id": "GYWBegEBJPLxlRBYpHkNN",
-			"type": "freedraw",
-			"x": -305.91872295210015,
-			"y": -5058.773246854389,
-			"width": 46.40757351702399,
-			"height": 14.73256302127811,
+			"id": "e7SJcjjF",
+			"type": "embeddable",
+			"x": 4574.7612928202225,
+			"y": -1010,
+			"width": 500,
+			"height": 500,
 			"angle": 0,
-			"strokeColor": "#e03131",
+			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
-			"fillStyle": "solid",
+			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "aK",
-			"roundness": null,
-			"seed": 1186554365,
-			"version": 22,
-			"versionNonce": 376660147,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436291478,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.4732563021277088,
-					1.473256302127993
-				],
-				[
-					2.9465126042554743,
-					2.20988445319108
-				],
-				[
-					3.683140755319357,
-					3.683140755319073
-				],
-				[
-					4.41976890638324,
-					4.419768906383069
-				],
-				[
-					5.156397057447123,
-					5.156397057447066
-				],
-				[
-					5.156397057447123,
-					5.893025208511062
-				],
-				[
-					8.83953781276648,
-					5.893025208511062
-				],
-				[
-					13.25930671914972,
-					5.893025208511062
-				],
-				[
-					22.0988445319162,
-					4.419768906383069
-				],
-				[
-					34.62152310000204,
-					0.7366281510639965
-				],
-				[
-					42.724432761704634,
-					-5.156397057447066
-				],
-				[
-					44.19768906383234,
-					-6.629653359575059
-				],
-				[
-					45.67094536596011,
-					-7.366281510639055
-				],
-				[
-					45.67094536596011,
-					-8.102909661703052
-				],
-				[
-					46.40757351702399,
-					-8.102909661703052
-				],
-				[
-					45.67094536596011,
-					-8.839537812767048
-				],
-				[
-					44.19768906383234,
-					-8.839537812767048
-				],
-				[
-					44.19768906383234,
-					-8.839537812767048
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				44.19768906383234,
-				-8.839537812767048
-			]
-		},
-		{
-			"id": "af7vzLzl3AACzHXYkmpUJ",
-			"type": "freedraw",
-			"x": -274.2437124563536,
-			"y": -5066.876156516092,
-			"width": 25.045357136171674,
-			"height": 18.415703776597184,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "aL",
-			"roundness": null,
-			"seed": 1451081939,
-			"version": 17,
-			"versionNonce": 1378237203,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436291175,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					2.946512604255986
-				],
-				[
-					0,
-					7.366281510639055
-				],
-				[
-					0,
-					9.576165963831045
-				],
-				[
-					-1.4732563021277656,
-					16.94244747446919
-				],
-				[
-					-2.2098844531916484,
-					18.415703776597184
-				],
-				[
-					0.7366281510638828,
-					18.415703776597184
-				],
-				[
-					8.102909661702597,
-					13.995934870214114
-				],
-				[
-					16.205819323405194,
-					8.102909661703052
-				],
-				[
-					19.888960078724523,
-					4.419768906383979
-				],
-				[
-					22.835472682980026,
-					2.946512604255986
-				],
-				[
-					22.098844531916143,
-					2.946512604255986
-				],
-				[
-					21.36221638085229,
-					2.946512604255986
-				],
-				[
-					21.36221638085229,
-					2.946512604255986
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				21.36221638085229,
-				2.946512604255986
-			]
-		},
-		{
-			"id": "zhBaXfT53EkOzyzllsbVf",
-			"type": "freedraw",
-			"x": -115.86865997762095,
-			"y": -5072.769181724603,
-			"width": 184.89366591703208,
-			"height": 14.732563021277201,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "aM",
-			"roundness": null,
-			"seed": 149407613,
-			"version": 49,
-			"versionNonce": 918348147,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436290798,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3.683140755319357,
-					0
-				],
-				[
-					8.102909661702597,
-					0.7366281510639965
-				],
-				[
-					11.786050417021954,
-					0.7366281510639965
-				],
-				[
-					15.469191172341311,
-					0
-				],
-				[
-					17.67907562553296,
-					-0.7366281510639965
-				],
-				[
-					20.625588229788434,
-					-2.2098844531919895
-				],
-				[
-					23.57210083404391,
-					-4.419768906383069
-				],
-				[
-					29.465126042554914,
-					-8.102909661702142
-				],
-				[
-					32.41163864681039,
-					-10.312794114894132
-				],
-				[
-					35.35815125106586,
-					-10.312794114894132
-				],
-				[
-					39.04129200638528,
-					-10.312794114894132
-				],
-				[
-					44.934317214896225,
-					-5.893025208511062
-				],
-				[
-					50.82734242340723,
-					-2.9465126042550764
-				],
-				[
-					54.51048317872659,
-					0.7366281510639965
-				],
-				[
-					57.45699578298206,
-					2.2098844531919895
-				],
-				[
-					61.14013653830142,
-					2.9465126042550764
-				],
-				[
-					62.613392840429185,
-					2.9465126042550764
-				],
-				[
-					64.82327729362078,
-					2.9465126042550764
-				],
-				[
-					67.76978989787631,
-					2.2098844531919895
-				],
-				[
-					77.34595586170667,
-					-2.2098844531919895
-				],
-				[
-					81.02909661702603,
-					-3.683140755319073
-				],
-				[
-					89.86863442979251,
-					-3.683140755319073
-				],
-				[
-					97.9715440914951,
-					-1.473256302127993
-				],
-				[
-					102.39131299787834,
-					-0.7366281510639965
-				],
-				[
-					106.0744537531977,
-					0.7366281510639965
-				],
-				[
-					110.49422265958094,
-					0.7366281510639965
-				],
-				[
-					116.38724786809189,
-					0
-				],
-				[
-					124.49015752979449,
-					-3.683140755319073
-				],
-				[
-					130.3831827383055,
-					-5.156397057447066
-				],
-				[
-					135.53957979575262,
-					-8.102909661702142
-				],
-				[
-					137.01283609788032,
-					-8.102909661702142
-				],
-				[
-					138.4860924000081,
-					-8.102909661702142
-				],
-				[
-					139.95934870213586,
-					-7.366281510639055
-				],
-				[
-					142.90586130639133,
-					-5.893025208511062
-				],
-				[
-					147.3256302127745,
-					-4.419768906383069
-				],
-				[
-					153.95528357234946,
-					-3.683140755319073
-				],
-				[
-					162.05819323405206,
-					-5.156397057447066
-				],
-				[
-					165.74133398937136,
-					-6.629653359575059
-				],
-				[
-					172.3709873489462,
-					-8.102909661702142
-				],
-				[
-					179.73726885958501,
-					-10.312794114894132
-				],
-				[
-					182.68378146384043,
-					-11.786050417022125
-				],
-				[
-					183.42040961490432,
-					-11.786050417022125
-				],
-				[
-					184.1570377659682,
-					-11.786050417022125
-				],
-				[
-					184.89366591703208,
-					-11.786050417022125
-				],
-				[
-					184.89366591703208,
-					-11.786050417022125
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				184.89366591703208,
-				-11.786050417022125
-			]
-		},
-		{
-			"id": "k3V-42TdOWxt9OHyzeGSh",
-			"type": "freedraw",
-			"x": -256.56463683082063,
-			"y": -4991.003456956513,
-			"width": 21.36221638085226,
-			"height": 11.049422265958128,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "aN",
-			"roundness": null,
-			"seed": 466683699,
-			"version": 33,
-			"versionNonce": 1313894685,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436176950,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.4732563021277088,
-					0.7366281510639965
-				],
-				[
-					5.893025208510949,
-					0.7366281510639965
-				],
-				[
-					12.522678568085809,
-					1.473256302127993
-				],
-				[
-					15.469191172341283,
-					1.473256302127993
-				],
-				[
-					18.415703776596786,
-					1.473256302127993
-				],
-				[
-					19.15233192766064,
-					1.473256302127993
-				],
-				[
-					21.36221638085226,
-					1.473256302127993
-				],
-				[
-					21.36221638085226,
-					0
-				],
-				[
-					21.36221638085226,
-					-2.2098844531919895
-				],
-				[
-					20.625588229788406,
-					-2.946512604255986
-				],
-				[
-					19.15233192766064,
-					-4.419768906383069
-				],
-				[
-					18.415703776596786,
-					-5.156397057447066
-				],
-				[
-					16.94244747446902,
-					-5.156397057447066
-				],
-				[
-					16.205819323405166,
-					-5.893025208511062
-				],
-				[
-					15.469191172341283,
-					-6.629653359575059
-				],
-				[
-					14.732563021277429,
-					-7.366281510639055
-				],
-				[
-					13.995934870213546,
-					-7.366281510639055
-				],
-				[
-					13.259306719149663,
-					-8.839537812766139
-				],
-				[
-					12.522678568085809,
-					-8.839537812766139
-				],
-				[
-					11.786050417021926,
-					-8.839537812766139
-				],
-				[
-					11.049422265958043,
-					-9.576165963830135
-				],
-				[
-					10.312794114894189,
-					-9.576165963830135
-				],
-				[
-					9.576165963830306,
-					-9.576165963830135
-				],
-				[
-					8.102909661702569,
-					-9.576165963830135
-				],
-				[
-					6.629653359574803,
-					-9.576165963830135
-				],
-				[
-					5.156397057447066,
-					-9.576165963830135
-				],
-				[
-					4.419768906383183,
-					-9.576165963830135
-				],
-				[
-					3.6831407553193287,
-					-9.576165963830135
-				],
-				[
-					3.6831407553193287,
-					-9.576165963830135
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				3.6831407553193287,
-				-9.576165963830135
-			]
-		},
-		{
-			"id": "-5xzgWcrG4uHKfkh7b9OS",
-			"type": "freedraw",
-			"x": -172.5890276095392,
-			"y": -5002.052879222471,
-			"width": 20.625588229788434,
-			"height": 8.839537812767048,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "aO",
-			"roundness": null,
-			"seed": 683558269,
-			"version": 13,
-			"versionNonce": 666948563,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436290598,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.4732563021277656,
-					1.473256302127993
-				],
-				[
-					2.2098844531916484,
-					1.473256302127993
-				],
-				[
-					2.946512604255531,
-					2.2098844531919895
-				],
-				[
-					3.683140755319357,
-					2.2098844531919895
-				],
-				[
-					11.049422265958128,
-					-0.7366281510639965
-				],
-				[
-					15.469191172341368,
-					-3.683140755319073
-				],
-				[
-					19.888960078724608,
-					-5.893025208511062
-				],
-				[
-					20.625588229788434,
-					-6.629653359575059
-				],
-				[
-					20.625588229788434,
-					-6.629653359575059
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				20.625588229788434,
-				-6.629653359575059
-			]
-		},
-		{
-			"id": "vCdt9pVrEoBGCuzQ5cbXo",
-			"type": "freedraw",
-			"x": 2.728472343662588,
-			"y": -5007.209276279918,
-			"width": 27.255241589363322,
-			"height": 6.629653359575059,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "aP",
-			"roundness": null,
-			"seed": 40937139,
-			"version": 13,
-			"versionNonce": 468423219,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436290262,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.7366281510638828,
-					0
-				],
-				[
-					1.4732563021277088,
-					0.7366281510639965
-				],
-				[
-					2.9465126042554743,
-					1.473256302127993
-				],
-				[
-					8.83953781276648,
-					1.473256302127993
-				],
-				[
-					15.469191172341311,
-					0.7366281510639965
-				],
-				[
-					24.30872898510779,
-					-2.946512604255986
-				],
-				[
-					26.51861343829944,
-					-4.419768906383069
-				],
-				[
-					27.255241589363322,
-					-5.156397057447066
-				],
-				[
-					27.255241589363322,
-					-5.156397057447066
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				27.255241589363322,
-				-5.156397057447066
-			]
-		},
-		{
-			"id": "BsPwupP0lbZy1-d0BSolh",
-			"type": "freedraw",
-			"x": -285.2931347223117,
-			"y": -4995.423225862897,
-			"width": 36.094779402129774,
-			"height": 19.15233192766027,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "aQ",
-			"roundness": null,
-			"seed": 1296749139,
-			"version": 15,
-			"versionNonce": 1541273533,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436938203,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.7366281510638828,
-					4.419768906383979
-				],
-				[
-					3.683140755319357,
-					8.102909661703052
-				],
-				[
-					7.366281510638714,
-					11.049422265958128
-				],
-				[
-					8.83953781276648,
-					11.786050417022125
-				],
-				[
-					12.522678568085837,
-					11.786050417022125
-				],
-				[
-					17.67907562553296,
-					10.312794114894132
-				],
-				[
-					29.465126042554914,
-					0
-				],
-				[
-					33.14826679787427,
-					-3.683140755319073
-				],
-				[
-					36.094779402129774,
-					-7.366281510638146
-				],
-				[
-					35.35815125106589,
-					-7.366281510638146
-				],
-				[
-					35.35815125106589,
-					-7.366281510638146
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				35.35815125106589,
-				-7.366281510638146
-			]
-		},
-		{
-			"id": "viVBXGS4QtELIqnnkkNiP",
-			"type": "freedraw",
-			"x": -245.5152145648626,
-			"y": -4991.003456956513,
-			"width": 23.57210083404388,
-			"height": 15.469191172341198,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "aR",
-			"roundness": null,
-			"seed": 12962109,
-			"version": 52,
-			"versionNonce": 1980328797,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436938169,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.7366281510638828,
-					0
-				],
-				[
-					0.7366281510638828,
-					0.736628151063087
-				],
-				[
-					1.4732563021277656,
-					0.736628151063087
-				],
-				[
-					2.9465126042555028,
-					0.736628151063087
-				],
-				[
-					3.6831407553193856,
-					0.736628151063087
-				],
-				[
-					6.62965335957486,
-					0.736628151063087
-				],
-				[
-					7.366281510638743,
-					0.736628151063087
-				],
-				[
-					8.102909661702597,
-					0.736628151063087
-				],
-				[
-					9.576165963830363,
-					0.736628151063087
-				],
-				[
-					10.312794114894217,
-					0.736628151063087
-				],
-				[
-					11.786050417021983,
-					0.736628151063087
-				],
-				[
-					11.786050417021983,
-					0
-				],
-				[
-					12.522678568085837,
-					-0.7366281510639965
-				],
-				[
-					12.522678568085837,
-					-2.2098844531919895
-				],
-				[
-					12.522678568085837,
-					-5.893025208511062
-				],
-				[
-					12.522678568085837,
-					-7.366281510639055
-				],
-				[
-					12.522678568085837,
-					-9.576165963831045
-				],
-				[
-					11.786050417021983,
-					-11.049422265958128
-				],
-				[
-					11.0494222659581,
-					-11.786050417022125
-				],
-				[
-					11.0494222659581,
-					-12.522678568086121
-				],
-				[
-					9.576165963830363,
-					-13.259306719150118
-				],
-				[
-					8.83953781276648,
-					-13.259306719150118
-				],
-				[
-					8.102909661702597,
-					-13.259306719150118
-				],
-				[
-					8.102909661702597,
-					-13.995934870214114
-				],
-				[
-					6.62965335957486,
-					-13.995934870214114
-				],
-				[
-					5.893025208510977,
-					-14.73256302127811
-				],
-				[
-					5.156397057447123,
-					-14.73256302127811
-				],
-				[
-					4.41976890638324,
-					-14.73256302127811
-				],
-				[
-					3.6831407553193856,
-					-14.73256302127811
-				],
-				[
-					2.9465126042555028,
-					-14.73256302127811
-				],
-				[
-					1.4732563021277656,
-					-14.73256302127811
-				],
-				[
-					0.7366281510638828,
-					-14.73256302127811
-				],
-				[
-					0,
-					-14.73256302127811
-				],
-				[
-					-0.7366281510638544,
-					-14.73256302127811
-				],
-				[
-					-1.4732563021277372,
-					-13.995934870214114
-				],
-				[
-					-2.20988445319162,
-					-13.995934870214114
-				],
-				[
-					-2.20988445319162,
-					-13.259306719150118
-				],
-				[
-					-4.41976890638324,
-					-11.786050417022125
-				],
-				[
-					-5.893025208510977,
-					-10.312794114895041
-				],
-				[
-					-7.366281510638714,
-					-9.576165963831045
-				],
-				[
-					-8.102909661702597,
-					-8.839537812767048
-				],
-				[
-					-9.576165963830334,
-					-8.102909661703052
-				],
-				[
-					-10.312794114894217,
-					-7.366281510639055
-				],
-				[
-					-11.049422265958043,
-					-6.629653359575059
-				],
-				[
-					-11.049422265958043,
-					-5.893025208511062
-				],
-				[
-					-11.049422265958043,
-					-5.156397057447975
-				],
-				[
-					-11.049422265958043,
-					-3.6831407553199824
-				],
-				[
-					-11.049422265958043,
-					-3.6831407553199824
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-11.049422265958043,
-				-3.6831407553199824
-			]
-		},
-		{
-			"id": "XHGc9GRcvhWxZKlJW7Unv",
-			"type": "freedraw",
-			"x": -4.637809166976183,
-			"y": -5016.7854422437495,
-			"width": 33.884894948938154,
-			"height": 19.15233192766118,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "aS",
-			"roundness": null,
-			"seed": 1538308691,
-			"version": 56,
-			"versionNonce": 1753404157,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436938137,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1.4732563021277088,
-					0
-				],
-				[
-					-2.2098844531915915,
-					0
-				],
-				[
-					-2.9465126042554743,
-					0
-				],
-				[
-					-3.683140755319357,
-					0
-				],
-				[
-					-4.419768906383183,
-					0
-				],
-				[
-					-7.366281510638714,
-					-0.7366281510639965
-				],
-				[
-					-9.576165963830306,
-					-0.7366281510639965
-				],
-				[
-					-11.049422265958071,
-					-0.7366281510639965
-				],
-				[
-					-11.786050417021954,
-					-0.7366281510639965
-				],
-				[
-					-13.259306719149663,
-					-0.7366281510639965
-				],
-				[
-					-13.995934870213546,
-					-0.7366281510639965
-				],
-				[
-					-16.205819323405194,
-					-0.7366281510639965
-				],
-				[
-					-17.679075625532903,
-					0
-				],
-				[
-					-19.15233192766067,
-					0.7366281510639965
-				],
-				[
-					-19.88896007872455,
-					0.7366281510639965
-				],
-				[
-					-21.36221638085226,
-					1.473256302127993
-				],
-				[
-					-22.098844531916143,
-					2.2098844531919895
-				],
-				[
-					-24.30872898510779,
-					3.6831407553199824
-				],
-				[
-					-25.045357136171674,
-					4.419768906383069
-				],
-				[
-					-25.7819852872355,
-					5.156397057447066
-				],
-				[
-					-26.518613438299383,
-					7.366281510639055
-				],
-				[
-					-27.255241589363266,
-					9.576165963831045
-				],
-				[
-					-27.255241589363266,
-					11.049422265958128
-				],
-				[
-					-26.518613438299383,
-					14.73256302127811
-				],
-				[
-					-25.7819852872355,
-					16.205819323405194
-				],
-				[
-					-24.30872898510779,
-					16.94244747446919
-				],
-				[
-					-23.57210083404391,
-					16.94244747446919
-				],
-				[
-					-22.835472682980026,
-					18.415703776597184
-				],
-				[
-					-20.625588229788434,
-					18.415703776597184
-				],
-				[
-					-17.679075625532903,
-					18.415703776597184
-				],
-				[
-					-16.942447474469077,
-					18.415703776597184
-				],
-				[
-					-16.205819323405194,
-					18.415703776597184
-				],
-				[
-					-14.732563021277429,
-					18.415703776597184
-				],
-				[
-					-11.786050417021954,
-					18.415703776597184
-				],
-				[
-					-10.312794114894189,
-					18.415703776597184
-				],
-				[
-					-8.102909661702597,
-					17.679075625533187
-				],
-				[
-					-5.893025208510949,
-					16.94244747446919
-				],
-				[
-					-2.9465126042554743,
-					16.94244747446919
-				],
-				[
-					0.7366281510638828,
-					14.73256302127811
-				],
-				[
-					2.946512604255531,
-					13.259306719150118
-				],
-				[
-					4.41976890638324,
-					12.522678568086121
-				],
-				[
-					5.156397057447123,
-					11.049422265958128
-				],
-				[
-					5.8930252085110055,
-					11.049422265958128
-				],
-				[
-					5.8930252085110055,
-					10.312794114894132
-				],
-				[
-					6.629653359574888,
-					10.312794114894132
-				],
-				[
-					6.629653359574888,
-					9.576165963831045
-				],
-				[
-					6.629653359574888,
-					8.102909661703052
-				],
-				[
-					6.629653359574888,
-					6.629653359575059
-				],
-				[
-					6.629653359574888,
-					4.419768906383069
-				],
-				[
-					5.156397057447123,
-					4.419768906383069
-				],
-				[
-					3.683140755319414,
-					2.946512604255986
-				],
-				[
-					3.683140755319414,
-					2.946512604255986
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				3.683140755319414,
-				2.946512604255986
-			]
-		},
-		{
-			"id": "i44LyGoS0BShNEvh57XZw",
-			"type": "freedraw",
-			"x": -140.91401711379262,
-			"y": -4977.0075220863,
-			"width": 32.41163864681039,
-			"height": 19.15233192766027,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "aT",
-			"roundness": null,
-			"seed": 750932125,
-			"version": 12,
-			"versionNonce": 49852061,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436938105,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.7366281510638828,
-					0
-				],
-				[
-					1.4732563021277088,
-					0
-				],
-				[
-					9.576165963830363,
-					-4.419768906383069
-				],
-				[
-					13.995934870213546,
-					-7.366281510638146
-				],
-				[
-					21.362216380852317,
-					-11.786050417021215
-				],
-				[
-					29.465126042554914,
-					-17.679075625532278
-				],
-				[
-					32.41163864681039,
-					-19.15233192766027
-				],
-				[
-					32.41163864681039,
-					-19.15233192766027
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				32.41163864681039,
-				-19.15233192766027
-			]
-		},
-		{
-			"id": "vDpu1NLBgzG6Gw2AAr9Dz",
-			"type": "freedraw",
-			"x": -142.3872734159204,
-			"y": -4960.065074611831,
-			"width": 21.362216380852317,
-			"height": 4.419768906383069,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "aU",
-			"roundness": null,
-			"seed": 789897203,
-			"version": 15,
-			"versionNonce": 149519933,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436938073,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.7366281510638828,
-					1.473256302127993
-				],
-				[
-					1.4732563021277656,
-					1.473256302127993
-				],
-				[
-					2.2098844531916484,
-					2.2098844531919895
-				],
-				[
-					2.2098844531916484,
-					2.946512604255986
-				],
-				[
-					4.41976890638324,
-					2.946512604255986
-				],
-				[
-					8.102909661702597,
-					2.946512604255986
-				],
-				[
-					12.522678568085837,
-					2.946512604255986
-				],
-				[
-					16.942447474469077,
-					0.7366281510639965
-				],
-				[
-					19.88896007872455,
-					-1.4732563021270835
-				],
-				[
-					21.362216380852317,
-					-1.4732563021270835
-				],
-				[
-					21.362216380852317,
-					-1.4732563021270835
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				21.362216380852317,
-				-1.4732563021270835
-			]
-		},
-		{
-			"id": "MwMdWZ0uE-OOx8ATfKQaO",
-			"type": "freedraw",
-			"x": -16.423859583998137,
-			"y": -4956.381933856511,
-			"width": 20.625588229788434,
-			"height": 20.625588229788264,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "aV",
-			"roundness": null,
-			"seed": 471386525,
-			"version": 61,
-			"versionNonce": 1805894109,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436938042,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-0.7366281510639965
-				],
-				[
-					0,
-					-2.2098844531919895
-				],
-				[
-					0,
-					-3.6831407553199824
-				],
-				[
-					0,
-					-6.629653359575059
-				],
-				[
-					0,
-					-8.102909661703052
-				],
-				[
-					0,
-					-9.576165963831045
-				],
-				[
-					0.7366281510638828,
-					-10.312794114895041
-				],
-				[
-					0.7366281510638828,
-					-11.049422265958128
-				],
-				[
-					0.7366281510638828,
-					-11.786050417022125
-				],
-				[
-					1.4732563021277656,
-					-12.522678568086121
-				],
-				[
-					2.946512604255531,
-					-13.995934870214114
-				],
-				[
-					4.41976890638324,
-					-15.469191172342107
-				],
-				[
-					5.8930252085110055,
-					-16.94244747446919
-				],
-				[
-					6.629653359574888,
-					-17.679075625533187
-				],
-				[
-					8.102909661702597,
-					-17.679075625533187
-				],
-				[
-					8.83953781276648,
-					-18.415703776597184
-				],
-				[
-					10.312794114894245,
-					-19.15233192766118
-				],
-				[
-					11.049422265958128,
-					-19.15233192766118
-				],
-				[
-					11.786050417021954,
-					-19.888960078725177
-				],
-				[
-					12.522678568085837,
-					-19.888960078725177
-				],
-				[
-					13.25930671914972,
-					-19.888960078725177
-				],
-				[
-					13.995934870213603,
-					-19.888960078725177
-				],
-				[
-					14.732563021277485,
-					-19.15233192766118
-				],
-				[
-					14.732563021277485,
-					-18.415703776597184
-				],
-				[
-					16.205819323405194,
-					-17.679075625533187
-				],
-				[
-					16.205819323405194,
-					-16.205819323405194
-				],
-				[
-					16.942447474469077,
-					-15.469191172342107
-				],
-				[
-					16.942447474469077,
-					-14.73256302127811
-				],
-				[
-					16.942447474469077,
-					-13.259306719150118
-				],
-				[
-					16.942447474469077,
-					-12.522678568086121
-				],
-				[
-					16.942447474469077,
-					-11.049422265958128
-				],
-				[
-					16.942447474469077,
-					-10.312794114895041
-				],
-				[
-					16.942447474469077,
-					-9.576165963831045
-				],
-				[
-					16.942447474469077,
-					-8.102909661703052
-				],
-				[
-					16.942447474469077,
-					-7.366281510639055
-				],
-				[
-					16.942447474469077,
-					-6.629653359575059
-				],
-				[
-					16.205819323405194,
-					-6.629653359575059
-				],
-				[
-					15.469191172341368,
-					-5.156397057447066
-				],
-				[
-					14.732563021277485,
-					-4.419768906383979
-				],
-				[
-					13.995934870213603,
-					-3.6831407553199824
-				],
-				[
-					13.25930671914972,
-					-2.946512604255986
-				],
-				[
-					12.522678568085837,
-					-2.946512604255986
-				],
-				[
-					12.522678568085837,
-					-2.2098844531919895
-				],
-				[
-					11.786050417021954,
-					-2.2098844531919895
-				],
-				[
-					10.312794114894245,
-					-1.473256302127993
-				],
-				[
-					8.83953781276648,
-					-0.7366281510639965
-				],
-				[
-					7.366281510638771,
-					-0.7366281510639965
-				],
-				[
-					6.629653359574888,
-					0
-				],
-				[
-					5.8930252085110055,
-					0
-				],
-				[
-					4.41976890638324,
-					0.736628151063087
-				],
-				[
-					3.683140755319357,
-					0.736628151063087
-				],
-				[
-					2.2098844531916484,
-					0.736628151063087
-				],
-				[
-					0.7366281510638828,
-					0
-				],
-				[
-					-0.7366281510638828,
-					-2.946512604255986
-				],
-				[
-					-2.2098844531915915,
-					-5.893025208511062
-				],
-				[
-					-3.683140755319357,
-					-8.839537812767048
-				],
-				[
-					-3.683140755319357,
-					-8.839537812767048
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-3.683140755319357,
-				-8.839537812767048
-			]
-		},
-		{
-			"id": "OO6ZSQ0hs2WoCiOSXZJAu",
-			"type": "freedraw",
-			"x": -248.46172716911806,
-			"y": -4933.5464611735315,
-			"width": 21.36221638085229,
-			"height": 18.415703776596274,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "aW",
-			"roundness": null,
-			"seed": 1925009043,
-			"version": 49,
-			"versionNonce": 1145436541,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436938011,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-0.7366281510639965
-				],
-				[
-					1.4732563021277372,
-					-0.7366281510639965
-				],
-				[
-					2.9465126042554743,
-					-2.20988445319108
-				],
-				[
-					5.893025208510977,
-					-3.683140755319073
-				],
-				[
-					6.62965335957486,
-					-3.683140755319073
-				],
-				[
-					8.102909661702597,
-					-4.419768906383069
-				],
-				[
-					8.839537812766451,
-					-5.156397057447066
-				],
-				[
-					9.576165963830334,
-					-5.156397057447066
-				],
-				[
-					11.049422265958071,
-					-5.156397057447066
-				],
-				[
-					13.259306719149691,
-					-5.156397057447066
-				],
-				[
-					13.995934870213574,
-					-5.156397057447066
-				],
-				[
-					14.732563021277457,
-					-5.156397057447066
-				],
-				[
-					15.469191172341311,
-					-5.156397057447066
-				],
-				[
-					16.205819323405194,
-					-5.156397057447066
-				],
-				[
-					17.67907562553293,
-					-3.683140755319073
-				],
-				[
-					19.152331927660697,
-					-1.4732563021270835
-				],
-				[
-					19.88896007872458,
-					0
-				],
-				[
-					21.36221638085229,
-					2.2098844531919895
-				],
-				[
-					21.36221638085229,
-					3.6831407553199824
-				],
-				[
-					21.36221638085229,
-					4.419768906383979
-				],
-				[
-					20.625588229788406,
-					7.366281510639055
-				],
-				[
-					19.88896007872458,
-					9.576165963831045
-				],
-				[
-					19.152331927660697,
-					10.312794114894132
-				],
-				[
-					18.415703776596814,
-					11.049422265958128
-				],
-				[
-					17.67907562553293,
-					11.049422265958128
-				],
-				[
-					16.205819323405194,
-					11.049422265958128
-				],
-				[
-					14.732563021277457,
-					11.049422265958128
-				],
-				[
-					13.259306719149691,
-					11.049422265958128
-				],
-				[
-					11.049422265958071,
-					10.312794114894132
-				],
-				[
-					9.576165963830334,
-					8.102909661703052
-				],
-				[
-					8.839537812766451,
-					8.102909661703052
-				],
-				[
-					8.102909661702597,
-					8.102909661703052
-				],
-				[
-					7.366281510638714,
-					7.366281510639055
-				],
-				[
-					6.62965335957486,
-					7.366281510639055
-				],
-				[
-					5.893025208510977,
-					6.629653359575059
-				],
-				[
-					5.156397057447094,
-					5.893025208511062
-				],
-				[
-					4.41976890638324,
-					5.893025208511062
-				],
-				[
-					3.683140755319357,
-					5.156397057447066
-				],
-				[
-					2.20988445319162,
-					3.6831407553199824
-				],
-				[
-					2.20988445319162,
-					2.946512604255986
-				],
-				[
-					2.20988445319162,
-					0.7366281510639965
-				],
-				[
-					2.20988445319162,
-					-0.7366281510639965
-				],
-				[
-					4.41976890638324,
-					-3.683140755319073
-				],
-				[
-					8.102909661702597,
-					-7.366281510638146
-				],
-				[
-					8.102909661702597,
-					-7.366281510638146
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				8.102909661702597,
-				-7.366281510638146
-			]
-		},
-		{
-			"id": "QBRPcf93uGPjD50pz1kad",
-			"type": "freedraw",
-			"x": -21.58025664144526,
-			"y": -4894.505169167147,
-			"width": 25.781985287235557,
-			"height": 16.94244747446919,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "aX",
-			"roundness": null,
-			"seed": 974522813,
-			"version": 65,
-			"versionNonce": 230597917,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937978,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.7366281510638828,
-					0
-				],
-				[
-					1.4732563021277656,
-					0
-				],
-				[
-					2.2098844531916484,
-					0
-				],
-				[
-					2.946512604255531,
-					0
-				],
-				[
-					4.41976890638324,
-					0
-				],
-				[
-					5.8930252085110055,
-					0
-				],
-				[
-					9.576165963830363,
-					0
-				],
-				[
-					12.522678568085894,
-					0
-				],
-				[
-					14.732563021277485,
-					0
-				],
-				[
-					15.469191172341368,
-					0
-				],
-				[
-					16.20581932340525,
-					0
-				],
-				[
-					16.942447474469077,
-					0
-				],
-				[
-					17.67907562553296,
-					0
-				],
-				[
-					18.415703776596843,
-					0
-				],
-				[
-					19.888960078724608,
-					0
-				],
-				[
-					20.62558822978849,
-					0
-				],
-				[
-					21.362216380852317,
-					0
-				],
-				[
-					22.0988445319162,
-					-0.7366281510639965
-				],
-				[
-					22.835472682980082,
-					-1.4732563021270835
-				],
-				[
-					23.572100834043965,
-					-1.4732563021270835
-				],
-				[
-					24.308728985107848,
-					-2.20988445319108
-				],
-				[
-					24.308728985107848,
-					-2.9465126042550764
-				],
-				[
-					25.04535713617173,
-					-3.683140755319073
-				],
-				[
-					25.04535713617173,
-					-4.419768906383069
-				],
-				[
-					25.781985287235557,
-					-4.419768906383069
-				],
-				[
-					25.781985287235557,
-					-5.156397057447066
-				],
-				[
-					25.781985287235557,
-					-5.893025208511062
-				],
-				[
-					25.781985287235557,
-					-6.629653359574149
-				],
-				[
-					25.781985287235557,
-					-7.366281510638146
-				],
-				[
-					25.781985287235557,
-					-8.839537812766139
-				],
-				[
-					25.781985287235557,
-					-9.576165963830135
-				],
-				[
-					24.308728985107848,
-					-11.786050417022125
-				],
-				[
-					22.835472682980082,
-					-13.259306719149208
-				],
-				[
-					21.362216380852317,
-					-15.469191172341198
-				],
-				[
-					20.62558822978849,
-					-16.205819323405194
-				],
-				[
-					19.888960078724608,
-					-16.205819323405194
-				],
-				[
-					18.415703776596843,
-					-16.94244747446919
-				],
-				[
-					16.942447474469077,
-					-16.94244747446919
-				],
-				[
-					16.20581932340525,
-					-16.94244747446919
-				],
-				[
-					15.469191172341368,
-					-16.94244747446919
-				],
-				[
-					14.732563021277485,
-					-16.94244747446919
-				],
-				[
-					13.995934870213603,
-					-16.94244747446919
-				],
-				[
-					12.522678568085894,
-					-16.205819323405194
-				],
-				[
-					11.786050417022011,
-					-16.205819323405194
-				],
-				[
-					11.049422265958128,
-					-15.469191172341198
-				],
-				[
-					10.312794114894245,
-					-14.732563021277201
-				],
-				[
-					8.102909661702654,
-					-12.522678568085212
-				],
-				[
-					7.366281510638771,
-					-11.786050417022125
-				],
-				[
-					6.629653359574888,
-					-11.049422265958128
-				],
-				[
-					5.8930252085110055,
-					-10.312794114894132
-				],
-				[
-					4.41976890638324,
-					-8.102909661702142
-				],
-				[
-					3.683140755319414,
-					-7.366281510638146
-				],
-				[
-					2.946512604255531,
-					-5.893025208511062
-				],
-				[
-					2.2098844531916484,
-					-5.156397057447066
-				],
-				[
-					2.2098844531916484,
-					-4.419768906383069
-				],
-				[
-					2.2098844531916484,
-					-3.683140755319073
-				],
-				[
-					1.4732563021277656,
-					-2.9465126042550764
-				],
-				[
-					1.4732563021277656,
-					-2.20988445319108
-				],
-				[
-					1.4732563021277656,
-					-1.4732563021270835
-				],
-				[
-					1.4732563021277656,
-					0
-				],
-				[
-					1.4732563021277656,
-					0
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				1.4732563021277656,
-				0
-			]
-		},
-		{
-			"id": "4Rt_2Xz3tHpiV92BzJLqu",
-			"type": "freedraw",
-			"x": -264.6675464925233,
-			"y": -4866.513299426719,
-			"width": 44.93431721489628,
-			"height": 33.148266797874385,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "aY",
-			"roundness": null,
-			"seed": 1042283251,
-			"version": 18,
-			"versionNonce": 516703421,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937946,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.7366281510638828,
-					2.20988445319108
-				],
-				[
-					1.4732563021277656,
-					6.629653359574149
-				],
-				[
-					2.2098844531915915,
-					7.366281510638146
-				],
-				[
-					2.9465126042554743,
-					7.366281510638146
-				],
-				[
-					3.683140755319357,
-					7.366281510638146
-				],
-				[
-					8.83953781276648,
-					5.893025208510153
-				],
-				[
-					16.942447474469077,
-					-0.7366281510639965
-				],
-				[
-					27.255241589363294,
-					-10.312794114895041
-				],
-				[
-					39.04129200638528,
-					-20.625588229789173
-				],
-				[
-					44.93431721489628,
-					-25.045357136172242
-				],
-				[
-					44.93431721489628,
-					-25.78198528723624
-				],
-				[
-					43.46106091276852,
-					-25.78198528723624
-				],
-				[
-					41.98780461064075,
-					-25.045357136172242
-				],
-				[
-					41.98780461064075,
-					-25.045357136172242
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				41.98780461064075,
-				-25.045357136172242
-			]
-		},
-		{
-			"id": "oJ3_XZGIQrrmflpl2TRqO",
-			"type": "freedraw",
-			"x": -274.2437124563536,
-			"y": -4845.151083045867,
-			"width": 22.835472682980026,
-			"height": 8.839537812767048,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "aZ",
-			"roundness": null,
-			"seed": 911083453,
-			"version": 14,
-			"versionNonce": 1677547613,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937898,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.7366281510638828,
-					0.7366281510639965
-				],
-				[
-					1.4732563021277088,
-					0.7366281510639965
-				],
-				[
-					1.4732563021277088,
-					1.473256302127993
-				],
-				[
-					2.2098844531915915,
-					2.2098844531919895
-				],
-				[
-					4.419768906383183,
-					2.2098844531919895
-				],
-				[
-					12.52267856808578,
-					-0.7366281510639965
-				],
-				[
-					17.67907562553296,
-					-2.9465126042550764
-				],
-				[
-					21.36221638085229,
-					-5.156397057447066
-				],
-				[
-					22.835472682980026,
-					-6.629653359575059
-				],
-				[
-					22.835472682980026,
-					-6.629653359575059
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				22.835472682980026,
-				-6.629653359575059
-			]
-		},
-		{
-			"id": "KX020H7RQaFVUGDvjKeZs",
-			"type": "freedraw",
-			"x": -260.24777758614005,
-			"y": -4845.151083045867,
-			"width": 7.366281510638743,
-			"height": 1.473256302127993,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "aa",
-			"roundness": null,
-			"seed": 1248279059,
-			"version": 10,
-			"versionNonce": 1504731133,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937867,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.4732563021277656,
-					0.7366281510639965
-				],
-				[
-					2.946512604255531,
-					1.473256302127993
-				],
-				[
-					5.893025208510977,
-					1.473256302127993
-				],
-				[
-					6.62965335957486,
-					1.473256302127993
-				],
-				[
-					7.366281510638743,
-					1.473256302127993
-				],
-				[
-					7.366281510638743,
-					1.473256302127993
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				7.366281510638743,
-				1.473256302127993
-			]
-		},
-		{
-			"id": "1YP8iOYuXR4SaqrBgVG_4",
-			"type": "freedraw",
-			"x": -9.794206224423249,
-			"y": -4846.624339347995,
-			"width": 15.469191172341311,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "ab",
-			"roundness": null,
-			"seed": 1885026205,
-			"version": 14,
-			"versionNonce": 1175706525,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937836,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.4732563021277088,
-					0
-				],
-				[
-					4.41976890638324,
-					0
-				],
-				[
-					7.366281510638714,
-					0
-				],
-				[
-					10.312794114894189,
-					0
-				],
-				[
-					11.786050417021954,
-					0
-				],
-				[
-					12.522678568085837,
-					0
-				],
-				[
-					13.25930671914972,
-					0
-				],
-				[
-					14.732563021277429,
-					0
-				],
-				[
-					15.469191172341311,
-					0
-				],
-				[
-					15.469191172341311,
-					0
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				15.469191172341311,
-				0
-			]
-		},
-		{
-			"id": "gQeausJOUpZqPWtPRNVCb",
-			"type": "freedraw",
-			"x": -4.637809166976183,
-			"y": -4871.669696484167,
-			"width": 14.732563021277485,
-			"height": 5.893025208511062,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "ac",
-			"roundness": null,
-			"seed": 1067796531,
-			"version": 13,
-			"versionNonce": 858147645,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937804,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-0.7366281510639965
-				],
-				[
-					0.7366281510638828,
-					-0.7366281510639965
-				],
-				[
-					5.156397057447123,
-					-0.7366281510639965
-				],
-				[
-					7.366281510638771,
-					-2.2098844531919895
-				],
-				[
-					8.83953781276648,
-					-4.419768906383069
-				],
-				[
-					11.049422265958128,
-					-4.419768906383069
-				],
-				[
-					13.995934870213603,
-					-5.156397057447066
-				],
-				[
-					14.732563021277485,
-					-5.893025208511062
-				],
-				[
-					14.732563021277485,
-					-5.893025208511062
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				14.732563021277485,
-				-5.893025208511062
-			]
-		},
-		{
-			"id": "zrUb7UMKnh9SMthurKHcN",
-			"type": "freedraw",
-			"x": 45.45290510536722,
-			"y": -4867.986555728848,
-			"width": 5.893025208510949,
-			"height": 5.893025208511062,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "ad",
-			"roundness": null,
-			"seed": 1726787741,
-			"version": 10,
-			"versionNonce": 683028189,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937772,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.2098844531916484,
-					-2.20988445319108
-				],
-				[
-					4.419768906383183,
-					-4.419768906383069
-				],
-				[
-					5.156397057447066,
-					-4.419768906383069
-				],
-				[
-					5.893025208510949,
-					-5.156397057447066
-				],
-				[
-					5.893025208510949,
-					-5.893025208511062
-				],
-				[
-					5.893025208510949,
-					-5.893025208511062
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				5.893025208510949,
-				-5.893025208511062
-			]
-		},
-		{
-			"id": "9U_C59hP89vxY3Wr5I5XZ",
-			"type": "freedraw",
-			"x": 48.39941770962264,
-			"y": -4870.196440182039,
-			"width": 8.102909661702597,
-			"height": 4.419768906383069,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "ae",
-			"roundness": null,
-			"seed": 935645363,
-			"version": 8,
-			"versionNonce": 643958397,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937741,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					5.893025208511062,
-					-2.946512604255986
-				],
-				[
-					7.366281510638828,
-					-4.419768906383069
-				],
-				[
-					8.102909661702597,
-					-4.419768906383069
-				],
-				[
-					8.102909661702597,
-					-4.419768906383069
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				8.102909661702597,
-				-4.419768906383069
-			]
-		},
-		{
-			"id": "V3Ave2xtxXDC5LtmKlyWw",
-			"type": "freedraw",
-			"x": 155.94712776494816,
-			"y": -4870.196440182039,
-			"width": 75.8726995595789,
-			"height": 13.995934870214114,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "af",
-			"roundness": null,
-			"seed": 579806781,
-			"version": 39,
-			"versionNonce": 1570263581,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937710,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.7366281510638828,
-					0
-				],
-				[
-					2.2098844531915347,
-					0
-				],
-				[
-					6.6296533595748315,
-					1.473256302127993
-				],
-				[
-					13.995934870213546,
-					0
-				],
-				[
-					22.835472682980026,
-					-4.419768906383069
-				],
-				[
-					27.25524158936321,
-					-7.366281510639055
-				],
-				[
-					30.938382344682623,
-					-11.786050417022125
-				],
-				[
-					31.675010495746506,
-					-12.522678568086121
-				],
-				[
-					31.675010495746506,
-					-8.839537812767048
-				],
-				[
-					32.41163864681039,
-					-5.893025208511062
-				],
-				[
-					33.14826679787427,
-					-4.419768906383069
-				],
-				[
-					35.358151251065806,
-					-4.419768906383069
-				],
-				[
-					38.30466385532134,
-					-5.893025208511062
-				],
-				[
-					40.514548308512985,
-					-8.839537812767048
-				],
-				[
-					41.98780461064075,
-					-9.576165963830135
-				],
-				[
-					42.724432761704634,
-					-10.312794114894132
-				],
-				[
-					44.197689063832286,
-					-8.839537812767048
-				],
-				[
-					47.14420166808782,
-					-6.629653359575059
-				],
-				[
-					51.563970574471114,
-					-5.156397057447066
-				],
-				[
-					55.247111329790414,
-					-5.156397057447066
-				],
-				[
-					58.193623934045945,
-					-5.156397057447066
-				],
-				[
-					58.93025208510983,
-					-5.893025208511062
-				],
-				[
-					61.14013653830136,
-					-8.102909661703052
-				],
-				[
-					61.876764689365245,
-					-7.366281510639055
-				],
-				[
-					63.35002099149301,
-					-7.366281510639055
-				],
-				[
-					64.0866491425569,
-					-7.366281510639055
-				],
-				[
-					64.82327729362078,
-					-7.366281510639055
-				],
-				[
-					67.76978989787631,
-					-8.839537812767048
-				],
-				[
-					72.18955880425949,
-					-11.049422265958128
-				],
-				[
-					73.66281510638726,
-					-12.522678568086121
-				],
-				[
-					73.66281510638726,
-					-11.786050417022125
-				],
-				[
-					73.66281510638726,
-					-11.049422265958128
-				],
-				[
-					74.39944325745114,
-					-11.049422265958128
-				],
-				[
-					75.8726995595789,
-					-11.786050417022125
-				],
-				[
-					75.8726995595789,
-					-11.786050417022125
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				75.8726995595789,
-				-11.786050417022125
-			]
-		},
-		{
-			"id": "Fd8kay8A0MTopvbpcaVsD",
-			"type": "freedraw",
-			"x": 256.86518446069874,
-			"y": -4928.390064116084,
-			"width": 18.415703776596843,
-			"height": 76.60932771064199,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "ag",
-			"roundness": null,
-			"seed": 1085026355,
-			"version": 19,
-			"versionNonce": 731353533,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937678,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1.4732563021277656,
-					3.683140755319073
-				],
-				[
-					-2.946512604255531,
-					8.102909661702142
-				],
-				[
-					-2.2098844531916484,
-					13.995934870213205
-				],
-				[
-					-4.419768906383297,
-					21.36221638085226
-				],
-				[
-					-5.893025208511062,
-					32.41163864681039
-				],
-				[
-					-5.893025208511062,
-					45.6709453659596
-				],
-				[
-					-5.893025208511062,
-					56.720367631917725
-				],
-				[
-					-1.4732563021277656,
-					66.29653359574786
-				],
-				[
-					5.156397057447066,
-					73.66281510638692
-				],
-				[
-					11.049422265958015,
-					76.60932771064199
-				],
-				[
-					12.52267856808578,
-					76.60932771064199
-				],
-				[
-					12.52267856808578,
-					75.8726995595789
-				],
-				[
-					12.52267856808578,
-					74.39944325745091
-				],
-				[
-					12.52267856808578,
-					71.45293065319493
-				],
-				[
-					12.52267856808578,
-					71.45293065319493
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				12.52267856808578,
-				71.45293065319493
-			]
-		},
-		{
-			"id": "Rfop9SQJQwG1M3aBF9cm8",
-			"type": "freedraw",
-			"x": 320.21520545219175,
-			"y": -4934.2830893245955,
-			"width": 15.469191172341311,
-			"height": 56.720367631917725,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "ah",
-			"roundness": null,
-			"seed": 1961979613,
-			"version": 18,
-			"versionNonce": 1399735645,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937646,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.4732563021277656,
-					0
-				],
-				[
-					2.946512604255531,
-					0
-				],
-				[
-					8.83953781276648,
-					4.419768906383069
-				],
-				[
-					13.259306719149777,
-					11.786050417021215
-				],
-				[
-					14.732563021277429,
-					16.94244747446919
-				],
-				[
-					15.469191172341311,
-					26.518613438299326
-				],
-				[
-					15.469191172341311,
-					38.30466385532145
-				],
-				[
-					15.469191172341311,
-					47.880829819151586
-				],
-				[
-					12.522678568085894,
-					53.77385502766265
-				],
-				[
-					12.522678568085894,
-					56.720367631917725
-				],
-				[
-					11.049422265958128,
-					55.98373948085373
-				],
-				[
-					11.049422265958128,
-					55.24711132978973
-				],
-				[
-					11.049422265958128,
-					54.510483178726645
-				],
-				[
-					11.049422265958128,
-					54.510483178726645
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				11.049422265958128,
-				54.510483178726645
-			]
-		},
-		{
-			"id": "UiTxTo3bzfbRaUQ4jTNim",
-			"type": "freedraw",
-			"x": 281.17391344580653,
-			"y": -4858.410389765017,
-			"width": 13.995934870213546,
-			"height": 5.893025208511062,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "ai",
-			"roundness": null,
-			"seed": 1265398643,
-			"version": 12,
-			"versionNonce": 2012933373,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937616,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.2098844531916484,
-					0
-				],
-				[
-					4.419768906383183,
-					-0.7366281510639965
-				],
-				[
-					10.312794114894245,
-					-2.946512604255986
-				],
-				[
-					13.259306719149663,
-					-5.156397057447066
-				],
-				[
-					13.995934870213546,
-					-5.893025208511062
-				],
-				[
-					11.786050417021897,
-					-5.156397057447066
-				],
-				[
-					11.049422265958015,
-					-2.946512604255986
-				],
-				[
-					11.049422265958015,
-					-2.946512604255986
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				11.049422265958015,
-				-2.946512604255986
-			]
-		},
-		{
-			"id": "VBTvmK3IkTEJOegFLeQiU",
-			"type": "freedraw",
-			"x": 284.12042605006195,
-			"y": -4851.044108254378,
-			"width": 26.51861343829944,
-			"height": 7.366281510638146,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "aj",
-			"roundness": null,
-			"seed": 448919805,
-			"version": 9,
-			"versionNonce": 1441532061,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937584,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					11.049422265958128,
-					-2.20988445319108
-				],
-				[
-					16.942447474469077,
-					-3.683140755319073
-				],
-				[
-					22.098844531916257,
-					-4.419768906383069
-				],
-				[
-					26.51861343829944,
-					-7.366281510638146
-				],
-				[
-					26.51861343829944,
-					-7.366281510638146
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				26.51861343829944,
-				-7.366281510638146
-			]
-		},
-		{
-			"id": "Qne9LmzN6nIpRx3xcGr-q",
-			"type": "freedraw",
-			"x": 200.88144497984433,
-			"y": -4784.74757465863,
-			"width": 41.98780461064075,
-			"height": 41.98780461064143,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "ak",
-			"roundness": null,
-			"seed": 1001090045,
-			"version": 39,
-			"versionNonce": 1035999293,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937538,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.4732563021277656,
-					4.419768906383069
-				],
-				[
-					2.2098844531916484,
-					8.102909661703052
-				],
-				[
-					4.419768906383297,
-					12.522678568086121
-				],
-				[
-					5.893025208511062,
-					16.94244747446919
-				],
-				[
-					8.102909661702597,
-					25.78198528723533
-				],
-				[
-					8.83953781276648,
-					31.675010495746392
-				],
-				[
-					10.312794114894245,
-					33.88489494893838
-				],
-				[
-					10.312794114894245,
-					34.62152310000238
-				],
-				[
-					10.312794114894245,
-					31.675010495746392
-				],
-				[
-					8.102909661702597,
-					25.78198528723533
-				],
-				[
-					6.629653359574945,
-					16.94244747446919
-				],
-				[
-					4.419768906383297,
-					8.102909661703052
-				],
-				[
-					3.683140755319414,
-					2.2098844531919895
-				],
-				[
-					3.683140755319414,
-					-1.473256302127993
-				],
-				[
-					4.419768906383297,
-					-3.683140755319073
-				],
-				[
-					5.15639705744718,
-					-3.683140755319073
-				],
-				[
-					5.15639705744718,
-					-4.419768906383069
-				],
-				[
-					8.102909661702597,
-					-4.419768906383069
-				],
-				[
-					13.259306719149777,
-					-5.893025208511062
-				],
-				[
-					22.098844531916257,
-					-5.893025208511062
-				],
-				[
-					33.14826679787427,
-					-6.629653359575059
-				],
-				[
-					39.04129200638533,
-					-6.629653359575059
-				],
-				[
-					39.04129200638533,
-					-7.366281510639055
-				],
-				[
-					39.777920157449216,
-					-7.366281510639055
-				],
-				[
-					40.5145483085131,
-					-3.683140755319073
-				],
-				[
-					41.25117645957687,
-					0.7366281510639965
-				],
-				[
-					41.98780461064075,
-					5.156397057447066
-				],
-				[
-					41.98780461064075,
-					9.576165963830135
-				],
-				[
-					41.98780461064075,
-					10.312794114894132
-				],
-				[
-					40.5145483085131,
-					10.312794114894132
-				],
-				[
-					33.14826679787427,
-					10.312794114894132
-				],
-				[
-					24.30872898510779,
-					12.522678568086121
-				],
-				[
-					18.415703776596843,
-					13.995934870214114
-				],
-				[
-					16.942447474469077,
-					13.995934870214114
-				],
-				[
-					16.942447474469077,
-					13.995934870214114
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				16.942447474469077,
-				13.995934870214114
-			]
-		},
-		{
-			"id": "TJnieFFri970n_3h1pX6y",
-			"type": "freedraw",
-			"x": 164.78666557771464,
-			"y": -4825.998751118206,
-			"width": 45.67094536596005,
-			"height": 15.469191172341198,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "al",
-			"roundness": null,
-			"seed": 1629830771,
-			"version": 20,
-			"versionNonce": 1304796125,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937505,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.7366281510638828,
-					0
-				],
-				[
-					4.419768906383183,
-					-0.7366281510639965
-				],
-				[
-					10.312794114894132,
-					-2.946512604255986
-				],
-				[
-					18.41570377659673,
-					-5.156397057447066
-				],
-				[
-					23.57210083404391,
-					-6.629653359575059
-				],
-				[
-					30.20175419361874,
-					-6.629653359575059
-				],
-				[
-					32.41163864681039,
-					-6.629653359575059
-				],
-				[
-					34.62152310000204,
-					-6.629653359575059
-				],
-				[
-					36.09477940212969,
-					-5.156397057447066
-				],
-				[
-					39.04129200638522,
-					-1.473256302127993
-				],
-				[
-					42.724432761704634,
-					2.9465126042550764
-				],
-				[
-					44.93431721489617,
-					5.156397057447066
-				],
-				[
-					45.67094536596005,
-					6.629653359574149
-				],
-				[
-					44.93431721489617,
-					8.102909661702142
-				],
-				[
-					41.25117645957687,
-					8.839537812766139
-				],
-				[
-					41.25117645957687,
-					8.839537812766139
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				41.25117645957687,
-				8.839537812766139
-			]
-		},
-		{
-			"id": "Gr7y7hJ9tomGAzaSnZSJU",
-			"type": "freedraw",
-			"x": 203.82795758409986,
-			"y": -4814.949328852248,
-			"width": 13.259306719149663,
-			"height": 7.366281510639055,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "am",
-			"roundness": null,
-			"seed": 154767613,
-			"version": 16,
-			"versionNonce": 1813713789,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937478,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.2098844531916484,
-					-1.473256302127993
-				],
-				[
-					2.946512604255531,
-					-1.473256302127993
-				],
-				[
-					5.893025208510949,
-					-1.473256302127993
-				],
-				[
-					7.366281510638714,
-					-1.473256302127993
-				],
-				[
-					8.102909661702597,
-					0
-				],
-				[
-					8.102909661702597,
-					0.7366281510639965
-				],
-				[
-					8.83953781276648,
-					0.7366281510639965
-				],
-				[
-					11.049422265958128,
-					-2.2098844531919895
-				],
-				[
-					11.786050417022011,
-					-4.419768906383979
-				],
-				[
-					13.259306719149663,
-					-5.893025208511062
-				],
-				[
-					13.259306719149663,
-					-6.629653359575059
-				],
-				[
-					13.259306719149663,
-					-6.629653359575059
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				13.259306719149663,
-				-6.629653359575059
-			]
-		},
-		{
-			"id": "YfQ1V7jEJ8l_e3qqlCYza",
-			"type": "freedraw",
-			"x": 218.5605206053773,
-			"y": -4780.327805752247,
-			"width": 58.193623934045945,
-			"height": 13.259306719150118,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "an",
-			"roundness": null,
-			"seed": 508488723,
-			"version": 20,
-			"versionNonce": 11468573,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937443,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3.683140755319414,
-					0.7366281510639965
-				],
-				[
-					5.893025208511062,
-					2.2098844531919895
-				],
-				[
-					7.366281510638714,
-					3.6831407553199824
-				],
-				[
-					13.259306719149777,
-					6.629653359575059
-				],
-				[
-					13.99593487021366,
-					6.629653359575059
-				],
-				[
-					18.415703776596843,
-					8.102909661703052
-				],
-				[
-					24.30872898510779,
-					8.839537812767048
-				],
-				[
-					33.14826679787427,
-					8.102909661703052
-				],
-				[
-					50.09071427234335,
-					5.156397057447066
-				],
-				[
-					56.72036763191829,
-					2.946512604255986
-				],
-				[
-					58.193623934045945,
-					2.2098844531919895
-				],
-				[
-					58.193623934045945,
-					0.7366281510639965
-				],
-				[
-					55.98373948085441,
-					-1.4732563021270835
-				],
-				[
-					55.24711132979053,
-					-2.9465126042550764
-				],
-				[
-					53.77385502766276,
-					-4.419768906383069
-				],
-				[
-					53.77385502766276,
-					-4.419768906383069
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				53.77385502766276,
-				-4.419768906383069
-			]
-		},
-		{
-			"id": "1vekwyzf6cfQOK7Odje2o",
-			"type": "freedraw",
-			"x": 268.65123487772064,
-			"y": -4786.957459111822,
-			"width": 11.049422265958128,
-			"height": 17.679075625533187,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "ao",
-			"roundness": null,
-			"seed": 1590867293,
-			"version": 19,
-			"versionNonce": 1866456765,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937412,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.7366281510638828,
-					0
-				],
-				[
-					1.4732563021277656,
-					0
-				],
-				[
-					6.629653359574945,
-					0.7366281510639965
-				],
-				[
-					9.576165963830363,
-					1.473256302127993
-				],
-				[
-					9.576165963830363,
-					2.946512604255986
-				],
-				[
-					11.049422265958128,
-					2.946512604255986
-				],
-				[
-					11.049422265958128,
-					4.419768906383979
-				],
-				[
-					11.049422265958128,
-					6.629653359575059
-				],
-				[
-					8.83953781276648,
-					11.786050417022125
-				],
-				[
-					5.893025208511062,
-					16.94244747446919
-				],
-				[
-					5.15639705744718,
-					17.679075625533187
-				],
-				[
-					4.419768906383297,
-					17.679075625533187
-				],
-				[
-					2.2098844531916484,
-					16.94244747446919
-				],
-				[
-					0.7366281510638828,
-					15.469191172342107
-				],
-				[
-					0.7366281510638828,
-					15.469191172342107
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.7366281510638828,
-				15.469191172342107
-			]
-		},
-		{
-			"id": "2YZfy_lLy0FJwy2XfawM1",
-			"type": "freedraw",
-			"x": 158.89364036920358,
-			"y": -4901.134822526721,
-			"width": 16.205819323405194,
-			"height": 20.625588229788264,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "ap",
-			"roundness": null,
-			"seed": 1565834899,
-			"version": 19,
-			"versionNonce": 1364996701,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937380,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					2.9465126042550764
-				],
-				[
-					0.7366281510638828,
-					3.683140755319073
-				],
-				[
-					3.683140755319414,
-					4.419768906383069
-				],
-				[
-					5.15639705744718,
-					5.156397057447066
-				],
-				[
-					5.893025208511062,
-					5.156397057447066
-				],
-				[
-					7.366281510638714,
-					5.893025208510153
-				],
-				[
-					8.102909661702597,
-					6.629653359574149
-				],
-				[
-					8.83953781276648,
-					10.312794114894132
-				],
-				[
-					8.83953781276648,
-					15.469191172341198
-				],
-				[
-					7.366281510638714,
-					19.15233192766027
-				],
-				[
-					6.629653359574945,
-					20.625588229788264
-				],
-				[
-					9.576165963830363,
-					17.679075625532278
-				],
-				[
-					13.99593487021366,
-					13.995934870213205
-				],
-				[
-					16.205819323405194,
-					12.522678568085212
-				],
-				[
-					16.205819323405194,
-					12.522678568085212
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				16.205819323405194,
-				12.522678568085212
-			]
-		},
-		{
-			"id": "nK4P22Z8ILYnpDMRhy9Lx",
-			"type": "freedraw",
-			"x": 208.98435464154693,
-			"y": -4924.706923360765,
-			"width": 19.888960078724494,
-			"height": 31.675010495746392,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "aq",
-			"roundness": null,
-			"seed": 307905149,
-			"version": 23,
-			"versionNonce": 1885501949,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937348,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.7366281510638828,
-					0
-				],
-				[
-					-4.419768906383183,
-					0.7366281510639965
-				],
-				[
-					-8.83953781276648,
-					2.20988445319108
-				],
-				[
-					-11.049422265958015,
-					3.683140755319073
-				],
-				[
-					-13.259306719149663,
-					5.893025208511062
-				],
-				[
-					-13.995934870213546,
-					6.629653359575059
-				],
-				[
-					-13.995934870213546,
-					7.366281510639055
-				],
-				[
-					-13.995934870213546,
-					8.839537812766139
-				],
-				[
-					-11.049422265958015,
-					11.049422265958128
-				],
-				[
-					-7.366281510638714,
-					13.259306719149208
-				],
-				[
-					-3.6831407553193003,
-					15.469191172341198
-				],
-				[
-					-1.473256302127652,
-					16.94244747446919
-				],
-				[
-					-1.473256302127652,
-					18.415703776596274
-				],
-				[
-					-2.2098844531915347,
-					19.888960078724267
-				],
-				[
-					-7.366281510638714,
-					23.57210083404425
-				],
-				[
-					-16.205819323405194,
-					27.99186974042732
-				],
-				[
-					-19.15233192766061,
-					30.938382344682395
-				],
-				[
-					-19.888960078724494,
-					31.675010495746392
-				],
-				[
-					-19.888960078724494,
-					31.675010495746392
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-19.888960078724494,
-				31.675010495746392
-			]
-		},
-		{
-			"id": "7SZ8pAheQpDqlvOt9Ge1P",
-			"type": "freedraw",
-			"x": 245.8157621947406,
-			"y": -4970.377868726726,
-			"width": 37.56803570425757,
-			"height": 41.98780461064143,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "ar",
-			"roundness": null,
-			"seed": 1029694963,
-			"version": 26,
-			"versionNonce": 2139174301,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937317,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.2098844531916484,
-					0
-				],
-				[
-					2.946512604255531,
-					0
-				],
-				[
-					4.419768906383183,
-					0
-				],
-				[
-					6.6296533595748315,
-					1.473256302127993
-				],
-				[
-					9.576165963830363,
-					2.2098844531919895
-				],
-				[
-					13.995934870213546,
-					3.6831407553199824
-				],
-				[
-					15.469191172341311,
-					5.156397057447066
-				],
-				[
-					16.942447474469077,
-					5.893025208511062
-				],
-				[
-					19.152331927660725,
-					8.102909661703052
-				],
-				[
-					20.62558822978849,
-					8.839537812767048
-				],
-				[
-					21.36221638085226,
-					9.576165963831045
-				],
-				[
-					23.57210083404391,
-					13.259306719150118
-				],
-				[
-					25.045357136171674,
-					14.73256302127811
-				],
-				[
-					26.51861343829944,
-					18.415703776597184
-				],
-				[
-					29.46512604255497,
-					24.308728985108246
-				],
-				[
-					33.884894948938154,
-					30.938382344683305
-				],
-				[
-					36.0947794021298,
-					36.09477940213037
-				],
-				[
-					37.56803570425757,
-					38.30466385532145
-				],
-				[
-					37.56803570425757,
-					39.04129200638545
-				],
-				[
-					35.35815125106592,
-					40.51454830851344
-				],
-				[
-					33.14826679787427,
-					41.98780461064143
-				],
-				[
-					33.14826679787427,
-					41.98780461064143
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				33.14826679787427,
-				41.98780461064143
-			]
-		},
-		{
-			"id": "17pO9ttlMjUzRo2Lkcg86",
-			"type": "freedraw",
-			"x": 271.59774748197617,
-			"y": -4925.443551511829,
-			"width": 20.625588229788377,
-			"height": 13.259306719149208,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "as",
-			"roundness": null,
-			"seed": 376831933,
-			"version": 19,
-			"versionNonce": 364307773,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937285,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3.683140755319414,
-					0
-				],
-				[
-					5.156397057447066,
-					0
-				],
-				[
-					7.366281510638714,
-					2.2098844531919895
-				],
-				[
-					8.83953781276648,
-					2.9465126042550764
-				],
-				[
-					9.576165963830363,
-					3.683140755319073
-				],
-				[
-					10.312794114894245,
-					3.683140755319073
-				],
-				[
-					11.049422265958128,
-					4.419768906383069
-				],
-				[
-					11.786050417022011,
-					4.419768906383069
-				],
-				[
-					13.995934870213546,
-					2.2098844531919895
-				],
-				[
-					16.942447474469077,
-					-2.2098844531919895
-				],
-				[
-					18.415703776596843,
-					-5.156397057447066
-				],
-				[
-					20.625588229788377,
-					-8.839537812766139
-				],
-				[
-					19.888960078724608,
-					-6.629653359575059
-				],
-				[
-					18.415703776596843,
-					-5.156397057447066
-				],
-				[
-					18.415703776596843,
-					-5.156397057447066
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				18.415703776596843,
-				-5.156397057447066
-			]
-		},
-		{
-			"id": "D1-lBT_a4qa1-Aizprrmf",
-			"type": "freedraw",
-			"x": 276.75414453942324,
-			"y": -4891.558656562891,
-			"width": 19.888960078724608,
-			"height": 8.102909661703052,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "at",
-			"roundness": null,
-			"seed": 215225907,
-			"version": 10,
-			"versionNonce": 1741818077,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937240,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.2098844531916484,
-					0
-				],
-				[
-					7.366281510638714,
-					-1.473256302127993
-				],
-				[
-					12.522678568085894,
-					-2.2098844531919895
-				],
-				[
-					19.152331927660725,
-					-7.366281510639055
-				],
-				[
-					19.888960078724608,
-					-8.102909661703052
-				],
-				[
-					19.888960078724608,
-					-8.102909661703052
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				19.888960078724608,
-				-8.102909661703052
-			]
-		},
-		{
-			"id": "udy0pnfn5xE7NqAvyyVhk",
-			"type": "freedraw",
-			"x": 284.12042605006195,
-			"y": -4890.822028411827,
-			"width": 8.83953781276648,
-			"height": 4.419768906383979,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "au",
-			"roundness": null,
-			"seed": 1217777021,
-			"version": 9,
-			"versionNonce": 1114710141,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937207,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.946512604255531,
-					-1.473256302127993
-				],
-				[
-					5.893025208511062,
-					-2.946512604255986
-				],
-				[
-					6.629653359574945,
-					-2.946512604255986
-				],
-				[
-					8.83953781276648,
-					-4.419768906383979
-				],
-				[
-					8.83953781276648,
-					-4.419768906383979
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				8.83953781276648,
-				-4.419768906383979
-			]
-		},
-		{
-			"id": "hTAtLnaTv0VCcYdEvUdNV",
-			"type": "freedraw",
-			"x": 298.8529890713395,
-			"y": -4991.740085107578,
-			"width": 1.4732563021277656,
-			"height": 22.835472682980253,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "av",
-			"roundness": null,
-			"seed": 1950863411,
-			"version": 13,
-			"versionNonce": 1141025821,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937176,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.7366281510638828,
-					2.946512604255986
-				],
-				[
-					0.7366281510638828,
-					5.156397057447066
-				],
-				[
-					0.7366281510638828,
-					6.629653359575059
-				],
-				[
-					0.7366281510638828,
-					8.839537812767048
-				],
-				[
-					0.7366281510638828,
-					12.522678568086121
-				],
-				[
-					0.7366281510638828,
-					16.94244747446919
-				],
-				[
-					1.4732563021277656,
-					20.625588229788264
-				],
-				[
-					1.4732563021277656,
-					22.835472682980253
-				],
-				[
-					1.4732563021277656,
-					22.835472682980253
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				1.4732563021277656,
-				22.835472682980253
-			]
-		},
-		{
-			"id": "TLbIhQ01lIwZOsB_SaJxd",
-			"type": "freedraw",
-			"x": 322.4250899053834,
-			"y": -4996.159854013961,
-			"width": 10.312794114894132,
-			"height": 24.308728985108246,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "aw",
-			"roundness": null,
-			"seed": 1992403101,
-			"version": 28,
-			"versionNonce": 1455762365,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937145,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1.4732563021277656,
-					2.946512604255986
-				],
-				[
-					-2.946512604255531,
-					5.893025208511062
-				],
-				[
-					-4.419768906383297,
-					9.576165963830135
-				],
-				[
-					-5.156397057447066,
-					14.732563021277201
-				],
-				[
-					-5.156397057447066,
-					17.679075625533187
-				],
-				[
-					-5.156397057447066,
-					19.888960078724267
-				],
-				[
-					-5.156397057447066,
-					20.625588229788264
-				],
-				[
-					-2.2098844531916484,
-					22.098844531916257
-				],
-				[
-					-0.7366281510638828,
-					23.57210083404425
-				],
-				[
-					1.4732563021277656,
-					24.308728985108246
-				],
-				[
-					4.419768906383183,
-					24.308728985108246
-				],
-				[
-					5.156397057447066,
-					24.308728985108246
-				],
-				[
-					5.156397057447066,
-					23.57210083404425
-				],
-				[
-					5.156397057447066,
-					21.36221638085226
-				],
-				[
-					5.156397057447066,
-					20.625588229788264
-				],
-				[
-					5.156397057447066,
-					18.415703776597184
-				],
-				[
-					5.156397057447066,
-					16.94244747446919
-				],
-				[
-					4.419768906383183,
-					16.94244747446919
-				],
-				[
-					4.419768906383183,
-					16.205819323405194
-				],
-				[
-					2.2098844531916484,
-					16.205819323405194
-				],
-				[
-					-2.2098844531916484,
-					20.625588229788264
-				],
-				[
-					-4.419768906383297,
-					22.835472682980253
-				],
-				[
-					-4.419768906383297,
-					23.57210083404425
-				],
-				[
-					-4.419768906383297,
-					23.57210083404425
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-4.419768906383297,
-				23.57210083404425
-			]
-		},
-		{
-			"id": "moUfdXC4jsEpROJeEWc7N",
-			"type": "freedraw",
-			"x": 362.2030100628325,
-			"y": -4927.653435965021,
-			"width": 19.152331927660725,
-			"height": 0.736628151063087,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "ax",
-			"roundness": null,
-			"seed": 45957619,
-			"version": 11,
-			"versionNonce": 1791434589,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937114,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					5.15639705744718,
-					0
-				],
-				[
-					12.522678568085894,
-					0
-				],
-				[
-					16.942447474469077,
-					0
-				],
-				[
-					18.415703776596843,
-					0
-				],
-				[
-					19.152331927660725,
-					0
-				],
-				[
-					19.152331927660725,
-					-0.736628151063087
-				],
-				[
-					19.152331927660725,
-					-0.736628151063087
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				19.152331927660725,
-				-0.736628151063087
-			]
-		},
-		{
-			"id": "cxtAGGPUJkcXyYlHlm0fx",
-			"type": "freedraw",
-			"x": 364.41289451602415,
-			"y": -4942.385998986299,
-			"width": 21.36221638085226,
-			"height": 25.78198528723533,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "ay",
-			"roundness": null,
-			"seed": 707083805,
-			"version": 18,
-			"versionNonce": 1877411581,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937083,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					8.83953781276648,
-					4.419768906383069
-				],
-				[
-					11.049422265958128,
-					5.893025208511062
-				],
-				[
-					15.469191172341311,
-					6.629653359575059
-				],
-				[
-					19.152331927660725,
-					7.366281510639055
-				],
-				[
-					21.36221638085226,
-					7.366281510639055
-				],
-				[
-					20.625588229788377,
-					10.312794114894132
-				],
-				[
-					17.67907562553296,
-					13.995934870214114
-				],
-				[
-					11.049422265958128,
-					21.36221638085226
-				],
-				[
-					8.83953781276648,
-					24.308728985108246
-				],
-				[
-					8.83953781276648,
-					25.045357136172242
-				],
-				[
-					8.102909661702597,
-					25.045357136172242
-				],
-				[
-					8.102909661702597,
-					25.78198528723533
-				],
-				[
-					8.102909661702597,
-					24.308728985108246
-				],
-				[
-					8.102909661702597,
-					24.308728985108246
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				8.102909661702597,
-				24.308728985108246
-			]
-		},
-		{
-			"id": "lYyO9dsGnf0D6t7BjgWMZ",
-			"type": "freedraw",
-			"x": 401.9809302202816,
-			"y": -4940.912742684171,
-			"width": 16.942447474469077,
-			"height": 20.625588229788264,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "az",
-			"roundness": null,
-			"seed": 1292810291,
-			"version": 24,
-			"versionNonce": 265511581,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436937051,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					0.7366281510639965
-				],
-				[
-					-0.7366281510637691,
-					3.683140755319073
-				],
-				[
-					-0.7366281510637691,
-					7.366281510639055
-				],
-				[
-					-1.473256302127652,
-					10.312794114894132
-				],
-				[
-					-1.473256302127652,
-					11.786050417022125
-				],
-				[
-					-1.473256302127652,
-					12.522678568086121
-				],
-				[
-					-0.7366281510637691,
-					12.522678568086121
-				],
-				[
-					1.4732563021277656,
-					12.522678568086121
-				],
-				[
-					6.629653359574945,
-					7.366281510639055
-				],
-				[
-					9.576165963830363,
-					3.683140755319073
-				],
-				[
-					11.786050417022011,
-					0.7366281510639965
-				],
-				[
-					13.99593487021366,
-					-1.473256302127993
-				],
-				[
-					14.732563021277542,
-					-0.7366281510639965
-				],
-				[
-					15.469191172341425,
-					3.683140755319073
-				],
-				[
-					15.469191172341425,
-					8.102909661702142
-				],
-				[
-					14.732563021277542,
-					12.522678568086121
-				],
-				[
-					13.259306719149777,
-					16.205819323405194
-				],
-				[
-					13.259306719149777,
-					18.415703776596274
-				],
-				[
-					13.259306719149777,
-					19.15233192766027
-				],
-				[
-					13.259306719149777,
-					19.15233192766027
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				13.259306719149777,
-				19.15233192766027
-			]
-		},
-		{
-			"id": "hqhasZGI-sl6_xZCiCOsk",
-			"type": "freedraw",
-			"x": -269.8239435499704,
-			"y": -4835.574917082037,
-			"width": 22.0988445319162,
-			"height": 17.679075625532278,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b00",
-			"roundness": null,
-			"seed": 1075805373,
-			"version": 14,
-			"versionNonce": 671789629,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436936542,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.7366281510638828,
-					0.7366281510639965
-				],
-				[
-					1.4732563021277656,
-					2.2098844531919895
-				],
-				[
-					1.4732563021277656,
-					3.6831407553199824
-				],
-				[
-					2.2098844531916484,
-					5.156397057447066
-				],
-				[
-					3.683140755319414,
-					5.156397057447066
-				],
-				[
-					10.312794114894245,
-					-1.4732563021270835
-				],
-				[
-					18.415703776596843,
-					-8.839537812766139
-				],
-				[
-					21.362216380852345,
-					-11.786050417021215
-				],
-				[
-					22.0988445319162,
-					-12.522678568085212
-				],
-				[
-					22.0988445319162,
-					-12.522678568085212
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				22.0988445319162,
-				-12.522678568085212
-			]
-		},
-		{
-			"id": "2QOTzYHu1HHuEJthN1RRQ",
-			"type": "freedraw",
-			"x": -266.140802794651,
-			"y": -4823.788866665015,
-			"width": 15.469191172341311,
-			"height": 7.366281510639055,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b01",
-			"roundness": null,
-			"seed": 84088083,
-			"version": 15,
-			"versionNonce": 64714205,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436936350,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.7366281510638828,
-					0.7366281510639965
-				],
-				[
-					2.9465126042554743,
-					1.473256302127993
-				],
-				[
-					5.156397057447066,
-					2.946512604255986
-				],
-				[
-					5.156397057447066,
-					3.6831407553199824
-				],
-				[
-					5.893025208510949,
-					3.6831407553199824
-				],
-				[
-					6.6296533595748315,
-					3.6831407553199824
-				],
-				[
-					9.576165963830363,
-					2.2098844531919895
-				],
-				[
-					11.786050417021926,
-					0.7366281510639965
-				],
-				[
-					14.732563021277429,
-					-2.9465126042550764
-				],
-				[
-					15.469191172341311,
-					-3.683140755319073
-				],
-				[
-					15.469191172341311,
-					-3.683140755319073
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				15.469191172341311,
-				-3.683140755319073
-			]
-		},
-		{
-			"id": "Bu9NXIJ1t0QPmsDhnpgTN",
-			"type": "freedraw",
-			"x": -265.4041746435871,
-			"y": -4798.00688137778,
-			"width": 19.888960078724523,
-			"height": 8.839537812766139,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b02",
-			"roundness": null,
-			"seed": 1365052029,
-			"version": 12,
-			"versionNonce": 1449405821,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436936117,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.736628151063826,
-					0
-				],
-				[
-					2.9465126042554175,
-					-0.736628151063087
-				],
-				[
-					8.83953781276648,
-					-2.20988445319108
-				],
-				[
-					14.732563021277429,
-					-5.156397057447066
-				],
-				[
-					18.415703776596786,
-					-7.366281510638146
-				],
-				[
-					19.15233192766067,
-					-8.839537812766139
-				],
-				[
-					19.888960078724523,
-					-8.839537812766139
-				],
-				[
-					19.888960078724523,
-					-8.839537812766139
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				19.888960078724523,
-				-8.839537812766139
-			]
-		},
-		{
-			"id": "FyM11SNSULDc2mDZV8eQC",
-			"type": "freedraw",
-			"x": 43.243020652175574,
-			"y": -4831.155148175653,
-			"width": 21.362216380852374,
-			"height": 16.205819323405194,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b03",
-			"roundness": null,
-			"seed": 1489605043,
-			"version": 16,
-			"versionNonce": 1955813661,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436935917,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.7366281510638828,
-					0
-				],
-				[
-					1.4732563021277656,
-					0
-				],
-				[
-					2.2098844531916484,
-					1.4732563021270835
-				],
-				[
-					2.946512604255531,
-					2.20988445319108
-				],
-				[
-					3.683140755319414,
-					2.20988445319108
-				],
-				[
-					5.893025208510949,
-					2.20988445319108
-				],
-				[
-					8.83953781276648,
-					0
-				],
-				[
-					15.469191172341311,
-					-5.893025208511062
-				],
-				[
-					19.152331927660725,
-					-11.049422265958128
-				],
-				[
-					21.362216380852374,
-					-13.259306719150118
-				],
-				[
-					21.362216380852374,
-					-13.995934870214114
-				],
-				[
-					21.362216380852374,
-					-13.995934870214114
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				21.362216380852374,
-				-13.995934870214114
-			]
-		},
-		{
-			"id": "5JoehNId54WGf20ghSt_M",
-			"type": "freedraw",
-			"x": 56.50232737132524,
-			"y": -4840.731314139484,
-			"width": 13.99593487021366,
-			"height": 7.366281510639055,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b04",
-			"roundness": null,
-			"seed": 147122237,
-			"version": 15,
-			"versionNonce": 1327986877,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436935734,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.2098844531916484,
-					2.2098844531919895
-				],
-				[
-					3.683140755319414,
-					5.156397057447066
-				],
-				[
-					3.683140755319414,
-					6.629653359575059
-				],
-				[
-					3.683140755319414,
-					7.366281510639055
-				],
-				[
-					5.893025208511062,
-					7.366281510639055
-				],
-				[
-					7.366281510638828,
-					5.893025208511062
-				],
-				[
-					11.049422265958128,
-					3.6831407553199824
-				],
-				[
-					13.259306719149777,
-					2.2098844531919895
-				],
-				[
-					13.99593487021366,
-					1.473256302127993
-				],
-				[
-					13.99593487021366,
-					0.7366281510639965
-				],
-				[
-					13.99593487021366,
-					0.7366281510639965
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				13.99593487021366,
-				0.7366281510639965
-			]
-		},
-		{
-			"id": "-IYTB9uERUDdR8lpgKp8T",
-			"type": "freedraw",
-			"x": 24.82731687557873,
-			"y": -4826.73537926927,
-			"width": 1.4732563021277656,
-			"height": 0.7366281510639965,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b05",
-			"roundness": null,
-			"seed": 1239529267,
-			"version": 6,
-			"versionNonce": 749669469,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436935558,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.4732563021277656,
-					-0.7366281510639965
-				],
-				[
-					1.4732563021277656,
-					-0.7366281510639965
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				1.4732563021277656,
-				-0.7366281510639965
-			]
-		},
-		{
-			"id": "3FooYCf-xkQVcIlHOSq0e",
-			"type": "freedraw",
-			"x": 27.773829479834262,
-			"y": -4829.681891873526,
-			"width": 0.0001,
-			"height": 0.0001,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b06",
-			"roundness": null,
-			"seed": 284402429,
-			"version": 5,
-			"versionNonce": 596153341,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436935374,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.0001,
-					0.0001
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.0001,
-				0.0001
-			]
-		},
-		{
-			"id": "hw3aJxIHCnWMM8KSrbOqL",
-			"type": "freedraw",
-			"x": -274.9803406074175,
-			"y": -4779.591177601183,
-			"width": 21.36221638085229,
-			"height": 15.469191172342107,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b07",
-			"roundness": null,
-			"seed": 857805875,
-			"version": 15,
-			"versionNonce": 1407356829,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436935213,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.7366281510638828,
-					0
-				],
-				[
-					1.4732563021277656,
-					0
-				],
-				[
-					2.9465126042554743,
-					1.473256302127993
-				],
-				[
-					3.683140755319357,
-					2.946512604255986
-				],
-				[
-					4.419768906383183,
-					2.946512604255986
-				],
-				[
-					8.83953781276648,
-					-1.473256302127993
-				],
-				[
-					16.205819323405194,
-					-8.839537812766139
-				],
-				[
-					19.88896007872455,
-					-11.786050417022125
-				],
-				[
-					21.36221638085229,
-					-11.786050417022125
-				],
-				[
-					21.36221638085229,
-					-12.522678568086121
-				],
-				[
-					21.36221638085229,
-					-12.522678568086121
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				21.36221638085229,
-				-12.522678568086121
-			]
-		},
-		{
-			"id": "WrzwbpleK9M4KwL4lKBTU",
-			"type": "freedraw",
-			"x": -12.74071882867878,
-			"y": -4809.056303643738,
-			"width": 41.251176459576925,
-			"height": 0.7366281510639965,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b08",
-			"roundness": null,
-			"seed": 2093965661,
-			"version": 36,
-			"versionNonce": 1639677757,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436935053,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.7366281510638828,
-					0
-				],
-				[
-					2.2098844531916484,
-					0
-				],
-				[
-					5.156397057447123,
-					0
-				],
-				[
-					7.366281510638771,
-					0
-				],
-				[
-					9.576165963830363,
-					0
-				],
-				[
-					13.25930671914972,
-					0
-				],
-				[
-					15.469191172341368,
-					0
-				],
-				[
-					18.415703776596843,
-					0
-				],
-				[
-					19.152331927660725,
-					0
-				],
-				[
-					19.888960078724608,
-					0
-				],
-				[
-					20.625588229788434,
-					0
-				],
-				[
-					21.362216380852317,
-					0
-				],
-				[
-					22.0988445319162,
-					0
-				],
-				[
-					22.835472682980082,
-					0
-				],
-				[
-					25.045357136171674,
-					-0.7366281510639965
-				],
-				[
-					25.781985287235557,
-					-0.7366281510639965
-				],
-				[
-					27.255241589363322,
-					-0.7366281510639965
-				],
-				[
-					27.991869740427205,
-					-0.7366281510639965
-				],
-				[
-					29.465126042554914,
-					-0.7366281510639965
-				],
-				[
-					30.201754193618797,
-					-0.7366281510639965
-				],
-				[
-					31.675010495746562,
-					-0.7366281510639965
-				],
-				[
-					33.14826679787433,
-					-0.7366281510639965
-				],
-				[
-					33.884894948938154,
-					-0.7366281510639965
-				],
-				[
-					35.35815125106592,
-					-0.7366281510639965
-				],
-				[
-					36.0947794021298,
-					-0.7366281510639965
-				],
-				[
-					36.831407553193685,
-					-0.7366281510639965
-				],
-				[
-					37.56803570425751,
-					-0.7366281510639965
-				],
-				[
-					38.304663855321394,
-					-0.7366281510639965
-				],
-				[
-					39.77792015744916,
-					-0.7366281510639965
-				],
-				[
-					40.51454830851304,
-					-0.7366281510639965
-				],
-				[
-					41.251176459576925,
-					-0.7366281510639965
-				],
-				[
-					41.251176459576925,
-					-0.7366281510639965
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				41.251176459576925,
-				-0.7366281510639965
-			]
-		},
-		{
-			"id": "Efwu5lzWUNNlwCNfjOLQ_",
-			"type": "freedraw",
-			"x": 71.23489039260278,
-			"y": -4810.529559945866,
-			"width": 24.30872898510779,
-			"height": 0.736628151063087,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b09",
-			"roundness": null,
-			"seed": 1546404403,
-			"version": 11,
-			"versionNonce": 786555613,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436934894,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.7366281510638828,
-					0
-				],
-				[
-					7.366281510638714,
-					0
-				],
-				[
-					15.469191172341311,
-					-0.736628151063087
-				],
-				[
-					22.098844531916143,
-					-0.736628151063087
-				],
-				[
-					23.57210083404391,
-					-0.736628151063087
-				],
-				[
-					24.30872898510779,
-					-0.736628151063087
-				],
-				[
-					24.30872898510779,
-					-0.736628151063087
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				24.30872898510779,
-				-0.736628151063087
-			]
-		},
-		{
-			"id": "KAuPSgI4EwNcbeAQDAspw",
-			"type": "freedraw",
-			"x": 37.96591103511713,
-			"y": -4774.443520697005,
-			"width": 13.778992316182553,
-			"height": 6.176789658978123,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b0A",
-			"roundness": null,
-			"seed": 199436765,
-			"version": 13,
-			"versionNonce": 1425291901,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436934725,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.4751376660752271,
-					0
-				],
-				[
-					3.325963662526817,
-					0
-				],
-				[
-					5.701651992903123,
-					-0.9502753321503405
-				],
-				[
-					10.928166319730963,
-					-3.325963662526192
-				],
-				[
-					13.303854650107269,
-					-5.2265143268277825
-				],
-				[
-					13.303854650107269,
-					-5.701651992902953
-				],
-				[
-					13.778992316182553,
-					-6.176789658978123
-				],
-				[
-					12.828716984032042,
-					-5.701651992902953
-				],
-				[
-					12.828716984032042,
-					-5.701651992902953
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				12.828716984032042,
-				-5.701651992902953
-			]
-		},
-		{
-			"id": "aZFefXPLzM0R3u6GrriuV",
-			"type": "freedraw",
-			"x": 46.99352669054707,
-			"y": -4775.393796029155,
-			"width": 12.828716984032042,
-			"height": 8.552477989354884,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b0B",
-			"roundness": null,
-			"seed": 1613036627,
-			"version": 12,
-			"versionNonce": 1600194077,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724436934550,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					0.4751376660751703
-				],
-				[
-					0.9502753321505111,
-					0.4751376660751703
-				],
-				[
-					3.325963662526817,
-					0.4751376660751703
-				],
-				[
-					7.127064991128918,
-					-2.3756883303758514
-				],
-				[
-					12.353579317956815,
-					-6.651927325053293
-				],
-				[
-					12.828716984032042,
-					-7.602202657203634
-				],
-				[
-					12.828716984032042,
-					-8.077340323279714
-				],
-				[
-					12.828716984032042,
-					-8.077340323279714
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				12.828716984032042,
-				-8.077340323279714
-			]
-		},
-		{
-			"id": "OGNu6K_HSHvo6dofhZcKe",
-			"type": "freedraw",
-			"x": 693.7691379178809,
-			"y": -4659.167763540594,
-			"width": 5.197887503434458,
-			"height": 0.5775430559369852,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b0d",
-			"roundness": null,
-			"seed": 1829002387,
-			"version": 8,
-			"versionNonce": 1698578269,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724437208054,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					4.620344447497246,
-					0
-				],
-				[
-					5.197887503434458,
-					0
-				],
-				[
-					5.197887503434458,
-					-0.5775430559369852
-				],
-				[
-					5.197887503434458,
-					-0.5775430559369852
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				5.197887503434458,
-				-0.5775430559369852
-			]
-		},
-		{
-			"id": "ZMAvyECmXNnqnJJx0rhWm",
-			"type": "freedraw",
-			"x": 743.4378407284757,
-			"y": -4681.691942722143,
-			"width": 27.144523629046034,
-			"height": 31.76486807654328,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b0e",
-			"roundness": null,
-			"seed": 1869525085,
-			"version": 32,
-			"versionNonce": 851584765,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724437207710,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1.1550861118741977,
-					0.5775430559369852
-				],
-				[
-					-2.887715279685608,
-					4.042801391559806
-				],
-				[
-					-4.042801391560033,
-					6.352973615308656
-				],
-				[
-					-4.620344447497132,
-					8.085602783120521
-				],
-				[
-					-4.620344447497132,
-					9.818231950931477
-				],
-				[
-					-4.042801391560033,
-					10.973318062806356
-				],
-				[
-					-1.7326291678114103,
-					12.705947230617312
-				],
-				[
-					4.042801391560033,
-					13.283490286554297
-				],
-				[
-					8.085602783120066,
-					13.861033342491282
-				],
-				[
-					10.973318062805902,
-					13.861033342491282
-				],
-				[
-					13.861033342491623,
-					13.861033342491282
-				],
-				[
-					14.438576398428722,
-					13.861033342491282
-				],
-				[
-					15.016119454365935,
-					13.861033342491282
-				],
-				[
-					15.016119454365935,
-					14.438576398429177
-				],
-				[
-					15.016119454365935,
-					16.748748622177118
-				],
-				[
-					15.016119454365935,
-					19.058920845925968
-				],
-				[
-					13.861033342491623,
-					20.791550013737833
-				],
-				[
-					10.973318062805902,
-					23.67926529342276
-				],
-				[
-					6.930516671245869,
-					26.566980573108594
-				],
-				[
-					2.310172223748623,
-					29.45469585279443
-				],
-				[
-					-0.5775430559370989,
-					30.60978196466931
-				],
-				[
-					-5.7754305593714435,
-					31.76486807654328
-				],
-				[
-					-8.663145839057165,
-					31.76486807654328
-				],
-				[
-					-10.973318062805788,
-					31.76486807654328
-				],
-				[
-					-12.1284041746801,
-					31.76486807654328
-				],
-				[
-					-10.39577500686869,
-					30.60978196466931
-				],
-				[
-					-6.352973615308656,
-					27.722066684983474
-				],
-				[
-					-6.352973615308656,
-					27.722066684983474
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-6.352973615308656,
-				27.722066684983474
-			]
-		},
-		{
-			"id": "_Tmoq2C_D_ebi2zAJ3b5H",
-			"type": "freedraw",
-			"x": 776.9353379728304,
-			"y": -4686.31228716964,
-			"width": 26.56698057310882,
-			"height": 17.326291678114103,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b0f",
-			"roundness": null,
-			"seed": 966956211,
-			"version": 27,
-			"versionNonce": 1469219485,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724437207526,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					4.620344447497246,
-					2.8877152796858354
-				],
-				[
-					5.197887503434345,
-					3.4652583356228206
-				],
-				[
-					5.197887503434345,
-					4.042801391559806
-				],
-				[
-					2.310172223748623,
-					6.930516671245641
-				],
-				[
-					-2.310172223748623,
-					8.085602783119612
-				],
-				[
-					-5.197887503434345,
-					8.663145839056597
-				],
-				[
-					-9.240688894994378,
-					8.663145839056597
-				],
-				[
-					-13.86103334249151,
-					6.352973615308656
-				],
-				[
-					-18.481377789988755,
-					4.620344447496791
-				],
-				[
-					-19.636463901863067,
-					4.042801391559806
-				],
-				[
-					-20.214006957800166,
-					3.4652583356228206
-				],
-				[
-					-20.214006957800166,
-					2.8877152796858354
-				],
-				[
-					-20.79155001373738,
-					1.7326291678109556
-				],
-				[
-					-21.369093069674477,
-					1.1550861118739704
-				],
-				[
-					-21.369093069674477,
-					0.5775430559369852
-				],
-				[
-					-21.369093069674477,
-					0
-				],
-				[
-					-19.636463901863067,
-					-2.3101722237488502
-				],
-				[
-					-16.171205566240133,
-					-4.6203444474977005
-				],
-				[
-					-10.39577500686869,
-					-7.508059727183536
-				],
-				[
-					-7.508059727182854,
-					-8.085602783120521
-				],
-				[
-					-4.620344447497246,
-					-8.663145839057506
-				],
-				[
-					-4.042801391560033,
-					-8.663145839057506
-				],
-				[
-					-4.042801391560033,
-					-8.663145839057506
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-4.042801391560033,
-				-8.663145839057506
-			]
-		},
-		{
-			"id": "P6BBHYEUggtpw6n9AR_6j",
-			"type": "freedraw",
-			"x": 771.159907413459,
-			"y": -4689.777545505262,
-			"width": 18.481377789988755,
-			"height": 15.593662510302238,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b0g",
-			"roundness": null,
-			"seed": 790377821,
-			"version": 16,
-			"versionNonce": 1093521981,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724437207336,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.1550861118741977,
-					1.1550861118739704
-				],
-				[
-					2.310172223748623,
-					2.8877152796858354
-				],
-				[
-					4.620344447497246,
-					4.620344447496791
-				],
-				[
-					6.352973615308656,
-					6.930516671245641
-				],
-				[
-					9.240688894994378,
-					8.663145839056597
-				],
-				[
-					13.28349028655441,
-					12.128404174679417
-				],
-				[
-					15.59366251030292,
-					14.438576398428268
-				],
-				[
-					17.326291678114444,
-					15.593662510302238
-				],
-				[
-					18.481377789988755,
-					15.593662510302238
-				],
-				[
-					15.59366251030292,
-					12.705947230617312
-				],
-				[
-					13.86103334249151,
-					10.395775006868462
-				],
-				[
-					13.86103334249151,
-					10.395775006868462
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				13.86103334249151,
-				10.395775006868462
-			]
-		},
-		{
-			"id": "jLlsVdXt0JODKnwnKtQjV",
-			"type": "freedraw",
-			"x": 785.5984838118877,
-			"y": -4693.242803840885,
-			"width": 0.5775430559370989,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b0h",
-			"roundness": null,
-			"seed": 1131537843,
-			"version": 6,
-			"versionNonce": 1256363485,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724437207142,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.5775430559370989,
-					0
-				],
-				[
-					0.5775430559370989,
-					0
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.5775430559370989,
-				0
-			]
-		},
-		{
-			"id": "7vnEWESKri8gdIJS4Cgy7",
-			"type": "freedraw",
-			"x": 788.4861990915734,
-			"y": -4698.44069134432,
-			"width": 6.930516671245755,
-			"height": 8.663145839057506,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b0i",
-			"roundness": null,
-			"seed": 68869245,
-			"version": 10,
-			"versionNonce": 936332669,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724437206942,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.1550861118743114,
-					2.3101722237488502
-				],
-				[
-					1.732629167811524,
-					2.8877152796858354
-				],
-				[
-					2.8877152796857217,
-					3.4652583356228206
-				],
-				[
-					6.930516671245755,
-					8.663145839057506
-				],
-				[
-					6.352973615308656,
-					7.508059727182626
-				],
-				[
-					6.352973615308656,
-					7.508059727182626
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				6.352973615308656,
-				7.508059727182626
-			]
-		},
-		{
-			"id": "4cXVPK-PK9eIDjed4q0V6",
-			"type": "freedraw",
-			"x": 788.4861990915734,
-			"y": -4699.595777456194,
-			"width": 16.748748622177345,
-			"height": 24.256808349359744,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b0j",
-			"roundness": null,
-			"seed": 1980478163,
-			"version": 27,
-			"versionNonce": 1826781469,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724437206734,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.1550861118743114,
-					1.1550861118739704
-				],
-				[
-					1.732629167811524,
-					3.4652583356228206
-				],
-				[
-					4.042801391560033,
-					7.508059727182626
-				],
-				[
-					6.352973615308656,
-					10.973318062805447
-				],
-				[
-					7.508059727182967,
-					12.128404174679417
-				],
-				[
-					8.085602783120066,
-					12.705947230617312
-				],
-				[
-					8.085602783120066,
-					13.283490286554297
-				],
-				[
-					10.39577500686869,
-					16.171205566240133
-				],
-				[
-					10.973318062805788,
-					19.05892084592506
-				],
-				[
-					10.973318062805788,
-					19.636463901862953
-				],
-				[
-					11.550861118743,
-					20.21400695779994
-				],
-				[
-					14.438576398428722,
-					21.36909306967391
-				],
-				[
-					16.748748622177345,
-					24.256808349359744
-				],
-				[
-					15.593662510303034,
-					22.52417918154879
-				],
-				[
-					13.28349028655441,
-					20.791550013736924
-				],
-				[
-					13.28349028655441,
-					20.21400695779994
-				],
-				[
-					12.128404174680213,
-					16.748748622177118
-				],
-				[
-					11.550861118743,
-					16.171205566240133
-				],
-				[
-					11.550861118743,
-					15.593662510302238
-				],
-				[
-					11.550861118743,
-					15.016119454365253
-				],
-				[
-					11.550861118743,
-					14.438576398428268
-				],
-				[
-					10.973318062805788,
-					13.283490286554297
-				],
-				[
-					10.973318062805788,
-					13.283490286554297
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				10.973318062805788,
-				13.283490286554297
-			]
-		},
-		{
-			"id": "JouEyEscJQCFO2tP8FgQG",
-			"type": "freedraw",
-			"x": 789.6412852034478,
-			"y": -4697.863148288383,
-			"width": 63.52973615308633,
-			"height": 35.2301264121661,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b0k",
-			"roundness": null,
-			"seed": 595881277,
-			"version": 43,
-			"versionNonce": 1792710845,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724437206519,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1.1550861118739704
-				],
-				[
-					0,
-					-2.3101722237488502
-				],
-				[
-					0,
-					-5.197887503434686
-				],
-				[
-					0,
-					-6.930516671245641
-				],
-				[
-					0.5775430559372126,
-					-9.240688894994491
-				],
-				[
-					3.4652583356228206,
-					-12.705947230617312
-				],
-				[
-					6.352973615308656,
-					-16.171205566240133
-				],
-				[
-					9.240688894994378,
-					-19.636463901862953
-				],
-				[
-					12.1284041746801,
-					-21.946636125611803
-				],
-				[
-					13.28349028655441,
-					-22.52417918154879
-				],
-				[
-					14.438576398428722,
-					-23.101722237485774
-				],
-				[
-					15.016119454365935,
-					-23.101722237485774
-				],
-				[
-					16.171205566240133,
-					-22.52417918154879
-				],
-				[
-					20.214006957800166,
-					-19.058920845925968
-				],
-				[
-					28.299609740920232,
-					-10.395775006868462
-				],
-				[
-					31.187325020606067,
-					-6.352973615308656
-				],
-				[
-					31.764868076543166,
-					-3.4652583356228206
-				],
-				[
-					31.764868076543166,
-					-0.5775430559369852
-				],
-				[
-					31.187325020606067,
-					2.8877152796858354
-				],
-				[
-					28.877152796857445,
-					6.352973615308656
-				],
-				[
-					25.411894461234624,
-					10.395775006868462
-				],
-				[
-					24.83435140529741,
-					12.128404174680327
-				],
-				[
-					23.101722237486,
-					12.128404174680327
-				],
-				[
-					21.946636125611576,
-					12.128404174680327
-				],
-				[
-					20.79155001373738,
-					12.128404174680327
-				],
-				[
-					21.946636125611576,
-					10.395775006868462
-				],
-				[
-					24.2568083493602,
-					8.085602783120521
-				],
-				[
-					27.144523629046034,
-					6.930516671245641
-				],
-				[
-					30.032238908731756,
-					5.775430559371671
-				],
-				[
-					33.49749724435469,
-					5.775430559371671
-				],
-				[
-					35.80766946810331,
-					5.775430559371671
-				],
-				[
-					41.58310002747476,
-					6.930516671245641
-				],
-				[
-					48.51361669872051,
-					8.663145839057506
-				],
-				[
-					54.86659031402917,
-					9.818231950931477
-				],
-				[
-					60.06447781746351,
-					10.395775006868462
-				],
-				[
-					62.952193097149234,
-					12.128404174680327
-				],
-				[
-					63.52973615308633,
-					12.128404174680327
-				],
-				[
-					61.79710698527492,
-					10.973318062806356
-				],
-				[
-					61.79710698527492,
-					10.973318062806356
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				61.79710698527492,
-				10.973318062806356
-			]
-		},
-		{
-			"id": "3kgndrKTMoz-YWN7mTL29",
-			"type": "freedraw",
-			"x": 830.6468421749853,
-			"y": -4730.7831024768,
-			"width": 24.83435140529741,
-			"height": 5.197887503433776,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b0l",
-			"roundness": null,
-			"seed": 1562478515,
-			"version": 11,
-			"versionNonce": 138816605,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724437206295,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					0.5775430559369852
-				],
-				[
-					3.4652583356229343,
-					1.1550861118739704
-				],
-				[
-					7.508059727182967,
-					1.1550861118739704
-				],
-				[
-					16.748748622177345,
-					-0.5775430559369852
-				],
-				[
-					23.679265293423214,
-					-2.8877152796858354
-				],
-				[
-					24.83435140529741,
-					-4.042801391559806
-				],
-				[
-					24.83435140529741,
-					-4.042801391559806
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				24.83435140529741,
-				-4.042801391559806
-			]
-		},
-		{
-			"id": "EfJzQosMkzjJ8Yi8EKrzx",
-			"type": "freedraw",
-			"x": -190.7306709822833,
-			"y": -3010.297434552514,
-			"width": 50.97839474078978,
-			"height": 29.130511280451174,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b1G",
-			"roundness": null,
-			"seed": 125965853,
-			"version": 88,
-			"versionNonce": 1763263987,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724438265430,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					0.6620570745558325
-				],
-				[
-					1.3241141491114377,
-					0.6620570745558325
-				],
-				[
-					2.6482282982228753,
-					0.6620570745558325
-				],
-				[
-					3.972342447334313,
-					0
-				],
-				[
-					5.296456596445694,
-					-0.6620570745558325
-				],
-				[
-					6.620570745557131,
-					-1.324114149111665
-				],
-				[
-					9.930856118335669,
-					-3.9723424473345403
-				],
-				[
-					10.592913192891388,
-					-4.634399521889918
-				],
-				[
-					11.917027342002825,
-					-6.620570745556961
-				],
-				[
-					11.917027342002825,
-					-7.944684894668626
-				],
-				[
-					11.917027342002825,
-					-9.268799043779836
-				],
-				[
-					11.917027342002825,
-					-11.254970267447334
-				],
-				[
-					11.917027342002825,
-					-11.917027342002712
-				],
-				[
-					11.254970267447106,
-					-12.579084416558544
-				],
-				[
-					10.592913192891388,
-					-13.903198565669754
-				],
-				[
-					9.930856118335669,
-					-14.565255640225587
-				],
-				[
-					9.26879904377995,
-					-15.22731271478142
-				],
-				[
-					8.606741969224288,
-					-15.889369789337252
-				],
-				[
-					7.28262782011285,
-					-17.875541013004295
-				],
-				[
-					5.958513671001413,
-					-18.537598087560127
-				],
-				[
-					4.634399521889975,
-					-19.199655162115505
-				],
-				[
-					3.972342447334313,
-					-19.199655162115505
-				],
-				[
-					2.6482282982228753,
-					-19.199655162115505
-				],
-				[
-					1.9861712236671565,
-					-19.199655162115505
-				],
-				[
-					0.6620570745557188,
-					-19.199655162115505
-				],
-				[
-					-1.3241141491113808,
-					-19.199655162115505
-				],
-				[
-					-2.6482282982228185,
-					-19.861712236671337
-				],
-				[
-					-4.634399521889975,
-					-19.861712236671337
-				],
-				[
-					-6.620570745557075,
-					-20.52376931122717
-				],
-				[
-					-7.944684894668512,
-					-21.185826385783002
-				],
-				[
-					-8.606741969224231,
-					-21.185826385783002
-				],
-				[
-					-9.26879904377995,
-					-21.84788346033838
-				],
-				[
-					-10.592913192891388,
-					-22.509940534894213
-				],
-				[
-					-11.25497026744705,
-					-22.509940534894213
-				],
-				[
-					-11.917027342002768,
-					-22.509940534894213
-				],
-				[
-					-11.917027342002768,
-					-23.171997609450045
-				],
-				[
-					-12.579084416558487,
-					-23.171997609450045
-				],
-				[
-					-13.241141491114206,
-					-23.834054684005878
-				],
-				[
-					-13.903198565669925,
-					-24.496111758561256
-				],
-				[
-					-14.565255640225644,
-					-25.158168833117088
-				],
-				[
-					-15.889369789337024,
-					-25.82022590767292
-				],
-				[
-					-16.551426863892743,
-					-25.82022590767292
-				],
-				[
-					-16.551426863892743,
-					-26.4822829822283
-				],
-				[
-					-17.87554101300418,
-					-26.4822829822283
-				],
-				[
-					-18.5375980875599,
-					-26.4822829822283
-				],
-				[
-					-21.18582638578272,
-					-26.4822829822283
-				],
-				[
-					-23.171997609449875,
-					-24.496111758561256
-				],
-				[
-					-25.82022590767272,
-					-22.509940534894213
-				],
-				[
-					-29.792568355006978,
-					-21.84788346033838
-				],
-				[
-					-31.778739578674134,
-					-20.52376931122717
-				],
-				[
-					-33.76491080234126,
-					-19.199655162115505
-				],
-				[
-					-34.42696787689698,
-					-19.199655162115505
-				],
-				[
-					-35.75108202600839,
-					-17.213483938448462
-				],
-				[
-					-36.41313910056411,
-					-15.889369789337252
-				],
-				[
-					-37.07519617511983,
-					-15.889369789337252
-				],
-				[
-					-37.07519617511983,
-					-14.565255640225587
-				],
-				[
-					-37.73725324967552,
-					-13.903198565669754
-				],
-				[
-					-37.73725324967552,
-					-13.241141491114377
-				],
-				[
-					-39.061367398786956,
-					-12.579084416558544
-				],
-				[
-					-39.061367398786956,
-					-11.917027342002712
-				],
-				[
-					-39.061367398786956,
-					-11.254970267447334
-				],
-				[
-					-39.061367398786956,
-					-10.592913192891501
-				],
-				[
-					-39.061367398786956,
-					-9.930856118335669
-				],
-				[
-					-39.061367398786956,
-					-8.606741969224458
-				],
-				[
-					-39.061367398786956,
-					-7.282627820112793
-				],
-				[
-					-37.73725324967552,
-					-6.620570745556961
-				],
-				[
-					-37.07519617511983,
-					-5.296456596445751
-				],
-				[
-					-35.75108202600839,
-					-4.634399521889918
-				],
-				[
-					-35.75108202600839,
-					-3.9723424473345403
-				],
-				[
-					-35.08902495145267,
-					-3.310285372778708
-				],
-				[
-					-35.08902495145267,
-					-2.6482282982228753
-				],
-				[
-					-34.42696787689698,
-					-2.6482282982228753
-				],
-				[
-					-33.10285372778554,
-					-1.9861712236670428
-				],
-				[
-					-32.440796653229825,
-					-1.324114149111665
-				],
-				[
-					-31.116682504118415,
-					-0.6620570745558325
-				],
-				[
-					-30.454625429562697,
-					-0.6620570745558325
-				],
-				[
-					-29.792568355006978,
-					0
-				],
-				[
-					-29.130511280451287,
-					0
-				],
-				[
-					-27.80639713133985,
-					0.6620570745558325
-				],
-				[
-					-27.14434005678413,
-					0.6620570745558325
-				],
-				[
-					-25.82022590767272,
-					1.9861712236670428
-				],
-				[
-					-25.158168833117003,
-					1.9861712236670428
-				],
-				[
-					-24.496111758561312,
-					2.6482282982228753
-				],
-				[
-					-24.496111758561312,
-					2.6482282982228753
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-24.496111758561312,
-				2.6482282982228753
-			]
-		},
-		{
-			"id": "pOyOmLrZEUR87nx5qAO4Q",
-			"type": "freedraw",
-			"x": -239.72289449940592,
-			"y": -1686.1832854410948,
-			"width": 107.91530315258092,
-			"height": 74.8124494247952,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b1f",
-			"roundness": null,
-			"seed": 129457395,
-			"version": 114,
-			"versionNonce": 2106191069,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724438700678,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					0.6620570745556051
-				],
-				[
-					0.6620570745557188,
-					1.9861712236670428
-				],
-				[
-					5.958513671001413,
-					1.9861712236670428
-				],
-				[
-					10.592913192891388,
-					2.6482282982228753
-				],
-				[
-					12.579084416558516,
-					2.6482282982228753
-				],
-				[
-					17.87554101300421,
-					3.3102853727784805
-				],
-				[
-					22.509940534894184,
-					3.3102853727784805
-				],
-				[
-					29.792568355007006,
-					3.3102853727784805
-				],
-				[
-					31.116682504118444,
-					3.3102853727784805
-				],
-				[
-					35.75108202600842,
-					3.3102853727784805
-				],
-				[
-					39.061367398786956,
-					3.3102853727784805
-				],
-				[
-					41.04753862245411,
-					3.3102853727784805
-				],
-				[
-					43.03370984612127,
-					2.6482282982228753
-				],
-				[
-					45.01988106978837,
-					1.9861712236670428
-				],
-				[
-					45.68193814434409,
-					1.9861712236670428
-				],
-				[
-					47.668109368011244,
-					1.9861712236670428
-				],
-				[
-					50.31633766623406,
-					1.9861712236670428
-				],
-				[
-					52.30250888990122,
-					1.9861712236670428
-				],
-				[
-					54.95073718812404,
-					0.6620570745556051
-				],
-				[
-					59.58513671001401,
-					-1.3241141491114377
-				],
-				[
-					64.21953623190399,
-					-2.6482282982228753
-				],
-				[
-					68.1918786792383,
-					-3.3102853727784805
-				],
-				[
-					70.84010697746112,
-					-3.972342447334313
-				],
-				[
-					74.81244942479537,
-					-5.958513671001356
-				],
-				[
-					77.46067772301825,
-					-7.282627820112793
-				],
-				[
-					78.78479187212963,
-					-7.282627820112793
-				],
-				[
-					80.10890602124107,
-					-7.282627820112793
-				],
-				[
-					80.77096309579679,
-					-7.944684894668626
-				],
-				[
-					82.09507724490823,
-					-8.606741969224231
-				],
-				[
-					83.4191913940196,
-					-9.268799043780064
-				],
-				[
-					84.08124846857532,
-					-9.268799043780064
-				],
-				[
-					84.74330554313104,
-					-9.930856118335669
-				],
-				[
-					85.40536261768676,
-					-10.592913192891274
-				],
-				[
-					86.06741969224248,
-					-11.917027342002712
-				],
-				[
-					86.7294767667982,
-					-12.579084416558544
-				],
-				[
-					88.05359091590964,
-					-13.24114149111415
-				],
-				[
-					88.05359091590964,
-					-13.903198565669982
-				],
-				[
-					88.7156479904653,
-					-14.565255640225587
-				],
-				[
-					89.37770506502102,
-					-16.551426863892857
-				],
-				[
-					89.37770506502102,
-					-19.199655162115732
-				],
-				[
-					89.37770506502102,
-					-21.185826385782775
-				],
-				[
-					89.37770506502102,
-					-23.83405468400565
-				],
-				[
-					89.37770506502102,
-					-26.482282982228526
-				],
-				[
-					89.37770506502102,
-					-27.806397131339963
-				],
-				[
-					89.37770506502102,
-					-31.116682504118444
-				],
-				[
-					89.37770506502102,
-					-33.76491080234132
-				],
-				[
-					89.37770506502102,
-					-35.75108202600836
-				],
-				[
-					89.37770506502102,
-					-38.39931032423124
-				],
-				[
-					89.37770506502102,
-					-39.723424473342675
-				],
-				[
-					89.37770506502102,
-					-41.04753862245411
-				],
-				[
-					89.37770506502102,
-					-44.35782399523259
-				],
-				[
-					89.37770506502102,
-					-45.68193814434403
-				],
-				[
-					89.37770506502102,
-					-48.99222351712274
-				],
-				[
-					89.37770506502102,
-					-50.97839474078978
-				],
-				[
-					89.37770506502102,
-					-52.964565964456824
-				],
-				[
-					89.37770506502102,
-					-56.27485133723553
-				],
-				[
-					89.37770506502102,
-					-57.59896548634697
-				],
-				[
-					89.37770506502102,
-					-60.24719378456962
-				],
-				[
-					88.7156479904653,
-					-62.23336500823689
-				],
-				[
-					88.7156479904653,
-					-63.557479157348325
-				],
-				[
-					87.39153384135392,
-					-64.88159330645976
-				],
-				[
-					86.7294767667982,
-					-66.2057074555712
-				],
-				[
-					86.06741969224248,
-					-66.8677645301268
-				],
-				[
-					84.74330554313104,
-					-68.19187867923824
-				],
-				[
-					83.4191913940196,
-					-68.85393575379408
-				],
-				[
-					82.09507724490823,
-					-68.85393575379408
-				],
-				[
-					79.44684894668535,
-					-70.17804990290529
-				],
-				[
-					74.81244942479537,
-					-70.84010697746112
-				],
-				[
-					68.1918786792383,
-					-70.84010697746112
-				],
-				[
-					62.89542208279261,
-					-71.50216405201672
-				],
-				[
-					56.274851337235475,
-					-71.50216405201672
-				],
-				[
-					50.31633766623406,
-					-71.50216405201672
-				],
-				[
-					43.69576692067693,
-					-71.50216405201672
-				],
-				[
-					37.075196175119856,
-					-71.50216405201672
-				],
-				[
-					25.82022590767275,
-					-71.50216405201672
-				],
-				[
-					20.523769311227056,
-					-71.50216405201672
-				],
-				[
-					13.903198565669953,
-					-70.84010697746112
-				],
-				[
-					9.268799043779978,
-					-70.17804990290529
-				],
-				[
-					5.296456596445694,
-					-68.19187867923824
-				],
-				[
-					2.648228298222847,
-					-66.8677645301268
-				],
-				[
-					-0.6620570745557188,
-					-66.2057074555712
-				],
-				[
-					-3.972342447334256,
-					-65.54365038101537
-				],
-				[
-					-7.282627820112822,
-					-64.21953623190393
-				],
-				[
-					-10.592913192891388,
-					-62.89542208279249
-				],
-				[
-					-14.565255640225644,
-					-62.23336500823689
-				],
-				[
-					-15.227312714781363,
-					-61.571307933681055
-				],
-				[
-					-16.551426863892743,
-					-60.24719378456962
-				],
-				[
-					-17.213483938448462,
-					-58.261022560902575
-				],
-				[
-					-17.87554101300418,
-					-56.93690841179114
-				],
-				[
-					-18.5375980875599,
-					-55.6127942626797
-				],
-				[
-					-18.5375980875599,
-					-53.62662303901266
-				],
-				[
-					-18.5375980875599,
-					-52.30250888990122
-				],
-				[
-					-18.5375980875599,
-					-48.99222351712274
-				],
-				[
-					-18.5375980875599,
-					-47.00605229345547
-				],
-				[
-					-18.5375980875599,
-					-45.68193814434403
-				],
-				[
-					-17.87554101300418,
-					-42.37165277156555
-				],
-				[
-					-17.213483938448462,
-					-39.723424473342675
-				],
-				[
-					-17.213483938448462,
-					-38.39931032423124
-				],
-				[
-					-17.213483938448462,
-					-37.73725324967563
-				],
-				[
-					-17.213483938448462,
-					-37.0751961751198
-				],
-				[
-					-16.551426863892743,
-					-35.75108202600836
-				],
-				[
-					-16.551426863892743,
-					-35.08902495145276
-				],
-				[
-					-16.551426863892743,
-					-34.426967876896924
-				],
-				[
-					-15.889369789337053,
-					-33.76491080234132
-				],
-				[
-					-14.565255640225644,
-					-33.10285372778549
-				],
-				[
-					-13.241141491114234,
-					-32.44079665322988
-				],
-				[
-					-11.917027342002797,
-					-32.44079665322988
-				],
-				[
-					-10.592913192891388,
-					-31.77873957867405
-				],
-				[
-					-4.634399521889975,
-					-29.792568355007006
-				],
-				[
-					-4.634399521889975,
-					-29.792568355007006
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-4.634399521889975,
-				-29.792568355007006
-			]
-		},
-		{
-			"id": "InxJJ8nflMKD4g1dKu-GD",
-			"type": "freedraw",
-			"x": -156.96576017994198,
-			"y": -1724.582595765326,
-			"width": 9.26879904377995,
-			"height": 9.930856118335669,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b1g",
-			"roundness": null,
-			"seed": 798763453,
-			"version": 11,
-			"versionNonce": 173376637,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724438700335,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1.9861712236672702
-				],
-				[
-					0.662057074555662,
-					-3.310285372778708
-				],
-				[
-					3.3102853727785373,
-					-4.6343995218901455
-				],
-				[
-					7.282627820112793,
-					-7.944684894668626
-				],
-				[
-					9.26879904377995,
-					-9.268799043780064
-				],
-				[
-					9.26879904377995,
-					-9.930856118335669
-				],
-				[
-					9.26879904377995,
-					-9.930856118335669
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				9.26879904377995,
-				-9.930856118335669
-			]
-		},
-		{
-			"id": "gAOXlYli8W3AVxp8-RXZs",
-			"type": "freedraw",
-			"x": -152.331360658052,
-			"y": -1721.9343674671031,
-			"width": 11.25497026744705,
-			"height": 5.958513671001583,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b1h",
-			"roundness": null,
-			"seed": 640380723,
-			"version": 9,
-			"versionNonce": 698585117,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724438699670,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3.3102853727785373,
-					-1.324114149111665
-				],
-				[
-					7.944684894668512,
-					-3.310285372778708
-				],
-				[
-					10.592913192891388,
-					-5.296456596445751
-				],
-				[
-					11.25497026744705,
-					-5.958513671001583
-				],
-				[
-					11.25497026744705,
-					-5.958513671001583
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				11.25497026744705,
-				-5.958513671001583
-			]
-		},
-		{
-			"id": "4R1SBQncNEPHGz4lwTRmH",
-			"type": "freedraw",
-			"x": -241.04700864851733,
-			"y": -1723.2584816162148,
-			"width": 80.10890602124104,
-			"height": 2.6482282982228753,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b1i",
-			"roundness": null,
-			"seed": 1804605853,
-			"version": 36,
-			"versionNonce": 217389149,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724438895630,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.3241141491114092,
-					0
-				],
-				[
-					6.620570745557103,
-					-1.3241141491112103
-				],
-				[
-					14.565255640225644,
-					-1.3241141491112103
-				],
-				[
-					19.861712236671337,
-					-1.3241141491112103
-				],
-				[
-					23.834054684005594,
-					-1.3241141491112103
-				],
-				[
-					27.14434005678416,
-					-1.3241141491112103
-				],
-				[
-					28.468454205895597,
-					-1.9861712236670428
-				],
-				[
-					29.130511280451316,
-					-1.9861712236670428
-				],
-				[
-					29.792568355006978,
-					-1.9861712236670428
-				],
-				[
-					31.116682504118415,
-					-1.9861712236670428
-				],
-				[
-					31.778739578674134,
-					-1.9861712236670428
-				],
-				[
-					34.42696787689701,
-					-1.9861712236670428
-				],
-				[
-					37.73725324967555,
-					-1.9861712236670428
-				],
-				[
-					39.72342447334265,
-					-1.9861712236670428
-				],
-				[
-					41.7095956970098,
-					-1.9861712236670428
-				],
-				[
-					45.01988106978834,
-					-1.9861712236670428
-				],
-				[
-					47.668109368011216,
-					-1.9861712236670428
-				],
-				[
-					50.316337666234034,
-					-1.9861712236670428
-				],
-				[
-					52.96456596445691,
-					-1.9861712236670428
-				],
-				[
-					53.62662303901263,
-					-1.9861712236670428
-				],
-				[
-					54.95073718812401,
-					-1.9861712236670428
-				],
-				[
-					56.936908411791165,
-					-1.9861712236670428
-				],
-				[
-					60.2471937845697,
-					-1.9861712236670428
-				],
-				[
-					62.89542208279258,
-					-1.3241141491112103
-				],
-				[
-					67.52982160468255,
-					0
-				],
-				[
-					70.17804990290537,
-					0
-				],
-				[
-					74.15039235023968,
-					0.6620570745558325
-				],
-				[
-					76.7986206484625,
-					0.6620570745558325
-				],
-				[
-					78.12273479757394,
-					0.6620570745558325
-				],
-				[
-					78.78479187212966,
-					0.6620570745558325
-				],
-				[
-					80.10890602124104,
-					0.6620570745558325
-				],
-				[
-					80.10890602124104,
-					0.6620570745558325
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				80.10890602124104,
-				0.6620570745558325
-			]
-		},
-		{
-			"id": "hsqEkpu4HD2Q_h5sL2iBw",
-			"type": "freedraw",
-			"x": -199.99947002606325,
-			"y": -1689.4935708138732,
-			"width": 5.296456596445694,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b1j",
-			"roundness": null,
-			"seed": 374029811,
-			"version": 8,
-			"versionNonce": 1408158557,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724438732807,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.9861712236671565,
-					0
-				],
-				[
-					4.634399521889975,
-					0
-				],
-				[
-					5.296456596445694,
-					0
-				],
-				[
-					5.296456596445694,
-					0
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				5.296456596445694,
-				0
-			]
-		},
-		{
-			"id": "1l8vN3hd1145yP5H2jdFP",
-			"type": "freedraw",
-			"x": -154.97958895627488,
-			"y": -1710.0173401251004,
-			"width": 11.254970267447106,
-			"height": 11.917027342002712,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b1k",
-			"roundness": null,
-			"seed": 1071455485,
-			"version": 45,
-			"versionNonce": 1871983357,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724438732461,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1.3241141491114377,
-					0
-				],
-				[
-					-1.9861712236670996,
-					0
-				],
-				[
-					-2.6482282982228185,
-					0
-				],
-				[
-					-3.3102853727785373,
-					0
-				],
-				[
-					-4.634399521889975,
-					0
-				],
-				[
-					-5.296456596445694,
-					0
-				],
-				[
-					-5.958513671001413,
-					0
-				],
-				[
-					-7.282627820112793,
-					0
-				],
-				[
-					-7.944684894668512,
-					0
-				],
-				[
-					-8.606741969224231,
-					0.6620570745558325
-				],
-				[
-					-9.26879904377995,
-					0.6620570745558325
-				],
-				[
-					-9.930856118335669,
-					0.6620570745558325
-				],
-				[
-					-10.592913192891388,
-					1.3241141491114377
-				],
-				[
-					-11.254970267447106,
-					1.9861712236670428
-				],
-				[
-					-11.254970267447106,
-					3.3102853727784805
-				],
-				[
-					-11.254970267447106,
-					4.634399521889918
-				],
-				[
-					-11.254970267447106,
-					7.282627820112793
-				],
-				[
-					-11.254970267447106,
-					7.944684894668626
-				],
-				[
-					-11.254970267447106,
-					8.606741969224231
-				],
-				[
-					-11.254970267447106,
-					9.268799043779836
-				],
-				[
-					-11.254970267447106,
-					9.930856118335669
-				],
-				[
-					-10.592913192891388,
-					10.592913192891501
-				],
-				[
-					-9.26879904377995,
-					11.254970267447106
-				],
-				[
-					-8.606741969224231,
-					11.254970267447106
-				],
-				[
-					-7.944684894668512,
-					11.917027342002712
-				],
-				[
-					-7.282627820112793,
-					11.917027342002712
-				],
-				[
-					-6.620570745557075,
-					11.917027342002712
-				],
-				[
-					-5.958513671001413,
-					11.917027342002712
-				],
-				[
-					-5.296456596445694,
-					11.917027342002712
-				],
-				[
-					-4.634399521889975,
-					10.592913192891501
-				],
-				[
-					-3.972342447334256,
-					9.930856118335669
-				],
-				[
-					-3.3102853727785373,
-					9.268799043779836
-				],
-				[
-					-2.6482282982228185,
-					8.606741969224231
-				],
-				[
-					-2.6482282982228185,
-					7.282627820112793
-				],
-				[
-					-2.6482282982228185,
-					6.620570745556961
-				],
-				[
-					-1.9861712236670996,
-					4.634399521889918
-				],
-				[
-					-1.9861712236670996,
-					3.972342447334313
-				],
-				[
-					-1.9861712236670996,
-					3.3102853727784805
-				],
-				[
-					-1.9861712236670996,
-					1.9861712236670428
-				],
-				[
-					-1.9861712236670996,
-					1.3241141491114377
-				],
-				[
-					-1.9861712236670996,
-					1.3241141491114377
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-1.9861712236670996,
-				1.3241141491114377
-			]
-		},
-		{
-			"id": "8u0fsi5NL8Ky0txQdCMxj",
-			"type": "freedraw",
-			"x": -203.3097553988418,
-			"y": -1690.155627888429,
-			"width": 55.612794262679756,
-			"height": 24.496111758561256,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b1l",
-			"roundness": null,
-			"seed": 1768540979,
-			"version": 101,
-			"versionNonce": 1756761757,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724438732285,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.6620570745557188,
-					0
-				],
-				[
-					2.6482282982228185,
-					0
-				],
-				[
-					5.296456596445694,
-					0
-				],
-				[
-					7.944684894668512,
-					0
-				],
-				[
-					10.592913192891388,
-					0
-				],
-				[
-					13.241141491114206,
-					0.6620570745558325
-				],
-				[
-					15.227312714781363,
-					0.6620570745558325
-				],
-				[
-					18.5375980875599,
-					0.6620570745558325
-				],
-				[
-					23.171997609449875,
-					1.3241141491114377
-				],
-				[
-					25.82022590767275,
-					1.3241141491114377
-				],
-				[
-					27.80639713133985,
-					1.3241141491114377
-				],
-				[
-					28.46845420589557,
-					2.6482282982228753
-				],
-				[
-					29.130511280451287,
-					2.6482282982228753
-				],
-				[
-					30.454625429562725,
-					2.6482282982228753
-				],
-				[
-					31.116682504118444,
-					2.6482282982228753
-				],
-				[
-					33.76491080234126,
-					2.6482282982228753
-				],
-				[
-					36.41313910056414,
-					1.9861712236670428
-				],
-				[
-					41.04753862245411,
-					0.6620570745558325
-				],
-				[
-					46.343995218899806,
-					-0.6620570745558325
-				],
-				[
-					48.992223517122625,
-					-1.3241141491114377
-				],
-				[
-					49.654280591678344,
-					-1.9861712236670428
-				],
-				[
-					50.31633766623406,
-					-1.9861712236670428
-				],
-				[
-					50.97839474078978,
-					-2.6482282982228753
-				],
-				[
-					51.6404518153455,
-					-3.310285372778708
-				],
-				[
-					52.30250888990116,
-					-5.958513671001356
-				],
-				[
-					53.6266230390126,
-					-5.958513671001356
-				],
-				[
-					53.6266230390126,
-					-6.620570745557188
-				],
-				[
-					53.6266230390126,
-					-7.282627820112793
-				],
-				[
-					54.28868011356832,
-					-7.944684894668626
-				],
-				[
-					54.28868011356832,
-					-9.930856118335669
-				],
-				[
-					54.28868011356832,
-					-10.592913192891501
-				],
-				[
-					54.28868011356832,
-					-11.254970267447106
-				],
-				[
-					54.28868011356832,
-					-11.917027342002712
-				],
-				[
-					54.28868011356832,
-					-13.241141491114377
-				],
-				[
-					54.28868011356832,
-					-14.565255640225587
-				],
-				[
-					53.6266230390126,
-					-15.889369789337024
-				],
-				[
-					52.96456596445688,
-					-17.875541013004295
-				],
-				[
-					52.30250888990116,
-					-19.199655162115505
-				],
-				[
-					51.6404518153455,
-					-19.861712236671337
-				],
-				[
-					50.97839474078978,
-					-21.185826385782775
-				],
-				[
-					50.31633766623406,
-					-21.84788346033838
-				],
-				[
-					49.654280591678344,
-					-21.84788346033838
-				],
-				[
-					48.992223517122625,
-					-21.84788346033838
-				],
-				[
-					48.330166442566906,
-					-21.84788346033838
-				],
-				[
-					47.00605229345547,
-					-21.84788346033838
-				],
-				[
-					44.35782399523265,
-					-21.84788346033838
-				],
-				[
-					42.37165277156549,
-					-21.84788346033838
-				],
-				[
-					37.0751961751198,
-					-21.84788346033838
-				],
-				[
-					33.76491080234126,
-					-21.84788346033838
-				],
-				[
-					29.792568355007006,
-					-21.84788346033838
-				],
-				[
-					27.14434005678413,
-					-21.84788346033838
-				],
-				[
-					23.171997609449875,
-					-21.84788346033838
-				],
-				[
-					21.185826385782775,
-					-21.84788346033838
-				],
-				[
-					18.5375980875599,
-					-21.84788346033838
-				],
-				[
-					15.889369789337081,
-					-21.84788346033838
-				],
-				[
-					13.241141491114206,
-					-21.84788346033838
-				],
-				[
-					12.579084416558487,
-					-21.84788346033838
-				],
-				[
-					11.917027342002768,
-					-21.84788346033838
-				],
-				[
-					11.254970267447106,
-					-21.84788346033838
-				],
-				[
-					9.930856118335669,
-					-21.84788346033838
-				],
-				[
-					9.26879904377995,
-					-21.84788346033838
-				],
-				[
-					8.606741969224231,
-					-21.84788346033838
-				],
-				[
-					7.944684894668512,
-					-21.84788346033838
-				],
-				[
-					6.620570745557131,
-					-21.84788346033838
-				],
-				[
-					5.958513671001413,
-					-21.84788346033838
-				],
-				[
-					4.634399521889975,
-					-21.84788346033838
-				],
-				[
-					3.972342447334256,
-					-21.84788346033838
-				],
-				[
-					3.3102853727785373,
-					-21.84788346033838
-				],
-				[
-					1.9861712236670996,
-					-21.185826385782775
-				],
-				[
-					0.6620570745557188,
-					-21.185826385782775
-				],
-				[
-					0,
-					-21.185826385782775
-				],
-				[
-					0,
-					-20.52376931122717
-				],
-				[
-					-0.6620570745557188,
-					-20.52376931122717
-				],
-				[
-					-0.6620570745557188,
-					-19.199655162115505
-				],
-				[
-					-1.3241141491114377,
-					-19.199655162115505
-				],
-				[
-					-1.3241141491114377,
-					-18.5375980875599
-				],
-				[
-					-1.3241141491114377,
-					-17.875541013004295
-				],
-				[
-					-1.3241141491114377,
-					-16.551426863892857
-				],
-				[
-					-1.3241141491114377,
-					-15.889369789337024
-				],
-				[
-					-1.3241141491114377,
-					-14.565255640225587
-				],
-				[
-					-1.3241141491114377,
-					-13.241141491114377
-				],
-				[
-					-1.3241141491114377,
-					-12.579084416558544
-				],
-				[
-					-1.3241141491114377,
-					-11.254970267447106
-				],
-				[
-					-0.6620570745557188,
-					-10.592913192891501
-				],
-				[
-					-0.6620570745557188,
-					-9.930856118335669
-				],
-				[
-					0,
-					-9.930856118335669
-				],
-				[
-					1.3241141491114377,
-					-9.268799043779836
-				],
-				[
-					1.9861712236670996,
-					-9.268799043779836
-				],
-				[
-					3.3102853727785373,
-					-8.606741969224231
-				],
-				[
-					3.972342447334256,
-					-7.944684894668626
-				],
-				[
-					5.296456596445694,
-					-7.282627820112793
-				],
-				[
-					5.958513671001413,
-					-6.620570745557188
-				],
-				[
-					7.282627820112793,
-					-6.620570745557188
-				],
-				[
-					7.282627820112793,
-					-5.958513671001356
-				],
-				[
-					7.944684894668512,
-					-5.958513671001356
-				],
-				[
-					8.606741969224231,
-					-5.958513671001356
-				],
-				[
-					8.606741969224231,
-					-5.958513671001356
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				8.606741969224231,
-				-5.958513671001356
-			]
-		},
-		{
-			"id": "1cXBmaT_8G6E8X1SO1gW-",
-			"type": "freedraw",
-			"x": -205.29592662250894,
-			"y": -1695.4520844848748,
-			"width": 74.15039235023966,
-			"height": 26.482282982228526,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b1m",
-			"roundness": null,
-			"seed": 370628541,
-			"version": 73,
-			"versionNonce": 1537517459,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724438760189,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.3241141491114377,
-					0
-				],
-				[
-					2.6482282982228753,
-					0
-				],
-				[
-					3.972342447334256,
-					0.6620570745558325
-				],
-				[
-					6.620570745557131,
-					0.6620570745558325
-				],
-				[
-					11.254970267447106,
-					0.6620570745558325
-				],
-				[
-					19.19965516211562,
-					0.6620570745558325
-				],
-				[
-					25.15816883311703,
-					2.6482282982228753
-				],
-				[
-					38.399310324231294,
-					3.972342447334313
-				],
-				[
-					54.95073718812404,
-					5.296456596445751
-				],
-				[
-					62.89542208279261,
-					5.296456596445751
-				],
-				[
-					68.1918786792383,
-					5.296456596445751
-				],
-				[
-					68.85393575379402,
-					5.296456596445751
-				],
-				[
-					69.51599282834968,
-					5.296456596445751
-				],
-				[
-					69.51599282834968,
-					3.310285372778708
-				],
-				[
-					69.51599282834968,
-					1.9861712236670428
-				],
-				[
-					69.51599282834968,
-					0
-				],
-				[
-					68.85393575379402,
-					-3.3102853727784805
-				],
-				[
-					66.20570745557114,
-					-5.958513671001356
-				],
-				[
-					64.21953623190399,
-					-7.944684894668626
-				],
-				[
-					62.23336500823689,
-					-9.930856118335669
-				],
-				[
-					58.92307963545835,
-					-11.917027342002712
-				],
-				[
-					56.936908411791194,
-					-13.24114149111415
-				],
-				[
-					54.28868011356832,
-					-13.903198565669754
-				],
-				[
-					51.6404518153455,
-					-15.889369789337024
-				],
-				[
-					50.31633766623406,
-					-17.213483938448462
-				],
-				[
-					47.668109368011244,
-					-17.213483938448462
-				],
-				[
-					47.668109368011244,
-					-17.875541013004295
-				],
-				[
-					46.343995218899806,
-					-18.5375980875599
-				],
-				[
-					45.01988106978837,
-					-19.199655162115505
-				],
-				[
-					43.03370984612127,
-					-19.199655162115505
-				],
-				[
-					40.385481547898394,
-					-19.199655162115505
-				],
-				[
-					37.075196175119856,
-					-19.199655162115505
-				],
-				[
-					34.42696787689698,
-					-19.199655162115505
-				],
-				[
-					31.116682504118444,
-					-19.199655162115505
-				],
-				[
-					28.468454205895625,
-					-19.861712236671337
-				],
-				[
-					24.496111758561312,
-					-21.185826385782775
-				],
-				[
-					21.185826385782775,
-					-21.185826385782775
-				],
-				[
-					19.861712236671337,
-					-21.185826385782775
-				],
-				[
-					18.537598087559957,
-					-21.185826385782775
-				],
-				[
-					17.21348393844852,
-					-21.185826385782775
-				],
-				[
-					15.889369789337081,
-					-21.185826385782775
-				],
-				[
-					15.227312714781363,
-					-21.185826385782775
-				],
-				[
-					13.903198565669925,
-					-20.523769311226943
-				],
-				[
-					12.579084416558544,
-					-20.523769311226943
-				],
-				[
-					11.254970267447106,
-					-19.861712236671337
-				],
-				[
-					9.930856118335669,
-					-19.861712236671337
-				],
-				[
-					7.944684894668569,
-					-19.861712236671337
-				],
-				[
-					5.296456596445694,
-					-19.861712236671337
-				],
-				[
-					3.310285372778594,
-					-19.861712236671337
-				],
-				[
-					2.6482282982228753,
-					-19.861712236671337
-				],
-				[
-					1.9861712236671565,
-					-19.199655162115505
-				],
-				[
-					0.6620570745557188,
-					-18.5375980875599
-				],
-				[
-					0,
-					-18.5375980875599
-				],
-				[
-					-2.6482282982228185,
-					-17.875541013004295
-				],
-				[
-					-3.3102853727785373,
-					-17.875541013004295
-				],
-				[
-					-3.972342447334256,
-					-17.213483938448462
-				],
-				[
-					-4.634399521889975,
-					-16.55142686389263
-				],
-				[
-					-4.634399521889975,
-					-15.889369789337024
-				],
-				[
-					-4.634399521889975,
-					-13.903198565669754
-				],
-				[
-					-4.634399521889975,
-					-11.917027342002712
-				],
-				[
-					-4.634399521889975,
-					-9.930856118335669
-				],
-				[
-					-3.972342447334256,
-					-8.606741969224231
-				],
-				[
-					-3.3102853727785373,
-					-6.620570745556961
-				],
-				[
-					-1.9861712236670996,
-					-5.958513671001356
-				],
-				[
-					-1.3241141491113808,
-					-4.634399521889918
-				],
-				[
-					0,
-					-4.634399521889918
-				],
-				[
-					0.6620570745557188,
-					-4.634399521889918
-				],
-				[
-					1.3241141491114377,
-					-4.634399521889918
-				],
-				[
-					1.3241141491114377,
-					-4.634399521889918
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				1.3241141491114377,
-				-4.634399521889918
-			]
-		},
-		{
-			"id": "p_xDQftxsj7tvX6NrW-3V",
-			"type": "freedraw",
-			"x": -231.11615253018167,
-			"y": -1695.4520844848748,
-			"width": 9.26879904377995,
-			"height": 1.9861712236670428,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b1n",
-			"roundness": null,
-			"seed": 645556723,
-			"version": 10,
-			"versionNonce": 648994291,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724438759878,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3.3102853727785373,
-					-0.6620570745556051
-				],
-				[
-					6.620570745557103,
-					-0.6620570745556051
-				],
-				[
-					7.282627820112822,
-					-1.3241141491114377
-				],
-				[
-					8.606741969224231,
-					-1.3241141491114377
-				],
-				[
-					9.26879904377995,
-					-1.9861712236670428
-				],
-				[
-					9.26879904377995,
-					-1.9861712236670428
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				9.26879904377995,
-				-1.9861712236670428
-			]
-		},
-		{
-			"id": "_ZtlvZ8rXsoa5DjRr4NYq",
-			"type": "freedraw",
-			"x": -225.81969593373597,
-			"y": -1693.4659132612078,
-			"width": 7.282627820112822,
-			"height": 0.6620570745556051,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b1o",
-			"roundness": null,
-			"seed": 562255293,
-			"version": 9,
-			"versionNonce": 693657683,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724438759558,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.648228298222847,
-					0
-				],
-				[
-					5.296456596445694,
-					0
-				],
-				[
-					5.958513671001384,
-					-0.6620570745556051
-				],
-				[
-					7.282627820112822,
-					-0.6620570745556051
-				],
-				[
-					7.282627820112822,
-					-0.6620570745556051
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				7.282627820112822,
-				-0.6620570745556051
-			]
-		},
-		{
-			"id": "75JX35nwZx6DEPJV5L4Tf",
-			"type": "freedraw",
-			"x": -225.81969593373597,
-			"y": -1692.803856186652,
-			"width": 10.59291319289136,
-			"height": 3.972342447334313,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b1p",
-			"roundness": null,
-			"seed": 753837043,
-			"version": 10,
-			"versionNonce": 1486532275,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724438759207,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.986171223667128,
-					0
-				],
-				[
-					3.972342447334256,
-					-0.6620570745558325
-				],
-				[
-					7.944684894668541,
-					-1.9861712236670428
-				],
-				[
-					9.930856118335669,
-					-2.6482282982228753
-				],
-				[
-					10.59291319289136,
-					-3.972342447334313
-				],
-				[
-					10.59291319289136,
-					-3.972342447334313
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				10.59291319289136,
-				-3.972342447334313
-			]
-		},
-		{
-			"id": "Bdhy0P17bV6oVTPiqUaPQ",
-			"type": "freedraw",
-			"x": -222.50941056095743,
-			"y": -1690.817684962985,
-			"width": 4.634399521890003,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b1q",
-			"roundness": null,
-			"seed": 532790205,
-			"version": 6,
-			"versionNonce": 715082003,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724438758990,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					4.634399521890003,
-					0
-				],
-				[
-					4.634399521890003,
-					0
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				4.634399521890003,
-				0
-			]
-		},
-		{
-			"id": "ZcUG6Snao7GV3D81fRCGJ",
-			"type": "freedraw",
-			"x": -224.49558178462456,
-			"y": -1694.1279703357634,
-			"width": 70.1780499029054,
-			"height": 24.496111758561256,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b1r",
 			"roundness": null,
-			"seed": 779107635,
-			"version": 56,
-			"versionNonce": 1759263795,
+			"seed": 19030,
+			"version": 3,
+			"versionNonce": 741789491,
+			"updated": 1724498252762,
 			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724438827342,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-0.6620570745556051
-				],
-				[
-					0.6620570745557188,
-					-1.3241141491114377
-				],
-				[
-					0.6620570745557188,
-					-2.6482282982228753
-				],
-				[
-					0.6620570745557188,
-					-3.972342447334313
-				],
-				[
-					1.986171223667128,
-					-7.944684894668399
-				],
-				[
-					2.648228298222847,
-					-10.592913192891274
-				],
-				[
-					2.648228298222847,
-					-11.917027342002712
-				],
-				[
-					3.3102853727785657,
-					-13.903198565669982
-				],
-				[
-					3.9723424473342845,
-					-15.227312714781192
-				],
-				[
-					4.634399521889975,
-					-15.889369789337024
-				],
-				[
-					5.296456596445694,
-					-16.551426863892857
-				],
-				[
-					5.958513671001413,
-					-16.551426863892857
-				],
-				[
-					7.282627820112822,
-					-16.551426863892857
-				],
-				[
-					11.254970267447106,
-					-17.213483938448462
-				],
-				[
-					13.241141491114206,
-					-17.213483938448462
-				],
-				[
-					20.523769311227056,
-					-17.213483938448462
-				],
-				[
-					26.48228298222847,
-					-17.213483938448462
-				],
-				[
-					30.454625429562725,
-					-17.213483938448462
-				],
-				[
-					37.075196175119856,
-					-17.213483938448462
-				],
-				[
-					41.70959569700983,
-					-17.213483938448462
-				],
-				[
-					45.68193814434409,
-					-17.213483938448462
-				],
-				[
-					50.31633766623406,
-					-17.213483938448462
-				],
-				[
-					54.28868011356832,
-					-17.213483938448462
-				],
-				[
-					58.92307963545829,
-					-17.213483938448462
-				],
-				[
-					60.24719378456973,
-					-17.213483938448462
-				],
-				[
-					61.57130793368117,
-					-17.213483938448462
-				],
-				[
-					62.23336500823689,
-					-15.227312714781192
-				],
-				[
-					64.8815933064597,
-					-12.579084416558544
-				],
-				[
-					66.86776453012686,
-					-8.606741969224231
-				],
-				[
-					68.85393575379396,
-					-5.958513671001356
-				],
-				[
-					69.51599282834968,
-					-3.972342447334313
-				],
-				[
-					70.1780499029054,
-					-3.972342447334313
-				],
-				[
-					70.1780499029054,
-					-2.6482282982228753
-				],
-				[
-					70.1780499029054,
-					-1.9861712236670428
-				],
-				[
-					68.19187867923824,
-					-0.6620570745556051
-				],
-				[
-					62.89542208279261,
-					2.6482282982228753
-				],
-				[
-					50.31633766623406,
-					5.296456596445751
-				],
-				[
-					36.41313910056414,
-					6.620570745557188
-				],
-				[
-					23.834054684005594,
-					7.282627820112793
-				],
-				[
-					15.889369789337081,
-					7.282627820112793
-				],
-				[
-					11.917027342002825,
-					7.282627820112793
-				],
-				[
-					11.254970267447106,
-					7.282627820112793
-				],
-				[
-					10.592913192891388,
-					7.282627820112793
-				],
-				[
-					9.930856118335669,
-					7.282627820112793
-				],
-				[
-					9.26879904377995,
-					7.282627820112793
-				],
-				[
-					8.60674196922426,
-					6.620570745557188
-				],
-				[
-					7.282627820112822,
-					5.296456596445751
-				],
-				[
-					5.958513671001413,
-					3.3102853727784805
-				],
-				[
-					5.296456596445694,
-					0
-				],
-				[
-					5.296456596445694,
-					-2.6482282982228753
-				],
-				[
-					5.296456596445694,
-					-5.958513671001356
-				],
-				[
-					5.296456596445694,
-					-5.958513671001356
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				5.296456596445694,
-				-5.958513671001356
-			]
-		},
-		{
-			"id": "ExzRUdzQZwDh3qqE00yrI",
-			"type": "freedraw",
-			"x": -255.61226428874298,
-			"y": -1701.4105981558762,
-			"width": 15.889369789337053,
-			"height": 9.930856118335669,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b1s",
-			"roundness": null,
-			"seed": 725832637,
-			"version": 14,
-			"versionNonce": 996443795,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724438827053,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3.972342447334256,
-					2.6482282982228753
-				],
-				[
-					5.296456596445665,
-					3.3102853727784805
-				],
-				[
-					6.620570745557103,
-					4.634399521889918
-				],
-				[
-					7.282627820112822,
-					4.634399521889918
-				],
-				[
-					8.606741969224231,
-					4.634399521889918
-				],
-				[
-					10.59291319289136,
-					1.9861712236672702
-				],
-				[
-					12.579084416558516,
-					-1.3241141491114377
-				],
-				[
-					14.565255640225644,
-					-3.972342447334313
-				],
-				[
-					15.889369789337053,
-					-5.296456596445751
-				],
-				[
-					15.889369789337053,
-					-5.296456596445751
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				15.889369789337053,
-				-5.296456596445751
-			]
-		},
-		{
-			"id": "KVC8eBGlvuxCzQ1uJcHeV",
-			"type": "freedraw",
-			"x": -216.55089688995602,
-			"y": -1688.8315137393176,
-			"width": 10.59291319289136,
-			"height": 2.6482282982228753,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b1t",
-			"roundness": null,
-			"seed": 2033102355,
-			"version": 9,
-			"versionNonce": 1086233843,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724438826704,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.6620570745557188,
-					0
-				],
-				[
-					3.9723424473342845,
-					-1.3241141491114377
-				],
-				[
-					9.930856118335697,
-					-1.9861712236672702
-				],
-				[
-					10.59291319289136,
-					-2.6482282982228753
-				],
-				[
-					10.59291319289136,
-					-2.6482282982228753
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				10.59291319289136,
-				-2.6482282982228753
-			]
-		},
-		{
-			"id": "sCcBr6448-sWY3RvQU-hZ",
-			"type": "freedraw",
-			"x": -205.29592662250894,
-			"y": -1685.5212283665392,
-			"width": 10.592913192891388,
-			"height": 3.9723424473340856,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b1u",
-			"roundness": null,
-			"seed": 905999165,
-			"version": 12,
-			"versionNonce": 36962131,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724438826493,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.6620570745557188,
-					0
-				],
-				[
-					2.6482282982228753,
-					-0.6620570745556051
-				],
-				[
-					5.296456596445694,
-					-1.9861712236670428
-				],
-				[
-					7.28262782011285,
-					-3.3102853727784805
-				],
-				[
-					8.606741969224288,
-					-3.9723424473340856
-				],
-				[
-					9.930856118335669,
-					-3.9723424473340856
-				],
-				[
-					10.592913192891388,
-					-3.9723424473340856
-				],
-				[
-					10.592913192891388,
-					-3.9723424473340856
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				10.592913192891388,
-				-3.9723424473340856
-			]
-		},
-		{
-			"id": "-zJob1GvNsIIErvA8txSX",
-			"type": "freedraw",
-			"x": -186.09627146039333,
-			"y": -1717.2999679452132,
-			"width": 42.37165277156549,
-			"height": 22.509940534894213,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "b1v",
-			"roundness": null,
-			"seed": 621559251,
-			"version": 53,
-			"versionNonce": 916463613,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724438895254,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.662057074555662,
-					-0.6620570745558325
-				],
-				[
-					-2.6482282982228185,
-					-1.3241141491114377
-				],
-				[
-					-3.972342447334256,
-					-1.3241141491114377
-				],
-				[
-					-6.620570745557075,
-					-1.9861712236670428
-				],
-				[
-					-9.26879904377995,
-					-2.6482282982228753
-				],
-				[
-					-11.917027342002768,
-					-2.6482282982228753
-				],
-				[
-					-14.565255640225644,
-					-2.6482282982228753
-				],
-				[
-					-15.227312714781363,
-					-2.6482282982228753
-				],
-				[
-					-15.889369789337024,
-					-2.6482282982228753
-				],
-				[
-					-19.19965516211562,
-					-2.6482282982228753
-				],
-				[
-					-24.496111758561312,
-					-2.6482282982228753
-				],
-				[
-					-27.14434005678413,
-					-1.9861712236670428
-				],
-				[
-					-29.130511280451287,
-					-1.3241141491114377
-				],
-				[
-					-29.792568355006978,
-					-1.3241141491114377
-				],
-				[
-					-31.116682504118415,
-					-0.6620570745558325
-				],
-				[
-					-31.116682504118415,
-					0
-				],
-				[
-					-32.440796653229825,
-					1.3241141491114377
-				],
-				[
-					-34.42696787689695,
-					4.634399521889918
-				],
-				[
-					-39.061367398786956,
-					7.944684894668626
-				],
-				[
-					-40.385481547898365,
-					9.930856118335669
-				],
-				[
-					-41.047538622454084,
-					10.592913192891274
-				],
-				[
-					-41.047538622454084,
-					13.24114149111415
-				],
-				[
-					-42.37165277156549,
-					13.24114149111415
-				],
-				[
-					-42.37165277156549,
-					13.903198565669754
-				],
-				[
-					-42.37165277156549,
-					14.565255640225587
-				],
-				[
-					-41.047538622454084,
-					15.22731271478142
-				],
-				[
-					-38.39931032423124,
-					17.213483938448462
-				],
-				[
-					-33.10285372778554,
-					17.875541013004295
-				],
-				[
-					-29.792568355006978,
-					19.199655162115505
-				],
-				[
-					-23.834054684005594,
-					19.861712236671337
-				],
-				[
-					-20.523769311227,
-					19.861712236671337
-				],
-				[
-					-17.213483938448462,
-					19.861712236671337
-				],
-				[
-					-14.565255640225644,
-					19.199655162115505
-				],
-				[
-					-11.917027342002768,
-					17.875541013004295
-				],
-				[
-					-10.59291319289133,
-					16.55142686389263
-				],
-				[
-					-8.606741969224231,
-					15.22731271478142
-				],
-				[
-					-7.282627820112793,
-					13.903198565669754
-				],
-				[
-					-6.620570745557075,
-					13.24114149111415
-				],
-				[
-					-5.958513671001356,
-					12.579084416558544
-				],
-				[
-					-5.958513671001356,
-					11.254970267447106
-				],
-				[
-					-5.958513671001356,
-					9.268799043779836
-				],
-				[
-					-5.958513671001356,
-					7.282627820112793
-				],
-				[
-					-7.282627820112793,
-					3.3102853727784805
-				],
-				[
-					-8.606741969224231,
-					0
-				],
-				[
-					-9.930856118335669,
-					-1.3241141491114377
-				],
-				[
-					-9.930856118335669,
-					-1.9861712236670428
-				],
-				[
-					-11.25497026744705,
-					-1.9861712236670428
-				],
-				[
-					-11.917027342002768,
-					-1.9861712236670428
-				],
-				[
-					-11.917027342002768,
-					-1.9861712236670428
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-11.917027342002768,
-				-1.9861712236670428
-			]
-		},
-		{
-			"id": "XQwrJLqFcJcT89n-4bmw2",
-			"type": "freedraw",
-			"x": -272.8257482271915,
-			"y": -311.75279866343726,
-			"width": 7.28262782011285,
-			"height": 11.917027342002768,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
 			"groupIds": [],
-			"frameId": null,
-			"index": "b2K",
-			"roundness": null,
-			"seed": 1672956211,
-			"version": 18,
-			"versionNonce": 1782988157,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724439428276,
-			"link": null,
+			"boundElements": [],
+			"link": "[[Titas Chapter 5.pdf]]",
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.6620570745557188,
-					0
-				],
-				[
-					2.6482282982228753,
-					0
-				],
-				[
-					3.972342447334313,
-					0.6620570745557188
-				],
-				[
-					5.296456596445751,
-					1.9861712236670996
-				],
-				[
-					5.9585136710014694,
-					2.6482282982228185
-				],
-				[
-					6.620570745557188,
-					2.6482282982228185
-				],
-				[
-					6.620570745557188,
-					3.3102853727785373
-				],
-				[
-					6.620570745557188,
-					4.634399521889918
-				],
-				[
-					7.28262782011285,
-					7.282627820112793
-				],
-				[
-					7.28262782011285,
-					9.26879904377995
-				],
-				[
-					7.28262782011285,
-					9.930856118335669
-				],
-				[
-					6.620570745557188,
-					11.25497026744705
-				],
-				[
-					6.620570745557188,
-					11.917027342002768
-				],
-				[
-					6.620570745557188,
-					11.917027342002768
-				]
+			"scale": [
+				1,
+				1
 			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				6.620570745557188,
-				11.917027342002768
-			]
+			"customData": {
+				"mdProps": {
+					"useObsidianDefaults": false,
+					"backgroundMatchCanvas": false,
+					"backgroundMatchElement": true,
+					"backgroundColor": "#fff",
+					"backgroundOpacity": 60,
+					"borderMatchElement": true,
+					"borderColor": "#fff",
+					"borderOpacity": 0,
+					"filenameVisible": false
+				}
+			},
+			"index": "b3Y"
 		}
 	],
 	"appState": {
@@ -33856,10 +23384,10 @@ a54d350184cf61871f62e2699af371d313f2c434: [[Titas Chapter 4.pdf#page=10]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 470.11875644479346,
-		"scrollY": -3181.2292927671256,
+		"scrollX": 397.7387071797775,
+		"scrollY": 5200.234375,
 		"zoom": {
-			"value": 1.5104437947001368
+			"value": 0.1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

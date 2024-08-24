@@ -1,5 +1,91 @@
 {
-  "nodes": [],
+  "nodes": [
+    {
+      "id": "edb2a1e99a655b29",
+      "type": "text",
+      "text": " Start / End",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center",
+        "border": null
+      },
+      "x": -310,
+      "y": -500,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "aff717f52d783b2d",
+      "type": "text",
+      "text": "Input / Output",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "x": -310,
+      "y": -420,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "88b9eddd850b2f7e",
+      "type": "text",
+      "text": "Process",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "x": -310,
+      "y": -340,
+      "width": 260,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "a6409a610a2d6bb6",
+      "type": "text",
+      "text": "Predefined Process",
+      "styleAttributes": {
+        "shape": "predefined-process",
+        "textAlign": "center"
+      },
+      "x": -310,
+      "y": -260,
+      "width": 260,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "dc6a32c7bd4c10fa",
+      "type": "text",
+      "text": "Decesion",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "x": -310,
+      "y": -180,
+      "width": 260,
+      "height": 100,
+      "color": "4"
+    },
+    {
+      "id": "a4611136d35c59c2",
+      "type": "text",
+      "text": "\n\nConnector",
+      "styleAttributes": {
+        "shape": "circle",
+        "textAlign": "center"
+      },
+      "x": -235,
+      "y": -60,
+      "width": 110,
+      "height": 100,
+      "color": "6"
+    }
+  ],
   "edges": [],
   "metadata": {}
 }
